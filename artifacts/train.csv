@@ -1,801 +1,1019 @@
-gender,race_ethnicity,parental_level_of_education,lunch,test_preparation_course,math_score,reading_score,writing_score
-male,group E,high school,standard,none,73,64,57
-female,group C,high school,free/reduced,none,66,76,68
-male,group D,some college,standard,none,40,42,38
-female,group B,some high school,standard,completed,65,82,78
-female,group D,bachelor's degree,free/reduced,none,62,72,74
-female,group C,associate's degree,free/reduced,none,65,77,74
-male,group E,associate's degree,free/reduced,completed,100,100,93
-male,group C,some high school,free/reduced,completed,45,52,49
-male,group E,some college,standard,none,76,71,72
-female,group D,some college,standard,none,69,74,74
-male,group D,high school,standard,completed,68,64,66
-male,group D,high school,standard,none,72,66,66
-male,group D,associate's degree,standard,completed,87,84,85
-female,group D,some high school,free/reduced,completed,69,86,81
-male,group A,high school,free/reduced,none,53,58,44
-male,group C,associate's degree,standard,none,49,51,43
-female,group C,associate's degree,free/reduced,completed,56,68,70
-female,group B,associate's degree,standard,completed,59,70,66
-male,group B,high school,standard,none,60,68,60
-male,group D,high school,standard,none,70,70,70
-male,group D,associate's degree,standard,none,80,75,69
-female,group B,associate's degree,free/reduced,completed,68,77,80
-female,group D,some high school,standard,none,73,84,85
-female,group B,associate's degree,standard,completed,94,87,92
-male,group B,high school,free/reduced,none,63,48,47
-female,group C,some college,standard,completed,88,93,93
-male,group A,some high school,free/reduced,none,55,46,43
-male,group B,high school,free/reduced,none,36,29,27
-male,group B,bachelor's degree,free/reduced,none,73,56,57
-male,group B,high school,standard,none,82,82,80
-male,group C,master's degree,free/reduced,completed,62,68,75
-female,group D,bachelor's degree,standard,none,79,89,89
-male,group B,some college,standard,completed,62,66,68
-female,group E,associate's degree,free/reduced,none,73,76,78
-female,group B,associate's degree,standard,none,73,83,76
-male,group E,some high school,standard,completed,77,76,77
-female,group E,some college,standard,completed,73,78,76
-male,group C,high school,standard,completed,72,67,64
-female,group E,some college,standard,none,62,73,70
-male,group C,associate's degree,free/reduced,completed,65,67,65
-female,group C,associate's degree,standard,none,40,59,51
-male,group D,some high school,standard,completed,62,66,68
-female,group E,some college,standard,none,67,76,75
-female,group C,high school,standard,none,60,68,72
-male,group C,high school,standard,none,81,66,64
-female,group C,associate's degree,standard,completed,57,77,80
-male,group C,some college,standard,none,53,44,42
-female,group D,high school,standard,none,45,63,59
-female,group D,associate's degree,free/reduced,completed,42,61,58
-male,group B,high school,standard,none,57,48,51
-male,group D,bachelor's degree,standard,none,75,73,74
-female,group B,high school,standard,none,87,95,86
-female,group A,high school,standard,completed,75,82,79
-male,group D,high school,standard,none,88,78,75
-female,group C,some high school,standard,completed,65,74,77
-male,group D,associate's degree,free/reduced,none,66,62,64
-female,group D,associate's degree,standard,none,77,77,73
-female,group B,high school,standard,none,42,52,51
-female,group B,some high school,free/reduced,none,72,81,79
-male,group C,master's degree,standard,none,79,78,77
-male,group D,master's degree,standard,none,81,81,84
-female,group C,some college,standard,none,55,69,65
-male,group C,associate's degree,standard,completed,73,78,72
-female,group E,associate's degree,standard,completed,82,85,86
-male,group C,associate's degree,standard,completed,82,75,77
-female,group B,high school,standard,none,62,62,63
-male,group C,associate's degree,standard,none,46,43,42
-male,group B,bachelor's degree,free/reduced,none,55,59,54
-male,group C,some high school,free/reduced,completed,51,56,53
-female,group D,master's degree,free/reduced,none,40,59,54
-male,group B,some college,standard,completed,71,75,70
-male,group D,some college,standard,none,68,59,62
-male,group C,master's degree,standard,none,67,57,59
-female,group D,high school,free/reduced,completed,65,61,71
-female,group D,associate's degree,free/reduced,completed,57,74,76
-male,group D,high school,standard,completed,55,41,48
-male,group D,high school,free/reduced,none,44,51,48
-female,group B,associate's degree,standard,none,58,63,65
-female,group D,some college,standard,none,80,90,89
-male,group C,high school,free/reduced,none,58,61,52
-male,group B,some college,free/reduced,completed,59,65,66
-female,group C,high school,standard,completed,60,64,74
-male,group B,master's degree,free/reduced,none,49,53,52
-male,group D,some high school,standard,completed,89,88,82
-female,group B,some college,free/reduced,completed,53,66,73
-male,group B,some high school,standard,completed,85,84,78
-male,group C,some college,free/reduced,none,58,57,54
-female,group B,high school,free/reduced,none,8,24,23
-male,group D,some college,standard,none,67,64,70
-female,group E,associate's degree,free/reduced,none,50,56,54
-male,group D,high school,standard,none,46,34,36
-female,group B,high school,free/reduced,none,71,87,82
-female,group E,master's degree,standard,completed,88,99,95
-female,group D,some college,free/reduced,completed,70,78,78
-female,group B,some high school,standard,none,62,64,66
-male,group B,high school,standard,completed,73,69,68
-female,group B,associate's degree,free/reduced,none,53,71,67
-male,group C,associate's degree,standard,completed,51,60,58
-male,group D,some high school,free/reduced,none,56,54,52
-female,group C,associate's degree,standard,completed,52,59,62
-female,group B,some college,standard,none,19,38,32
-male,group B,associate's degree,standard,completed,65,65,63
-female,group C,some college,standard,none,82,90,94
-male,group B,some college,free/reduced,none,54,54,45
-male,group B,associate's degree,standard,none,87,85,73
-male,group C,high school,standard,completed,69,58,53
-male,group C,some high school,free/reduced,completed,56,61,60
-female,group A,associate's degree,free/reduced,none,65,85,76
-male,group B,associate's degree,free/reduced,completed,82,78,74
-male,group A,associate's degree,free/reduced,none,62,61,55
-male,group B,some high school,standard,none,72,68,67
-female,group C,high school,free/reduced,none,35,61,54
-male,group C,master's degree,free/reduced,none,54,59,50
-female,group B,some college,free/reduced,none,74,81,76
-female,group C,high school,standard,none,81,84,82
-female,group B,master's degree,free/reduced,completed,77,97,94
-female,group C,associate's degree,standard,completed,68,86,84
-male,group C,some high school,free/reduced,completed,59,69,65
-male,group D,bachelor's degree,free/reduced,none,55,46,44
-female,group D,some college,free/reduced,none,64,74,75
-male,group C,bachelor's degree,standard,none,69,63,61
-male,group D,master's degree,standard,none,73,70,75
-male,group A,high school,standard,none,68,70,66
-male,group E,associate's degree,standard,completed,71,74,68
-female,group C,some college,free/reduced,none,35,44,43
-female,group D,associate's degree,standard,none,64,76,74
-female,group D,associate's degree,free/reduced,none,55,76,76
-female,group B,some college,free/reduced,none,61,68,66
-male,group A,high school,free/reduced,none,48,45,41
-male,group A,master's degree,free/reduced,none,73,74,72
-male,group B,associate's degree,free/reduced,none,61,58,56
-male,group D,master's degree,standard,none,85,84,89
-male,group E,some college,standard,none,83,80,73
-female,group D,some high school,standard,none,81,97,96
-female,group E,some high school,standard,completed,80,85,85
-male,group D,high school,free/reduced,completed,73,68,66
-male,group C,high school,standard,none,71,60,61
-female,group D,some high school,standard,completed,61,74,72
-male,group A,bachelor's degree,standard,none,66,64,62
-male,group E,bachelor's degree,standard,completed,70,64,70
-male,group B,associate's degree,standard,none,61,42,41
-female,group E,associate's degree,standard,completed,93,100,95
-male,group E,associate's degree,standard,none,87,74,76
-female,group D,some high school,standard,none,80,90,82
-male,group A,associate's degree,standard,completed,97,92,86
-male,group D,associate's degree,standard,none,80,63,63
-female,group D,bachelor's degree,standard,completed,71,76,83
-female,group C,bachelor's degree,free/reduced,none,44,63,62
-female,group B,high school,standard,completed,68,83,78
-female,group A,some college,free/reduced,none,49,65,55
-male,group E,some high school,standard,completed,74,64,60
-male,group B,associate's degree,standard,none,80,76,64
-female,group C,master's degree,standard,completed,81,91,87
-female,group D,some college,free/reduced,completed,67,86,83
-male,group C,high school,standard,none,90,75,69
-female,group D,high school,standard,none,69,77,73
-female,group C,associate's degree,free/reduced,none,53,61,62
-female,group C,associate's degree,standard,none,54,61,58
-female,group C,associate's degree,free/reduced,none,54,58,61
-male,group D,some college,standard,completed,85,81,85
-female,group A,high school,free/reduced,completed,53,50,60
-female,group E,some college,free/reduced,completed,75,88,85
-male,group C,high school,standard,none,61,56,55
-female,group C,high school,free/reduced,none,41,46,43
-male,group B,some high school,free/reduced,none,48,52,45
-female,group C,some college,standard,none,60,72,74
-female,group D,master's degree,standard,none,74,79,82
-male,group E,some high school,free/reduced,completed,78,83,80
-male,group E,some college,free/reduced,completed,87,74,70
-female,group D,high school,standard,completed,69,77,78
-female,group B,associate's degree,standard,none,73,76,80
-male,group C,some high school,standard,none,73,66,63
-female,group E,associate's degree,standard,none,66,65,69
-female,group C,high school,free/reduced,none,34,42,39
-female,group D,some college,free/reduced,none,49,65,61
-female,group D,associate's degree,free/reduced,none,47,53,58
-female,group C,high school,free/reduced,completed,50,66,64
-female,group B,associate's degree,free/reduced,none,53,70,70
-female,group C,high school,free/reduced,none,33,41,43
-male,group E,associate's degree,free/reduced,completed,77,69,68
-female,group B,bachelor's degree,standard,none,75,84,80
-male,group C,high school,standard,none,50,48,42
-female,group C,some college,standard,none,73,80,82
-female,group A,associate's degree,standard,completed,65,70,74
-female,group D,bachelor's degree,free/reduced,none,29,41,47
-male,group B,high school,standard,none,47,46,42
-female,group C,some high school,standard,completed,76,87,85
-male,group C,associate's degree,standard,none,76,70,68
-female,group E,high school,standard,completed,59,63,75
-female,group D,some high school,free/reduced,completed,35,55,60
-male,group E,some high school,standard,none,94,88,78
-male,group B,some high school,standard,completed,64,53,57
-male,group E,associate's degree,standard,none,76,71,67
-female,group C,bachelor's degree,standard,completed,92,100,99
-female,group D,associate's degree,standard,none,59,70,65
-female,group C,some college,standard,completed,69,90,88
-female,group D,some college,free/reduced,completed,58,63,73
-female,group D,bachelor's degree,standard,completed,68,75,81
-male,group E,high school,free/reduced,completed,86,81,75
-male,group C,associate's degree,free/reduced,none,73,68,66
-male,group C,associate's degree,standard,none,84,80,80
-female,group C,some high school,standard,completed,44,51,55
-male,group E,master's degree,standard,none,90,85,84
-female,group D,some high school,free/reduced,none,27,34,32
-female,group D,some high school,standard,none,65,82,81
-male,group D,some high school,standard,none,75,74,69
-male,group C,some high school,standard,none,51,52,44
-female,group B,some high school,standard,none,82,82,80
-female,group D,some college,standard,none,51,58,54
-male,group D,high school,standard,none,69,75,71
-female,group A,some high school,free/reduced,none,44,64,58
-male,group A,associate's degree,standard,none,54,53,47
-male,group A,high school,standard,none,71,74,64
-female,group C,some college,standard,completed,87,89,94
-female,group D,master's degree,free/reduced,completed,85,95,100
-male,group B,some high school,standard,completed,84,83,75
-male,group B,high school,free/reduced,none,30,24,15
-female,group D,some college,free/reduced,none,77,86,86
-male,group B,bachelor's degree,free/reduced,none,48,51,46
-male,group E,associate's degree,standard,completed,62,56,53
-male,group C,high school,free/reduced,none,27,34,36
-female,group C,some high school,standard,none,49,63,56
-male,group D,high school,standard,none,64,54,50
-male,group B,bachelor's degree,standard,none,66,60,57
-female,group A,some college,standard,none,54,63,67
-female,group C,some college,standard,none,72,72,71
-male,group B,high school,standard,completed,60,44,47
-male,group E,some college,standard,completed,84,83,78
-female,group C,some high school,free/reduced,completed,65,76,75
-male,group C,some high school,standard,none,62,64,55
-female,group C,some high school,free/reduced,completed,29,40,44
-male,group B,some college,standard,completed,87,84,86
-male,group C,some college,standard,completed,93,84,90
-male,group B,some high school,standard,completed,63,67,67
-male,group D,some college,standard,none,72,57,58
-female,group C,bachelor's degree,standard,none,65,72,74
-male,group D,associate's degree,standard,none,72,79,74
-male,group D,some high school,standard,completed,78,81,86
-female,group C,high school,standard,none,76,76,74
-female,group B,high school,free/reduced,none,60,72,68
-male,group A,bachelor's degree,standard,completed,80,78,81
-female,group C,associate's degree,free/reduced,none,64,73,68
-male,group C,master's degree,free/reduced,completed,72,66,72
-female,group A,some high school,free/reduced,none,47,59,50
-male,group C,some college,free/reduced,none,63,61,54
-female,group C,associate's degree,free/reduced,none,57,78,67
-male,group E,associate's degree,standard,completed,97,82,88
-male,group C,high school,standard,none,62,55,49
-female,group D,some high school,standard,none,59,67,61
-female,group C,some high school,standard,none,69,73,73
-female,group E,some high school,free/reduced,none,38,49,45
-male,group A,some high school,free/reduced,none,39,39,34
-female,group C,some college,standard,none,83,83,90
-female,group C,some high school,standard,none,69,75,78
-female,group B,high school,standard,none,74,72,72
-male,group D,some college,standard,none,60,63,59
-female,group B,some college,free/reduced,none,58,61,66
-female,group E,master's degree,free/reduced,none,56,72,65
-male,group E,bachelor's degree,standard,completed,100,100,100
-male,group D,bachelor's degree,free/reduced,completed,61,70,76
-male,group C,bachelor's degree,free/reduced,none,37,56,47
-female,group B,associate's degree,standard,none,47,49,50
-male,group D,bachelor's degree,free/reduced,none,63,66,67
-female,group C,associate's degree,standard,none,64,64,70
-male,group D,some college,standard,none,71,49,52
-male,group C,bachelor's degree,free/reduced,none,53,58,55
-female,group A,high school,standard,none,61,68,63
-female,group E,high school,free/reduced,completed,57,75,73
-male,group D,associate's degree,standard,completed,67,72,67
-female,group E,associate's degree,free/reduced,completed,57,68,73
-female,group B,bachelor's degree,standard,none,72,72,74
-female,group D,master's degree,standard,none,87,100,100
-female,group C,bachelor's degree,free/reduced,completed,43,51,54
-female,group C,bachelor's degree,standard,none,86,92,87
-male,group D,associate's degree,free/reduced,completed,61,71,73
-female,group B,high school,standard,none,81,91,89
-female,group A,master's degree,free/reduced,none,50,67,73
-female,group A,some high school,free/reduced,none,38,43,43
-female,group B,high school,free/reduced,completed,46,54,58
-female,group A,associate's degree,free/reduced,none,37,57,56
-male,group C,associate's degree,free/reduced,completed,65,73,68
-female,group B,high school,standard,completed,77,82,89
-male,group D,some high school,standard,none,69,66,61
-female,group A,bachelor's degree,standard,none,51,49,51
-male,group D,high school,free/reduced,completed,64,64,67
-female,group A,high school,free/reduced,completed,77,88,85
-male,group C,some college,free/reduced,none,68,68,61
-female,group C,some college,standard,none,69,78,76
-female,group A,high school,standard,completed,68,80,76
-female,group C,some college,standard,completed,71,71,80
-male,group C,some college,standard,none,69,64,68
-male,group A,some college,standard,none,53,43,43
-female,group C,bachelor's degree,standard,completed,77,94,95
-female,group C,some high school,standard,completed,70,82,76
-male,group C,high school,standard,completed,86,81,80
-male,group C,associate's degree,free/reduced,completed,78,81,82
-female,group C,associate's degree,standard,none,46,58,57
-male,group C,master's degree,free/reduced,none,61,67,66
-female,group B,associate's degree,free/reduced,completed,76,94,87
-female,group C,bachelor's degree,free/reduced,completed,66,83,83
-male,group B,high school,standard,completed,76,62,60
-female,group B,master's degree,standard,none,90,95,93
-male,group C,high school,standard,completed,82,84,82
-female,group B,some college,free/reduced,completed,65,75,70
-female,group E,some college,standard,none,76,78,80
-female,group C,some high school,standard,none,47,54,53
-female,group B,associate's degree,standard,completed,90,90,91
-female,group A,some college,standard,completed,78,87,91
-male,group E,some college,standard,completed,99,87,81
-female,group B,associate's degree,standard,none,80,86,83
-female,group B,associate's degree,free/reduced,none,52,76,70
-male,group E,associate's degree,standard,completed,62,61,58
-female,group B,associate's degree,standard,none,82,80,77
-female,group E,high school,standard,none,75,86,79
-female,group C,some college,standard,none,54,64,65
-female,group E,bachelor's degree,standard,none,37,45,38
-male,group E,some college,standard,none,84,77,71
-female,group D,some high school,standard,completed,65,78,82
-male,group D,associate's degree,free/reduced,none,90,87,75
-female,group E,master's degree,standard,none,62,68,68
-female,group C,associate's degree,standard,completed,65,84,84
-male,group D,some high school,standard,completed,76,70,69
-male,group D,some college,standard,completed,63,55,63
-female,group D,bachelor's degree,free/reduced,none,73,79,84
-female,group B,high school,standard,none,50,53,55
-female,group D,master's degree,standard,none,55,64,70
-female,group A,associate's degree,free/reduced,none,41,51,48
-male,group E,some college,standard,none,76,67,67
-female,group C,high school,standard,completed,58,75,77
-male,group E,associate's degree,free/reduced,completed,78,74,72
-male,group D,some college,standard,completed,100,97,99
-female,group D,some college,free/reduced,none,55,71,69
-female,group B,associate's degree,standard,completed,52,66,73
-male,group C,associate's degree,standard,none,97,93,91
-male,group C,high school,standard,completed,58,52,54
-female,group C,associate's degree,standard,completed,67,84,81
-female,group E,high school,standard,none,99,93,90
-male,group B,high school,standard,completed,73,71,68
-female,group D,associate's degree,free/reduced,completed,77,89,98
-male,group B,some college,standard,none,58,50,45
-female,group C,some high school,standard,none,77,91,88
-female,group B,some college,free/reduced,completed,48,56,58
-male,group D,bachelor's degree,free/reduced,completed,74,79,75
-male,group C,some college,free/reduced,none,80,64,66
-male,group E,some college,standard,none,66,57,52
-female,group C,associate's degree,standard,completed,59,73,72
-female,group B,bachelor's degree,standard,completed,66,74,81
-male,group D,bachelor's degree,free/reduced,completed,74,71,80
-male,group D,associate's degree,standard,none,52,55,49
-female,group C,some college,free/reduced,completed,64,85,85
-male,group C,some college,standard,completed,98,86,90
-female,group B,some high school,standard,none,41,55,51
-male,group D,associate's degree,free/reduced,none,77,78,73
-male,group E,bachelor's degree,standard,completed,85,66,71
-female,group E,some college,free/reduced,none,71,76,70
-female,group D,some college,standard,completed,75,77,83
-female,group D,master's degree,standard,completed,70,71,74
-female,group D,some college,standard,completed,82,97,96
-male,group C,high school,free/reduced,none,59,53,52
-female,group C,high school,standard,none,72,80,83
-female,group C,some college,free/reduced,none,22,39,33
-male,group C,associate's degree,free/reduced,completed,43,45,50
-male,group C,some college,standard,none,59,60,58
-male,group E,some high school,standard,none,92,87,78
-male,group C,some high school,standard,none,73,66,66
-male,group B,high school,standard,none,79,60,65
-male,group D,some high school,standard,completed,77,68,69
-female,group C,some college,free/reduced,none,32,39,33
-female,group C,some high school,standard,completed,77,90,85
-female,group C,associate's degree,standard,none,66,77,73
-female,group D,some college,free/reduced,none,71,83,83
-female,group E,associate's degree,standard,completed,65,75,77
-female,group C,associate's degree,standard,completed,83,85,90
-male,group D,high school,free/reduced,none,75,74,66
-male,group A,some high school,standard,completed,46,41,43
-male,group A,some high school,standard,completed,66,68,64
-male,group C,master's degree,standard,none,79,72,69
-male,group C,associate's degree,standard,none,69,77,69
-female,group D,some college,standard,none,63,64,67
-female,group B,high school,standard,completed,58,70,68
-female,group C,high school,standard,none,65,69,67
-female,group B,master's degree,free/reduced,completed,52,70,62
-male,group D,some high school,standard,completed,71,69,68
-female,group C,high school,standard,none,61,72,70
-female,group D,master's degree,free/reduced,completed,47,58,67
-male,group D,associate's degree,free/reduced,none,52,57,50
-female,group B,some high school,standard,completed,54,61,62
-female,group B,some high school,free/reduced,completed,52,67,72
-female,group D,associate's degree,standard,none,65,69,70
-male,group C,associate's degree,standard,completed,87,100,95
-female,group A,associate's degree,standard,none,82,93,93
-female,group C,associate's degree,standard,none,53,62,53
-female,group B,bachelor's degree,standard,none,61,72,70
-male,group E,bachelor's degree,standard,none,82,62,62
-male,group B,high school,standard,none,59,58,47
-male,group D,some college,standard,completed,58,59,58
-male,group A,some college,free/reduced,none,75,81,74
-male,group E,some high school,standard,none,30,26,22
-male,group D,some high school,standard,none,73,66,62
-male,group C,some college,free/reduced,none,35,28,27
-female,group C,some college,standard,none,54,48,52
-female,group E,high school,free/reduced,none,64,62,68
-male,group B,associate's degree,free/reduced,none,67,62,60
-female,group D,some college,standard,none,79,86,81
-male,group B,high school,standard,completed,72,65,68
-female,group B,high school,free/reduced,none,38,60,50
-female,group D,some high school,free/reduced,completed,40,65,64
-male,group C,associate's degree,standard,completed,57,54,56
-male,group D,some high school,free/reduced,none,62,49,52
-female,group A,some college,standard,completed,72,79,82
-female,group C,some high school,free/reduced,none,55,65,62
-male,group E,high school,standard,none,70,55,56
-male,group C,associate's degree,free/reduced,none,77,67,64
-female,group B,some college,standard,none,82,85,87
-male,group B,some college,standard,none,62,61,57
-male,group E,some high school,standard,completed,89,84,77
-male,group D,some college,free/reduced,none,69,66,60
-female,group D,high school,standard,none,56,52,55
-female,group D,master's degree,standard,none,78,91,96
-male,group C,associate's degree,free/reduced,completed,60,51,56
-female,group E,some college,standard,completed,86,85,91
-female,group C,bachelor's degree,standard,completed,52,61,66
-female,group D,some high school,standard,none,59,72,80
-male,group C,some college,free/reduced,completed,50,48,53
-male,group E,bachelor's degree,free/reduced,completed,79,74,72
-male,group C,high school,free/reduced,none,62,55,55
-female,group B,some college,standard,none,63,65,61
-female,group E,some high school,free/reduced,none,72,79,77
-male,group C,bachelor's degree,standard,completed,63,64,66
-male,group B,some high school,standard,completed,61,56,56
-male,group E,some college,standard,none,59,51,43
-female,group D,some high school,standard,completed,80,92,88
-male,group A,some high school,free/reduced,none,79,82,73
-female,group C,some college,standard,completed,67,81,79
-male,group D,high school,free/reduced,none,66,74,69
-female,group C,some high school,free/reduced,none,65,86,80
-female,group C,master's degree,free/reduced,completed,65,81,81
-female,group E,bachelor's degree,standard,completed,79,81,82
-female,group C,associate's degree,free/reduced,none,60,75,74
-male,group D,some high school,standard,completed,88,74,75
-female,group D,high school,free/reduced,none,39,52,46
-female,group B,associate's degree,standard,none,53,58,65
-female,group D,associate's degree,standard,none,74,81,83
-male,group E,high school,standard,none,94,73,71
-male,group E,associate's degree,standard,completed,81,81,79
-female,group D,some high school,standard,completed,64,60,74
-female,group E,associate's degree,standard,none,59,62,69
-female,group C,bachelor's degree,standard,completed,96,100,100
-female,group E,associate's degree,standard,none,100,100,100
-male,group D,some high school,standard,none,60,59,54
-male,group D,some college,standard,none,44,54,53
-male,group C,some high school,standard,none,57,61,54
-male,group A,some college,standard,completed,100,96,86
-male,group A,some high school,standard,none,53,54,48
-female,group B,some high school,standard,completed,60,70,74
-male,group C,high school,standard,none,84,77,74
-male,group C,some college,standard,none,91,74,76
-male,group E,associate's degree,standard,none,72,64,63
-male,group B,associate's degree,standard,none,81,73,72
-male,group E,some college,standard,none,53,55,48
-male,group B,some college,free/reduced,completed,74,77,76
-male,group E,associate's degree,standard,completed,66,63,64
-male,group D,associate's degree,free/reduced,none,75,66,73
-male,group D,high school,standard,none,57,50,54
-female,group B,some high school,standard,none,66,69,68
-male,group D,associate's degree,standard,none,71,66,60
-male,group A,bachelor's degree,standard,none,64,60,58
-female,group C,master's degree,free/reduced,none,40,58,54
-female,group C,associate's degree,standard,none,85,84,82
-male,group D,some high school,free/reduced,completed,55,59,59
-female,group B,some college,standard,none,70,75,78
-female,group C,master's degree,standard,completed,69,84,85
-female,group D,high school,standard,none,67,72,74
-male,group E,associate's degree,free/reduced,completed,91,73,80
-female,group E,some college,standard,completed,66,74,73
-female,group C,some high school,free/reduced,none,43,53,53
-male,group A,some high school,standard,none,71,62,50
-female,group C,associate's degree,standard,completed,74,75,83
-female,group D,some college,free/reduced,none,79,89,86
-male,group C,high school,free/reduced,none,54,72,59
-female,group A,some high school,standard,none,71,83,77
-female,group C,associate's degree,standard,none,91,95,94
-male,group B,some high school,standard,none,68,54,53
-female,group C,high school,standard,none,54,59,62
-female,group C,some high school,free/reduced,completed,50,60,60
-male,group E,associate's degree,standard,none,89,76,74
-female,group D,associate's degree,standard,none,82,95,89
-male,group B,some college,standard,none,69,54,55
-female,group B,high school,standard,none,58,62,59
-male,group C,some high school,standard,none,75,72,62
-female,group C,associate's degree,standard,completed,71,77,77
-female,group C,some college,standard,completed,88,95,94
-female,group C,some high school,free/reduced,none,0,17,10
-female,group B,some high school,free/reduced,completed,59,63,64
-male,group C,associate's degree,free/reduced,none,49,51,51
-male,group B,some high school,standard,completed,79,85,86
-male,group E,high school,free/reduced,completed,57,56,54
-male,group D,high school,standard,none,76,73,68
-female,group D,master's degree,standard,none,62,70,75
-female,group B,high school,standard,none,66,72,70
-male,group D,high school,standard,none,53,52,42
-female,group A,some high school,standard,completed,59,85,80
-male,group C,high school,standard,completed,75,69,68
-female,group C,associate's degree,standard,none,69,80,71
-male,group E,some college,free/reduced,none,93,90,83
-female,group C,high school,free/reduced,completed,59,71,65
-female,group B,associate's degree,standard,none,40,48,50
-male,group C,associate's degree,standard,none,92,79,84
-female,group E,high school,standard,none,50,50,47
-female,group C,bachelor's degree,standard,completed,56,79,72
-female,group D,high school,free/reduced,none,49,57,52
-male,group D,some college,free/reduced,none,63,61,60
-female,group D,some college,standard,none,69,77,77
-male,group D,some college,free/reduced,none,70,63,58
-female,group E,some college,free/reduced,none,53,58,57
-female,group B,bachelor's degree,free/reduced,none,77,85,87
-male,group C,bachelor's degree,standard,none,58,55,48
-male,group D,some college,free/reduced,none,49,57,46
-female,group D,some college,free/reduced,none,60,66,70
-female,group E,associate's degree,standard,completed,79,88,94
-male,group C,high school,standard,none,62,67,58
-female,group D,high school,free/reduced,completed,52,57,56
-female,group E,associate's degree,standard,none,87,94,95
-female,group C,high school,free/reduced,none,36,53,43
-female,group C,associate's degree,standard,none,59,66,67
-female,group C,associate's degree,standard,none,52,55,57
-male,group B,some college,standard,none,66,65,60
-male,group D,high school,standard,none,89,87,79
-male,group D,bachelor's degree,standard,completed,67,61,68
-male,group C,some high school,free/reduced,none,61,57,56
-female,group E,high school,standard,none,74,76,73
-female,group C,some high school,free/reduced,none,48,56,51
-female,group D,high school,standard,none,62,64,64
-female,group E,high school,free/reduced,completed,66,74,78
-female,group B,associate's degree,free/reduced,none,46,61,55
-female,group C,bachelor's degree,free/reduced,none,62,78,79
-female,group B,some high school,standard,none,73,79,79
-male,group D,associate's degree,standard,none,61,55,52
-male,group C,some high school,free/reduced,completed,53,37,40
-female,group D,master's degree,standard,none,64,63,66
-male,group C,some high school,standard,none,64,58,51
-female,group D,associate's degree,standard,completed,73,75,80
-male,group E,some high school,standard,completed,87,84,76
-male,group D,associate's degree,standard,none,81,71,73
-male,group D,some college,standard,none,55,58,52
-male,group E,high school,standard,completed,87,91,81
-female,group C,master's degree,standard,completed,54,64,67
-female,group E,some college,standard,none,68,70,66
-male,group A,high school,standard,none,63,63,62
-female,group A,high school,standard,none,55,73,73
-male,group D,master's degree,free/reduced,completed,84,89,90
-female,group E,bachelor's degree,standard,none,65,73,75
-female,group B,high school,standard,none,65,81,73
-male,group C,bachelor's degree,free/reduced,none,61,66,61
-female,group C,master's degree,free/reduced,none,52,65,61
-female,group A,some college,standard,none,58,70,67
-female,group B,bachelor's degree,free/reduced,none,75,85,82
-female,group D,associate's degree,standard,none,71,71,74
-female,group D,high school,free/reduced,none,73,92,84
-female,group D,some college,standard,none,98,100,99
-male,group C,some high school,standard,none,49,49,41
-female,group E,associate's degree,standard,none,68,76,67
-male,group B,associate's degree,standard,completed,91,89,92
-female,group D,associate's degree,free/reduced,none,56,65,63
-female,group B,some high school,standard,completed,32,51,44
-male,group C,some high school,standard,completed,78,72,69
-male,group B,associate's degree,free/reduced,completed,58,57,53
-male,group C,associate's degree,standard,none,62,65,58
-male,group C,high school,free/reduced,completed,53,51,51
-male,group D,associate's degree,standard,completed,81,72,77
-female,group B,some college,standard,none,62,67,67
-female,group A,some high school,free/reduced,none,59,73,69
-male,group C,associate's degree,standard,none,74,73,67
-male,group B,associate's degree,standard,completed,82,84,78
-female,group E,associate's degree,standard,none,84,95,92
-male,group B,some college,standard,none,79,67,67
-male,group D,some high school,standard,completed,74,71,78
-female,group D,master's degree,standard,none,53,61,68
-female,group C,master's degree,standard,none,73,78,74
-male,group C,associate's degree,standard,completed,98,87,90
-male,group A,some college,standard,completed,78,72,70
-female,group D,some high school,free/reduced,none,48,54,53
-female,group A,bachelor's degree,standard,none,59,72,70
-female,group E,some high school,free/reduced,none,74,74,72
-male,group B,some college,free/reduced,none,41,39,34
-female,group D,bachelor's degree,standard,none,59,70,73
-female,group C,high school,standard,none,72,80,75
-male,group A,high school,free/reduced,none,45,47,49
-female,group D,some high school,free/reduced,none,67,84,84
-male,group D,master's degree,standard,none,80,80,72
-female,group B,associate's degree,standard,none,71,83,78
-female,group D,some high school,standard,none,59,58,59
-female,group E,some high school,standard,none,77,79,80
-male,group D,associate's degree,standard,none,80,68,72
-male,group D,master's degree,standard,none,89,84,82
-female,group A,some college,free/reduced,none,61,60,57
-female,group D,associate's degree,free/reduced,completed,75,90,88
-female,group D,bachelor's degree,free/reduced,none,63,73,78
-female,group C,some high school,standard,none,74,75,82
-female,group C,some college,free/reduced,none,62,67,62
-female,group C,some college,standard,none,84,87,91
-male,group A,some high school,free/reduced,completed,61,62,61
-male,group C,some high school,standard,completed,67,73,68
-female,group C,some college,standard,none,52,58,58
-female,group D,high school,standard,completed,57,58,64
-male,group D,bachelor's degree,standard,none,69,58,57
-male,group E,bachelor's degree,standard,none,68,68,64
-female,group C,some college,free/reduced,completed,45,73,70
-female,group C,some high school,standard,completed,85,92,93
-male,group D,some college,free/reduced,none,61,47,56
-female,group B,master's degree,standard,none,77,90,84
-male,group C,some college,standard,none,61,61,62
-male,group D,some college,free/reduced,none,62,57,62
-female,group C,some college,standard,none,59,71,70
-male,group C,high school,standard,none,68,60,53
-female,group E,some college,standard,none,87,85,93
-female,group D,master's degree,standard,none,54,60,63
-female,group C,some college,free/reduced,completed,67,75,70
-male,group C,high school,standard,none,70,70,65
-male,group A,bachelor's degree,free/reduced,completed,49,58,60
-female,group C,high school,standard,none,75,88,85
-female,group E,some college,free/reduced,completed,42,55,54
-male,group A,high school,standard,completed,72,73,74
-male,group A,high school,free/reduced,completed,72,67,65
-female,group C,associate's degree,standard,none,65,76,76
-male,group C,high school,standard,completed,53,52,49
-male,group A,some high school,free/reduced,none,65,59,53
-male,group B,associate's degree,standard,none,65,54,57
-male,group B,associate's degree,free/reduced,none,44,41,38
-male,group D,some college,standard,none,88,77,77
-male,group E,some college,standard,completed,85,75,68
-male,group E,high school,standard,none,80,76,65
-male,group E,associate's degree,free/reduced,none,46,43,41
-male,group D,associate's degree,free/reduced,none,53,54,48
-male,group A,some college,free/reduced,completed,81,78,81
-male,group D,bachelor's degree,standard,none,54,49,47
-female,group C,associate's degree,standard,completed,68,67,73
-female,group C,high school,standard,none,59,72,68
-female,group C,some high school,standard,completed,59,54,67
-female,group D,bachelor's degree,standard,none,89,100,100
-male,group D,bachelor's degree,standard,none,88,78,83
-female,group E,associate's degree,standard,none,51,51,54
-male,group C,some high school,standard,completed,63,60,57
-male,group B,high school,free/reduced,none,49,45,45
-female,group C,high school,standard,none,61,73,63
-female,group B,high school,free/reduced,none,64,73,71
-female,group D,some college,free/reduced,completed,63,80,80
-male,group D,associate's degree,standard,none,90,87,85
-female,group E,associate's degree,standard,none,85,92,85
-male,group A,bachelor's degree,free/reduced,none,62,72,65
-female,group A,bachelor's degree,standard,none,45,59,64
-female,group B,some high school,free/reduced,none,49,58,55
-male,group C,some college,standard,none,58,49,42
-male,group B,high school,standard,none,70,65,60
-female,group C,bachelor's degree,free/reduced,completed,51,72,79
-female,group B,some college,standard,completed,50,64,66
-male,group D,some high school,free/reduced,none,45,37,37
-female,group B,some high school,standard,completed,60,70,70
-female,group B,high school,free/reduced,none,50,67,63
-female,group B,some high school,standard,none,67,89,82
-male,group B,some high school,standard,none,88,84,75
-male,group D,some college,standard,none,88,73,78
-male,group C,bachelor's degree,standard,completed,96,90,92
-male,group B,some college,standard,completed,69,77,77
-female,group E,bachelor's degree,free/reduced,none,61,58,62
-female,group C,some college,free/reduced,none,62,72,70
-female,group B,bachelor's degree,standard,none,67,86,83
-male,group E,some high school,standard,none,82,67,61
-female,group D,associate's degree,standard,none,85,91,89
-male,group D,high school,free/reduced,none,69,70,67
-male,group D,associate's degree,free/reduced,completed,79,82,80
-female,group C,bachelor's degree,free/reduced,none,67,75,72
-female,group C,some college,standard,completed,70,72,76
-female,group A,some high school,free/reduced,none,44,45,45
-female,group C,associate's degree,standard,completed,67,84,86
-female,group E,master's degree,free/reduced,none,45,56,54
-female,group D,bachelor's degree,standard,none,65,67,62
-female,group C,some college,standard,none,62,69,69
-female,group C,some college,standard,none,58,67,72
-female,group E,some college,standard,none,61,64,62
-female,group C,bachelor's degree,standard,none,83,93,95
-female,group D,high school,standard,none,69,72,77
-female,group C,high school,free/reduced,none,62,67,64
-male,group C,bachelor's degree,free/reduced,completed,70,75,74
-female,group E,some college,standard,completed,63,72,70
-female,group C,associate's degree,standard,none,85,89,95
-female,group B,associate's degree,standard,completed,61,86,87
-female,group A,master's degree,standard,none,50,53,58
-male,group D,bachelor's degree,standard,completed,68,74,74
-female,group C,associate's degree,standard,none,62,74,70
-male,group D,some high school,standard,none,55,47,44
-male,group C,bachelor's degree,standard,completed,71,74,68
-female,group B,high school,free/reduced,completed,67,78,79
-male,group D,high school,free/reduced,none,42,39,34
-female,group D,some college,standard,none,77,68,77
-female,group E,master's degree,standard,completed,94,99,100
-female,group D,some high school,standard,none,48,58,54
-male,group C,high school,standard,none,70,56,51
-female,group B,associate's degree,free/reduced,none,54,65,65
-male,group A,bachelor's degree,standard,none,91,96,92
-male,group B,some high school,free/reduced,completed,49,50,52
-female,group C,some high school,standard,none,65,69,76
-male,group A,some college,standard,none,69,67,69
-male,group B,associate's degree,standard,none,90,78,81
-female,group C,some college,free/reduced,completed,42,66,69
-female,group D,some college,free/reduced,none,65,81,77
-male,group D,high school,free/reduced,none,63,57,56
-female,group C,bachelor's degree,standard,none,77,88,87
-male,group E,some college,standard,none,69,60,54
-male,group E,some college,standard,none,86,76,74
-male,group D,associate's degree,standard,none,80,75,77
-female,group D,master's degree,free/reduced,completed,61,71,78
-male,group C,some college,standard,none,66,59,52
-female,group B,some high school,standard,none,37,46,46
-female,group D,some high school,standard,none,76,72,71
-male,group C,some college,standard,none,63,63,60
-male,group C,bachelor's degree,standard,completed,91,81,79
-female,group C,associate's degree,standard,none,91,86,84
-male,group B,high school,standard,none,62,55,54
-female,group B,associate's degree,standard,none,57,69,68
-male,group C,some college,free/reduced,none,74,77,73
-female,group D,associate's degree,free/reduced,none,46,56,57
-female,group B,high school,standard,none,65,64,62
-male,group C,high school,free/reduced,none,66,66,59
-male,group B,some college,free/reduced,completed,60,62,60
-female,group C,associate's degree,standard,completed,62,76,80
-female,group C,some college,free/reduced,none,59,62,64
-female,group C,bachelor's degree,standard,none,63,75,81
-female,group D,some college,free/reduced,none,49,58,60
-male,group C,some college,standard,none,53,39,37
-male,group D,high school,standard,none,45,48,46
-female,group D,some high school,standard,none,51,63,61
-female,group B,high school,free/reduced,completed,23,44,36
-male,group E,associate's degree,free/reduced,none,90,90,82
-female,group B,some high school,free/reduced,none,18,32,28
-male,group A,some high school,standard,none,64,50,43
-female,group C,high school,standard,none,63,69,74
-male,group D,some high school,free/reduced,none,59,42,41
-female,group C,some college,standard,none,63,74,74
-female,group D,some college,free/reduced,none,69,65,74
-female,group C,associate's degree,standard,none,81,77,79
-male,group C,some high school,free/reduced,none,79,76,65
-female,group B,high school,free/reduced,completed,67,80,81
-male,group B,high school,standard,completed,52,49,46
-male,group D,master's degree,standard,none,82,82,74
-male,group D,some high school,standard,none,62,67,61
-male,group E,some college,standard,completed,81,74,71
-male,group D,some high school,standard,none,86,80,75
-female,group A,some college,standard,none,69,84,82
-female,group C,high school,free/reduced,none,35,53,46
-male,group E,some high school,free/reduced,completed,73,67,59
-male,group A,some college,free/reduced,completed,50,47,54
-female,group C,associate's degree,standard,none,65,77,74
-male,group B,some high school,standard,none,67,64,61
-female,group C,bachelor's degree,free/reduced,completed,74,86,89
-male,group E,associate's degree,standard,none,72,57,62
-male,group A,some college,standard,completed,61,51,52
-female,group E,bachelor's degree,standard,none,100,100,100
-male,group B,some college,standard,none,47,43,41
-female,group E,some college,standard,none,71,70,76
-male,group C,some high school,free/reduced,none,69,71,65
-male,group E,some college,standard,none,97,87,82
-male,group C,associate's degree,free/reduced,none,68,65,61
-male,group A,associate's degree,free/reduced,completed,40,55,53
-female,group D,bachelor's degree,free/reduced,completed,93,100,100
-male,group B,associate's degree,free/reduced,none,57,56,57
-male,group A,some college,free/reduced,none,28,23,19
-female,group B,high school,standard,none,48,62,60
-male,group D,bachelor's degree,standard,none,80,73,72
-male,group B,bachelor's degree,free/reduced,completed,87,90,88
-male,group C,high school,standard,none,75,81,71
-male,group E,some college,free/reduced,completed,49,52,51
-female,group C,some college,free/reduced,none,77,90,91
-female,group C,associate's degree,standard,none,63,67,70
-female,group B,some high school,standard,none,57,67,72
-male,group C,high school,free/reduced,completed,40,46,50
-male,group C,associate's degree,free/reduced,none,64,66,59
-female,group C,some high school,free/reduced,completed,71,84,87
-male,group D,some college,standard,completed,71,61,69
-male,group C,high school,standard,none,88,89,86
-female,group E,bachelor's degree,standard,none,80,83,83
-male,group C,some college,standard,completed,79,79,78
-male,group C,some high school,standard,completed,76,80,73
-male,group C,high school,free/reduced,none,61,60,55
-male,group D,some college,standard,completed,82,82,88
-male,group A,high school,standard,none,59,52,46
-male,group C,high school,standard,none,52,53,49
-male,group A,some high school,standard,completed,47,49,49
-male,group E,some high school,standard,completed,81,75,76
-female,group D,some college,standard,completed,79,84,91
-male,group C,bachelor's degree,standard,completed,83,82,84
-female,group D,some college,standard,none,62,70,72
-male,group E,associate's degree,free/reduced,completed,46,43,44
-female,group E,associate's degree,standard,completed,95,89,92
-male,group D,high school,free/reduced,none,74,70,69
-female,group C,some college,free/reduced,none,76,83,88
-male,group A,bachelor's degree,standard,none,77,67,68
-male,group E,some college,standard,none,68,60,59
-male,group E,associate's degree,standard,completed,94,85,82
-male,group C,some college,standard,none,73,74,61
+Company,TypeName,Ram,Weight,Price,TouchScreen,Ips,Ppi,Cpu_brand,HDD,SSD,Gpu_brand,Os
+Lenovo,Notebook,6,2.8,10.83096982484206,0,0,106.11306214269258,Intel Core i7,1000,128,Nvidia,Windows
+Dell,Ultrabook,16,1.2,11.696022720831856,1,0,276.053530085501,Intel Core i7,0,1000,Intel,Windows
+Dell,2 in 1 Convertible,16,1.22,11.52464373704442,1,0,276.053530085501,Intel Core i7,0,512,Intel,Windows
+Lenovo,Ultrabook,8,1.7,11.288114524334732,0,0,157.3505121487356,Intel Core i7,0,256,Intel,Windows
+HP,Notebook,4,2.1,9.824885806178992,0,0,100.45466986113652,Other Intel Processor,500,0,Intel,Windows
+MSI,Gaming,8,2.7,11.27992228688911,0,0,127.33567457123112,Intel Core i7,1000,128,Nvidia,Windows
+HP,Notebook,4,1.86,10.059354039524033,0,0,100.45466986113652,Intel Core i3,500,0,AMD,Windows
+Acer,Notebook,12,2.15,10.46628456073464,1,1,141.21199808219862,Intel Core i7,1000,0,Intel,Windows
+Dell,Gaming,8,2.62,11.030873869571886,0,1,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+Lenovo,Notebook,2,1.15,9.694067896286716,0,0,135.0942111925629,Other Intel Processor,0,0,Intel,Windows
+HP,Notebook,6,2.1,10.452533389121816,0,0,141.21199808219862,AMD Processor,1000,128,AMD,Windows
+HP,Notebook,6,2.04,10.285461122475176,0,0,141.21199808219862,AMD Processor,0,0,AMD,Windows
+Dell,Notebook,16,2.36,10.776844060703754,0,0,141.21199808219862,Intel Core i7,0,256,AMD,Others
+Lenovo,Notebook,4,2.2,10.12402932214978,0,0,141.21199808219862,Intel Core i3,1000,0,Nvidia,Windows
+Toshiba,Ultrabook,16,1.36,11.512991062818642,1,0,165.6321180513006,Intel Core i7,0,512,Intel,Windows
+Toshiba,Ultrabook,8,1.1,11.465531925066934,1,0,176.23257360658386,Intel Core i7,0,512,Intel,Windows
+Acer,Notebook,4,2.1,10.087028365734811,0,0,100.45466986113652,AMD Processor,0,256,AMD,Windows
+Toshiba,Notebook,4,1.75,10.794485091507656,0,0,111.93520355955212,Intel Core i5,500,0,Intel,Windows
+Acer,Notebook,8,2.4,10.633572072102885,0,0,141.21199808219862,Intel Core i7,1000,0,Nvidia,Others
+Lenovo,Notebook,4,1.87,10.641244744014545,0,0,157.3505121487356,Intel Core i5,500,0,Intel,Windows
+Razer,Ultrabook,8,1.25,10.911903762066183,1,0,352.4651472131677,Intel Core i7,0,256,Intel,Windows
+Asus,2 in 1 Convertible,8,1.1,11.157152970844,1,0,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Dell,Gaming,32,4.42,12.161134189998078,0,1,127.33567457123112,Intel Core i7,1000,1000,Nvidia,Windows
+Acer,2 in 1 Convertible,8,1.5,10.717261720884188,1,1,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Lenovo,Notebook,8,2.8,10.523780128994506,0,0,106.11306214269258,Intel Core i5,0,256,Nvidia,Others
+Asus,Notebook,4,1.65,9.827763506006608,0,0,111.1413368676404,Other Intel Processor,0,0,Intel,Windows
+Dell,Notebook,8,2.0,11.071454247329664,0,0,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+Dell,Ultrabook,8,1.6,11.02220830408089,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Lenovo,Notebook,8,1.58,11.275358392990295,0,1,157.3505121487356,Intel Core i7,0,256,Intel,Windows
+Lenovo,Notebook,8,1.1,10.882315804880689,0,1,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+HP,Workstation,8,2.31,11.311195008159336,0,1,141.21199808219862,Intel Core i7,0,512,Intel,Windows
+HP,Notebook,8,2.04,10.667644768738764,0,0,141.21199808219862,Intel Core i5,1000,0,Intel,Windows
+HP,Notebook,4,2.1,10.534467797525002,0,0,141.21199808219862,Intel Core i3,0,128,Intel,Windows
+Dell,Notebook,8,1.64,10.968576149165091,0,0,157.3505121487356,Intel Core i5,0,256,Nvidia,Others
+MSI,Gaming,32,4.4,11.912578515747589,0,0,119.7232157653423,Intel Core i7,1000,512,Nvidia,Windows
+Asus,Notebook,8,2.5,10.70777173269934,0,0,141.21199808219862,Intel Core i5,1000,128,Nvidia,Windows
+Dell,Notebook,8,2.2,10.37232400089118,0,0,141.21199808219862,Intel Core i7,1000,0,AMD,Others
+Asus,Gaming,8,2.591,10.787906120409612,0,1,141.21199808219862,Intel Core i7,1000,256,Nvidia,Windows
+Dell,Notebook,8,2.8,11.016097416448089,0,0,127.33567457123112,Intel Core i7,1000,128,AMD,Windows
+Lenovo,Notebook,4,1.43,9.588689132620203,0,0,111.93520355955212,Other Intel Processor,0,0,Intel,Windows
+Lenovo,Notebook,4,2.2,10.013431946154272,0,0,100.45466986113652,Other Intel Processor,500,0,Intel,Windows
+Dell,Ultrabook,8,1.21,11.550632725739694,1,1,331.2642361026012,Intel Core i7,0,256,Intel,Windows
+Toshiba,Notebook,16,2.4,11.221929106334594,0,1,141.21199808219862,Intel Core i7,0,512,Nvidia,Windows
+MSI,Gaming,16,4.14,11.887251546940472,0,0,127.33567457123112,Intel Core i7,1000,512,Nvidia,Windows
+Dell,Notebook,8,1.9,10.81610755552082,0,0,141.21199808219862,Intel Core i5,500,0,Intel,Windows
+Lenovo,Notebook,8,2.1,11.018284165624754,0,1,141.21199808219862,Intel Core i5,1000,256,AMD,Windows
+Apple,Ultrabook,4,1.08,10.841452101115571,0,0,135.0942111925629,Intel Core i5,0,0,Intel,Mac
+Dell,Workstation,8,2.23,11.458805442305984,0,0,141.21199808219862,Intel Core i7,1000,0,Nvidia,Windows
+Dell,Notebook,4,2.25,10.118930877053268,0,0,100.45466986113652,Intel Core i3,1000,0,AMD,Others
+Toshiba,Ultrabook,16,1.47,11.45090026279887,0,1,157.3505121487356,Intel Core i7,0,512,Nvidia,Windows
+Dell,Gaming,16,2.59,10.754357300416876,0,0,141.21199808219862,Intel Core i7,1000,0,Nvidia,Windows
+Dell,Notebook,8,1.9,11.047982926769505,0,0,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+Dell,Ultrabook,16,1.2,11.508719833687696,1,0,276.053530085501,Intel Core i7,0,512,Intel,Windows
+Asus,2 in 1 Convertible,8,1.27,10.808592759018332,1,1,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Apple,Ultrabook,8,1.37,11.175754549129524,0,1,226.98300468106115,Intel Core i5,0,128,Intel,Mac
+Toshiba,Notebook,4,2.1,10.634854945915771,0,0,100.45466986113652,Intel Core i5,500,0,Intel,Windows
+HP,2 in 1 Convertible,4,1.28,11.470547260182666,1,0,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+MSI,Gaming,16,4.5,11.737306010891048,0,0,127.33567457123112,Intel Core i7,1000,128,Nvidia,Windows
+HP,Notebook,4,2.1,10.480567504600335,0,0,100.45466986113652,Intel Core i3,500,0,Intel,Windows
+Lenovo,Notebook,4,2.2,9.88635767027266,0,0,100.45466986113652,Intel Core i3,0,128,Intel,Others
+Asus,Gaming,16,2.5,11.470547260182666,0,0,141.21199808219862,Intel Core i7,1000,256,Nvidia,Windows
+Dell,Notebook,4,2.2,10.0713630658882,0,0,100.45466986113652,Other Intel Processor,500,0,Intel,Windows
+Lenovo,Ultrabook,16,1.1,11.624777346052769,0,1,209.8006828649808,Intel Core i7,0,512,Intel,Windows
+Dell,2 in 1 Convertible,8,1.34,11.396139931642937,1,0,176.23257360658386,Intel Core i5,0,256,Intel,Windows
+HP,Notebook,8,2.1,10.754345923917311,0,0,141.21199808219862,Intel Core i5,0,256,Nvidia,Windows
+Dell,Notebook,4,1.95,10.56846856468972,0,0,100.45466986113652,Intel Core i5,500,0,Intel,Windows
+Dell,Ultrabook,4,1.5,11.037726951247386,0,0,125.36742798669836,Intel Core i3,0,128,Intel,Windows
+Asus,Notebook,8,2.3,10.3556835631319,0,0,141.21199808219862,Intel Core i5,128,0,Intel,Windows
+Dell,Gaming,16,2.56,11.105867681227291,0,0,141.21199808219862,Intel Core i7,0,512,Nvidia,Windows
+Dell,Workstation,8,2.06,11.450333208630004,1,0,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+Lenovo,2 in 1 Convertible,8,1.1,11.144911042902732,1,1,194.94753717542463,Other Intel Processor,0,256,Intel,Windows
+Lenovo,Gaming,16,2.5,11.047982926769505,0,1,141.21199808219862,Intel Core i7,1000,256,Nvidia,Windows
+Apple,Ultrabook,8,1.35,10.881314302543595,0,0,127.67794013309688,Intel Core i5,0,0,Intel,Mac
+Lenovo,Notebook,2,1.42,9.49301392269684,0,0,111.93520355955212,Other Intel Processor,0,0,Intel,Windows
+Lenovo,Notebook,8,2.2,10.188167121983652,0,0,141.21199808219862,Intel Core i3,1000,0,Nvidia,Others
+Razer,Ultrabook,16,1.29,11.470547260182666,1,1,352.4651472131677,Intel Core i7,0,512,Intel,Windows
+Apple,Ultrabook,8,0.92,11.036037392231934,0,1,226.4155471693585,Other Intel Processor,0,0,Intel,Mac
+MSI,Gaming,16,2.4,11.14105450129298,0,0,141.21199808219862,Intel Core i7,1000,256,Nvidia,Windows
+Lenovo,Notebook,4,1.5,9.759386208561873,0,0,111.93520355955212,Other Intel Processor,0,0,Intel,Others
+Lenovo,Notebook,8,2.2,10.419692282932576,0,0,141.21199808219862,Intel Core i5,0,256,Nvidia,Others
+Acer,Notebook,6,2.1,10.147261623643049,1,1,141.21199808219862,Intel Core i3,1000,0,Intel,Windows
+MSI,Gaming,8,2.7,11.058781074545012,0,0,127.33567457123112,Intel Core i7,1000,128,Nvidia,Windows
+HP,Notebook,8,2.5,10.803190260734986,0,0,127.33567457123112,Intel Core i5,0,256,Nvidia,Windows
+Lenovo,Notebook,16,1.1,11.846490622987275,0,1,209.8006828649808,Intel Core i7,0,256,Intel,Windows
+Lenovo,Netbook,4,1.59,10.290919027754468,0,1,135.0942111925629,Other Intel Processor,0,128,Intel,Windows
+Asus,Gaming,8,2.2,11.039464987704202,0,0,141.21199808219862,Intel Core i7,1000,0,Nvidia,Windows
+Dell,2 in 1 Convertible,8,1.24,11.478299236986985,1,0,276.053530085501,Intel Core i5,0,256,Intel,Windows
+Dell,Ultrabook,8,1.36,11.45711672814165,0,0,157.3505121487356,Intel Core i7,0,256,Intel,Windows
+Asus,2 in 1 Convertible,8,1.1,11.189329334350775,1,0,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Lenovo,Notebook,4,2.1,9.962013031516571,0,0,100.45466986113652,Intel Core i5,500,0,Intel,Others
+HP,Notebook,8,1.84,11.626842862666368,0,0,141.21199808219862,Intel Core i5,500,256,Intel,Windows
+Dell,Notebook,8,1.79,10.58221121243035,0,0,111.93520355955212,Intel Core i3,0,128,Intel,Windows
+Asus,Netbook,4,1.2,9.80450664384234,0,0,135.0942111925629,Other Intel Processor,0,0,Intel,Windows
+Dell,Notebook,4,2.3,10.188167121983652,0,0,100.45466986113652,Intel Core i3,0,128,AMD,Windows
+HP,Notebook,8,1.48,11.13950771057468,0,0,157.3505121487356,Intel Core i7,0,256,Intel,Windows
+Lenovo,2 in 1 Convertible,16,1.42,11.803200572598556,1,0,209.8006828649808,Intel Core i7,0,512,Intel,Windows
+HP,Ultrabook,4,1.26,11.314449160071012,0,0,176.23257360658386,Intel Core i5,500,0,Intel,Windows
+HP,Notebook,8,1.43,11.26789820240601,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Asus,Netbook,2,0.98,9.232535429245788,0,0,135.0942111925629,Other Intel Processor,0,0,Intel,Windows
+Acer,Gaming,8,2.7,11.114428026177658,0,1,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+Dell,Ultrabook,8,1.29,10.776844060703754,1,1,165.6321180513006,Intel Core i5,0,128,Intel,Windows
+Dell,Ultrabook,8,1.88,10.975129468486722,0,1,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+Dell,Notebook,8,2.36,10.298790318518323,1,0,100.45466986113652,Intel Core i5,2000,0,Intel,Windows
+HP,2 in 1 Convertible,4,1.28,11.41394455627644,1,0,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Lenovo,2 in 1 Convertible,8,1.27,11.733039792816312,1,1,209.8006828649808,Intel Core i7,0,256,Intel,Windows
+HP,Notebook,4,1.86,9.951658096208996,0,0,100.45466986113652,Intel Core i5,500,0,Intel,Others
+LG,Ultrabook,8,1.09,11.715790550995315,0,1,141.21199808219862,Intel Core i7,0,512,Intel,Windows
+Lenovo,Notebook,4,2.05,10.50497986449436,0,0,141.21199808219862,Intel Core i5,500,0,Intel,Windows
+Dell,Ultrabook,8,1.9,10.472336016417996,0,0,141.21199808219862,Intel Core i5,1000,0,AMD,Windows
+HP,Workstation,8,2.59,11.328642946747566,0,0,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+Lenovo,Gaming,8,2.5,11.056428922922915,0,1,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+Lenovo,2 in 1 Convertible,8,1.42,11.834974180925718,1,0,209.8006828649808,Intel Core i7,0,256,Intel,Windows
+Dell,Notebook,8,2.8,10.964896292206694,0,0,127.33567457123112,Intel Core i5,1000,128,AMD,Windows
+Dell,Gaming,16,2.65,11.18267988243989,0,1,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+Dell,Notebook,16,2.2,11.009948956147635,0,0,141.21199808219862,Intel Core i7,2000,256,AMD,Windows
+HP,Netbook,8,1.26,11.395540949893968,0,0,176.23257360658386,Intel Core i5,0,256,Intel,Windows
+Dell,Notebook,4,2.18,10.280009828654116,0,0,100.45466986113652,Intel Core i3,0,128,Intel,Windows
+Lenovo,Notebook,4,1.44,9.652314828500415,0,0,111.93520355955212,Other Intel Processor,0,0,Intel,Windows
+Asus,Notebook,4,2.0,9.592295759601168,0,0,100.45466986113652,Other Intel Processor,1000,0,Intel,Others
+Dell,Workstation,8,2.23,11.197396851520583,0,0,141.21199808219862,Intel Core i5,500,0,AMD,Windows
+Acer,Notebook,2,1.68,9.77465368069266,0,0,111.93520355955212,Other Intel Processor,0,0,Intel,Others
+Lenovo,Notebook,4,1.9,10.186161103256786,0,0,100.45466986113652,Intel Core i5,0,128,Intel,Windows
+MSI,Gaming,16,2.7,11.352069152558354,0,0,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+HP,Notebook,8,1.11,11.02220830408089,0,1,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+HP,Gaming,16,3.78,11.2874471903093,0,1,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Toshiba,Notebook,4,1.2,11.061462490597744,0,0,165.6321180513006,Intel Core i5,0,128,Intel,Windows
+Lenovo,2 in 1 Convertible,8,1.42,11.72918457279188,1,1,209.8006828649808,Intel Core i5,0,256,Intel,Windows
+Dell,Ultrabook,8,1.36,11.27007418585674,1,0,176.23257360658386,Intel Core i5,0,256,Intel,Windows
+Dell,Notebook,8,2.36,10.862092668762644,0,0,141.21199808219862,Intel Core i7,1000,128,AMD,Windows
+Dell,Gaming,16,2.65,11.495795582706762,0,1,282.42399616439724,Intel Core i7,1000,512,Nvidia,Windows
+Lenovo,Notebook,8,2.3,10.790103923492092,0,1,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+Lenovo,Ultrabook,8,1.36,11.38409159312676,0,1,176.23257360658386,Intel Core i7,0,256,Intel,Windows
+Dell,Ultrabook,8,1.29,11.273329308763511,1,0,276.053530085501,Intel Core i7,0,256,Intel,Windows
+HP,Gaming,12,2.62,11.105659536357711,0,1,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+Asus,Notebook,4,2.37,9.964497380151284,0,0,100.45466986113652,Intel Core i3,1000,0,Intel,Windows
+Dell,Ultrabook,8,1.21,11.352694739066088,1,1,331.2642361026012,Intel Core i5,0,128,Intel,Windows
+Asus,Gaming,8,2.45,10.525211768465944,0,0,141.21199808219862,AMD Processor,1000,0,AMD,Windows
+Asus,Notebook,4,2.0,9.93914036985058,0,0,141.21199808219862,Intel Core i3,1000,0,Intel,Others
+Lenovo,Gaming,16,2.4,11.21835894902589,0,0,141.21199808219862,Intel Core i7,0,512,Nvidia,Others
+Lenovo,Notebook,8,2.3,10.895234994607796,0,1,141.21199808219862,Intel Core i5,0,256,Nvidia,Windows
+Dell,Notebook,8,2.33,10.71371352082809,0,0,141.21199808219862,Intel Core i5,1000,128,AMD,Windows
+HP,Notebook,4,1.48,11.34705032144641,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Acer,Netbook,4,1.4,10.050907057320815,0,0,135.0942111925629,Other Intel Processor,0,128,Intel,Windows
+Dell,Ultrabook,8,1.23,10.977716980635757,1,0,276.053530085501,Intel Core i5,0,256,Intel,Others
+Asus,Notebook,4,1.68,10.126163794678414,0,0,100.45466986113652,AMD Processor,1000,0,AMD,Windows
+Dell,Notebook,8,2.32,10.354869672690878,0,0,100.45466986113652,Intel Core i5,1000,0,AMD,Others
+Google,Ultrabook,8,1.1,11.12626248382466,1,0,234.50740003017813,Intel Core i5,0,128,Intel,Others
+HP,Ultrabook,8,1.34,11.16321819034709,0,1,165.6321180513006,Intel Core i7,0,512,Intel,Windows
+Acer,Notebook,4,2.2,10.500590684075595,0,1,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+Lenovo,Notebook,8,2.67,11.62048037119099,0,0,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+Lenovo,Notebook,4,2.2,9.70890230312988,0,0,100.45466986113652,Other Intel Processor,1000,0,Intel,Windows
+Dell,Ultrabook,8,1.3,11.120757161229305,0,0,276.053530085501,Intel Core i7,0,256,Intel,Windows
+HP,Notebook,8,2.63,11.130176383145796,0,0,127.33567457123112,Intel Core i7,1000,0,Nvidia,Windows
+Acer,Notebook,4,2.1,9.941707765355826,0,0,100.45466986113652,Intel Core i3,1000,0,Intel,Others
+Asus,Ultrabook,8,1.2,10.567234758240792,0,1,165.6321180513006,Other Intel Processor,0,512,Intel,Windows
+Dell,Notebook,8,2.02,11.016447617817454,0,0,141.21199808219862,Intel Core i7,2000,256,AMD,Windows
+Lenovo,Notebook,4,1.85,10.003598553570956,0,0,141.21199808219862,Intel Core i3,1000,0,Intel,Windows
+Dell,Notebook,6,2.3,10.104611236292678,0,0,100.45466986113652,Intel Core i3,1000,0,Intel,Windows
+Dell,Notebook,4,2.2,9.756304542024465,0,0,100.45466986113652,Other Intel Processor,500,0,Intel,Others
+Dell,Gaming,8,2.62,11.064804181259648,0,0,141.21199808219862,Intel Core i7,1000,0,Nvidia,Windows
+Lenovo,Notebook,4,2.2,9.83063294843456,0,0,141.21199808219862,Other Intel Processor,0,128,Intel,Windows
+HP,Notebook,8,2.31,11.036037392231934,0,0,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+Dell,Notebook,16,2.06,11.590080353983309,1,0,282.42399616439724,Intel Core i7,0,512,Nvidia,Windows
+Toshiba,Notebook,8,2.2,10.675061366393813,0,0,100.45466986113652,Intel Core i7,500,0,Nvidia,Windows
+Toshiba,Notebook,16,2.4,11.563884703567355,0,1,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+Dell,Notebook,8,2.33,10.776844060703754,0,0,141.21199808219862,Intel Core i7,0,256,AMD,Windows
+Lenovo,2 in 1 Convertible,4,1.8,10.433899309576924,1,1,157.3505121487356,Intel Core i7,0,128,Intel,Windows
+Asus,Gaming,8,2.3,11.387117314043296,0,1,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+Lenovo,2 in 1 Convertible,16,1.4,11.624777346052769,1,1,316.96506044349616,Intel Core i7,0,512,Intel,Windows
+HP,Ultrabook,8,1.43,11.254189968552817,0,0,157.3505121487356,Intel Core i7,0,256,Intel,Windows
+HP,Notebook,4,2.04,10.584910269399517,0,0,100.45466986113652,Intel Core i5,500,0,Intel,Windows
+Lenovo,Notebook,4,2.2,10.658921971998408,0,0,141.21199808219862,Intel Core i7,1000,0,Nvidia,Windows
+HP,Workstation,16,3.0,12.362417715920367,0,1,127.33567457123112,Other Intel Processor,0,256,Nvidia,Windows
+HP,Notebook,4,1.86,9.88635767027266,0,0,100.45466986113652,AMD Processor,0,256,AMD,Windows
+Dell,Notebook,8,1.36,11.23889064370897,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Lenovo,2 in 1 Convertible,8,1.38,10.959350991490268,1,1,158.48253022174808,Intel Core i7,0,256,Intel,Windows
+Acer,Notebook,8,3.3,10.419692282932576,0,0,106.11306214269258,Intel Core i3,1000,0,Nvidia,Windows
+Dell,Ultrabook,4,1.4,10.682851144184026,0,1,165.6321180513006,Intel Core i5,0,256,AMD,Windows
+Lenovo,Ultrabook,8,1.3,10.977716980635757,0,1,125.36742798669836,Intel Core i5,0,180,Intel,Windows
+HP,Ultrabook,8,1.88,11.658835785532077,0,0,141.21199808219862,Intel Core i7,0,256,Intel,Windows
+Acer,Notebook,4,2.2,10.2484380327783,0,0,141.21199808219862,Intel Core i3,1000,0,Nvidia,Windows
+Lenovo,Notebook,4,2.05,10.421280845617712,0,0,141.21199808219862,Intel Core i3,0,128,Intel,Windows
+Asus,Gaming,16,2.34,11.727036344253593,0,1,141.21199808219862,Intel Core i7,1000,256,Nvidia,Windows
+HP,Notebook,4,1.96,10.190169124654323,0,0,100.45466986113652,Other Intel Processor,1000,0,Intel,Windows
+HP,Notebook,4,2.04,10.862092668762644,0,0,100.45466986113652,Intel Core i5,0,256,Intel,Windows
+HP,Ultrabook,8,1.54,11.267217235406594,0,0,157.3505121487356,Intel Core i7,0,512,Intel,Windows
+Dell,Ultrabook,8,1.29,11.368208546953756,1,0,276.053530085501,Intel Core i5,0,256,Intel,Windows
+HP,Gaming,16,3.35,11.204674904025437,0,1,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+HP,Notebook,4,1.32,10.525211768465944,0,1,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Lenovo,Ultrabook,6,1.54,10.698190821087582,0,0,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+Lenovo,Notebook,4,2.2,9.67600459962282,0,0,100.45466986113652,AMD Processor,500,0,AMD,Windows
+Acer,Gaming,8,2.5,10.716080385838357,0,1,141.21199808219862,Intel Core i5,0,256,Nvidia,Windows
+Acer,Notebook,4,2.1,9.672654512737536,0,0,100.45466986113652,Other Intel Processor,1000,0,Intel,Others
+Lenovo,Netbook,16,1.3,11.38409159312676,1,1,176.23257360658386,Intel Core i7,0,512,Intel,Windows
+Dell,Ultrabook,8,1.36,11.377402604975964,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Acer,2 in 1 Convertible,8,1.2,11.02220830408089,1,1,157.3505121487356,Intel Core i7,0,256,Intel,Windows
+Dell,Notebook,8,1.64,11.047982926769505,0,0,157.3505121487356,Intel Core i5,0,256,Nvidia,Windows
+Asus,Notebook,4,2.45,10.336863503805128,0,0,100.45466986113652,Intel Core i5,1000,0,Nvidia,Others
+HP,Notebook,4,2.31,11.064804181259648,0,0,100.45466986113652,Intel Core i5,500,0,Intel,Windows
+Dell,Gaming,16,2.65,11.288114524334732,0,1,141.21199808219862,Intel Core i7,1000,256,Nvidia,Windows
+Acer,Notebook,4,2.4,9.915732278952564,0,0,100.45466986113652,Other Intel Processor,500,0,Intel,Windows
+HP,Notebook,4,1.95,11.118388427393754,0,0,157.3505121487356,Intel Core i5,0,128,Intel,Windows
+Lenovo,Notebook,8,2.1,11.08997268702302,0,1,141.21199808219862,Intel Core i7,0,256,AMD,Windows
+HP,Notebook,8,1.34,11.056428922922915,0,1,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Acer,Notebook,8,2.23,10.126163794678414,0,0,141.21199808219862,AMD Processor,0,256,AMD,Windows
+Lenovo,Notebook,8,1.4,10.83096982484206,0,1,165.6321180513006,Intel Core i3,0,256,Intel,Windows
+Dell,Notebook,4,2.24,10.620847035233894,0,0,100.45466986113652,Intel Core i5,500,0,AMD,Windows
+Dell,Notebook,16,2.02,10.931153634628432,0,0,141.21199808219862,Intel Core i7,2000,256,AMD,Others
+Acer,Notebook,4,1.8,10.430759589572256,0,1,157.3505121487356,Intel Core i3,0,128,Intel,Windows
+MSI,Gaming,8,2.2,10.70777173269934,0,1,141.21199808219862,Intel Core i7,1000,0,Nvidia,Windows
+Acer,Notebook,4,2.1,10.078119620845705,0,0,100.45466986113652,Intel Core i3,1000,0,Intel,Windows
+HP,Notebook,4,1.91,10.167903065600154,0,0,141.21199808219862,AMD Processor,0,256,AMD,Windows
+Dell,Ultrabook,8,1.23,11.219074000897615,0,0,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Lenovo,Notebook,8,2.2,10.283659467741664,0,0,100.45466986113652,Intel Core i5,2000,0,Nvidia,Others
+Dell,Workstation,8,2.23,11.572957346444928,0,0,141.21199808219862,Other Intel Processor,1000,0,Nvidia,Windows
+HP,Notebook,6,2.65,10.319441460358464,0,1,127.33567457123112,AMD Processor,2000,0,AMD,Windows
+Dell,Notebook,12,2.3,10.545140618545505,0,0,100.45466986113652,Intel Core i7,1000,0,Intel,Windows
+Lenovo,Notebook,8,1.44,10.842494310694017,0,1,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Dell,Notebook,16,2.77,11.320925866649002,1,0,127.33567457123112,Intel Core i7,0,512,Nvidia,Windows
+Asus,Notebook,4,1.65,9.603146168052769,0,0,111.93520355955212,AMD Processor,0,64,AMD,Windows
+Acer,Ultrabook,8,1.6,10.760018088869778,0,1,157.3505121487356,Intel Core i7,0,256,Intel,Windows
+HP,Notebook,8,2.65,10.274785970374204,0,0,106.11306214269258,Intel Core i3,1000,0,Intel,Windows
+HP,Notebook,4,2.1,9.962013031516571,0,0,141.21199808219862,AMD Processor,1000,0,AMD,Windows
+Asus,Gaming,12,3.0,10.83096982484206,0,0,127.33567457123112,Intel Core i7,1000,0,Nvidia,Others
+Asus,Ultrabook,8,1.1,11.009948956147635,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Asus,Gaming,32,3.8,11.912578515747589,0,1,127.33567457123112,Intel Core i7,0,512,Nvidia,Windows
+Lenovo,Notebook,8,1.8,11.058109595587434,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+HP,Notebook,4,1.44,9.409283029786373,0,0,111.93520355955212,Other Intel Processor,0,32,Intel,Windows
+Dell,Notebook,16,2.3,10.731341589592168,1,0,141.21199808219862,Intel Core i7,1000,0,AMD,Windows
+Lenovo,Notebook,8,2.2,10.466299735126338,0,0,141.21199808219862,Intel Core i7,1000,0,Nvidia,Others
+Dell,Notebook,4,2.18,10.071160338072124,0,0,100.45466986113652,Intel Core i3,1000,0,Intel,Others
+Dell,Ultrabook,8,1.7,10.754345923917311,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Mediacom,Notebook,4,1.35,9.51682457139056,0,1,165.6321180513006,Other Intel Processor,0,0,Intel,Windows
+Lenovo,2 in 1 Convertible,8,1.37,11.588886005772771,1,1,165.6321180513006,Intel Core i7,0,512,Intel,Windows
+MSI,Gaming,8,2.7,11.064804181259648,0,0,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Lenovo,Gaming,8,2.5,11.105659536357711,0,1,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+Lenovo,2 in 1 Convertible,8,1.37,11.219074000897615,1,1,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Lenovo,Notebook,4,2.32,10.690944412566814,0,0,141.21199808219862,Intel Core i7,0,0,Intel,Windows
+Dell,Gaming,32,4.36,12.1806155047626,0,0,254.67134914246225,Intel Core i7,1000,1000,Nvidia,Windows
+Dell,Gaming,16,4.42,11.876197639250138,0,1,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+HP,2 in 1 Convertible,16,1.42,11.219074000897615,1,0,276.053530085501,Intel Core i7,0,256,Intel,Windows
+Dell,Gaming,16,4.42,11.912578515747589,0,1,169.78089942830815,Intel Core i7,1000,256,Nvidia,Windows
+Dell,Gaming,8,2.62,10.868202667404224,0,0,141.21199808219862,Intel Core i5,0,256,Nvidia,Windows
+Asus,Netbook,2,1.1,9.47681923677686,0,0,135.0942111925629,Other Intel Processor,0,0,Intel,Windows
+Dell,Notebook,4,2.3,10.435465480609668,0,0,141.21199808219862,Intel Core i5,0,256,AMD,Windows
+HP,Notebook,4,1.63,10.55758616512496,0,1,111.93520355955212,Intel Core i5,500,0,Intel,Windows
+Huawei,Ultrabook,8,1.05,11.288114524334732,0,1,199.69207064108247,Intel Core i7,0,512,Intel,Windows
+HP,Notebook,6,1.91,10.403666298916727,0,0,141.21199808219862,Intel Core i5,0,256,AMD,Windows
+Lenovo,2 in 1 Convertible,16,2.0,11.52464373704442,1,1,282.42399616439724,Intel Core i7,0,512,Nvidia,Windows
+Lenovo,Gaming,8,2.4,11.02220830408089,0,1,141.21199808219862,Intel Core i7,1000,256,Nvidia,Others
+Apple,Ultrabook,8,0.92,11.129394827810977,0,1,226.4155471693585,Other Intel Processor,0,0,Intel,Mac
+Asus,Notebook,4,2.65,9.70890230312988,0,0,100.45466986113652,Other Intel Processor,1000,0,Intel,Windows
+Dell,Ultrabook,8,1.23,11.204674904025437,1,0,276.053530085501,Intel Core i7,0,256,Intel,Windows
+HP,Notebook,8,1.48,11.120757161229305,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+HP,Notebook,4,1.95,10.941585213338248,0,0,111.93520355955212,Intel Core i5,500,0,Intel,Windows
+Acer,Notebook,4,1.6,10.460196261867386,0,0,117.82653006268644,Intel Core i5,0,128,Intel,Windows
+Acer,Notebook,8,2.1,9.93914036985058,0,0,111.93520355955212,Intel Core i3,1000,0,Intel,Windows
+HP,Notebook,4,2.1,9.83063294843456,0,0,141.21199808219862,Intel Core i3,500,0,Intel,Others
+Lenovo,Notebook,8,2.2,10.481345086360362,0,1,141.21199808219862,Intel Core i7,1000,0,Nvidia,Windows
+Dell,Notebook,8,2.36,10.594300009749354,0,0,100.45466986113652,Intel Core i7,1000,0,AMD,Windows
+Dell,Notebook,4,2.36,10.46628456073464,0,0,106.11306214269258,Intel Core i3,1000,0,AMD,Windows
+Apple,Ultrabook,16,1.83,11.814475944954545,0,1,220.53462386625827,Intel Core i7,0,512,AMD,Mac
+HP,Notebook,8,1.84,11.017847198171877,0,0,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+Lenovo,Ultrabook,8,1.32,11.503355013953575,0,0,157.3505121487356,Intel Core i7,0,256,Intel,Windows
+Asus,2 in 1 Convertible,6,1.5,10.435481129939486,1,0,165.6321180513006,Intel Core i5,1000,0,Intel,Windows
+Samsung,Ultrabook,16,0.81,11.383485348791732,0,0,165.6321180513006,Intel Core i7,0,256,Intel,Windows
+Lenovo,Notebook,16,2.5,11.74620626036131,0,0,282.42399616439724,Intel Core i7,0,512,Nvidia,Windows
+HP,Notebook,4,1.86,10.159709917169616,0,0,100.45466986113652,Intel Core i5,500,0,Intel,Windows
+Asus,Ultrabook,8,1.1,11.510857728676225,0,0,157.3505121487356,Intel Core i7,0,512,Intel,Windows
+Xiaomi,Notebook,8,1.95,11.064804181259648,0,1,141.21199808219862,Intel Core i5,0,256,Nvidia,Others
+Acer,Gaming,16,2.5,11.144911042902732,0,0,141.21199808219862,Intel Core i5,0,256,Nvidia,Windows
+Lenovo,Notebook,2,1.5,9.409283029786373,0,0,111.93520355955212,Other Intel Processor,0,0,Intel,Windows
+Asus,Notebook,4,2.2,10.5552565839505,0,0,100.45466986113652,Intel Core i7,500,0,Nvidia,Windows
+HP,Notebook,8,1.88,11.340108040487776,0,0,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+Acer,Gaming,8,2.4,10.657669623681942,0,0,141.21199808219862,Intel Core i5,1000,0,Nvidia,Others
+Toshiba,Notebook,8,2.0,10.82462730886559,0,1,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+Dell,Notebook,8,1.93,11.197396851520583,0,0,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+Asus,Gaming,16,2.99,11.442360501250736,0,0,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Lenovo,Gaming,16,2.5,10.959350991490268,0,1,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+Dell,Notebook,4,2.3,10.34717287346399,0,0,141.21199808219862,Intel Core i5,500,0,AMD,Windows
+Lenovo,Notebook,8,2.05,10.580858947180335,0,0,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+HP,Notebook,8,1.91,10.403650143697382,0,0,100.45466986113652,Intel Core i5,0,256,AMD,Windows
+Lenovo,Notebook,4,1.7,10.370822624347584,0,1,157.3505121487356,Intel Core i3,0,128,Intel,Windows
+Dell,Ultrabook,8,1.2,11.340108040487776,0,0,165.6321180513006,Intel Core i7,0,256,Intel,Windows
+MSI,Gaming,8,2.2,10.996564630149608,0,0,141.21199808219862,Intel Core i5,1000,128,Nvidia,Windows
+HP,Notebook,6,2.04,10.265276597141131,0,0,141.21199808219862,Intel Core i3,1000,0,AMD,Windows
+Asus,Notebook,8,2.69,10.767905453702944,0,0,127.33567457123112,Intel Core i5,500,256,Nvidia,Windows
+HP,Notebook,8,1.43,11.684869359618002,0,0,157.3505121487356,Intel Core i7,0,256,Intel,Windows
+HP,Notebook,4,1.49,10.56311104105693,0,1,165.6321180513006,Intel Core i5,0,128,Intel,Windows
+Asus,Notebook,4,2.0,9.692588727638356,0,0,100.45466986113652,Other Intel Processor,500,0,Intel,Windows
+Dell,2 in 1 Convertible,8,1.55,10.46628456073464,1,0,165.6321180513006,Intel Core i5,1000,0,Intel,Windows
+Dell,2 in 1 Convertible,8,2.3,10.97315700921406,1,1,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+Asus,Gaming,16,2.9,11.635675345406062,0,0,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Dell,Notebook,4,2.2,10.594300009749354,0,0,141.21199808219862,Intel Core i5,0,256,AMD,Windows
+Lenovo,Notebook,8,1.44,10.83096982484206,0,0,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Acer,Notebook,4,3.0,10.529494430257945,0,1,127.33567457123112,Intel Core i3,0,256,Nvidia,Windows
+HP,Workstation,8,2.0,11.52464373704442,0,0,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+Asus,Ultrabook,8,1.2,11.004648590381796,0,1,276.053530085501,Intel Core i5,0,256,Intel,Windows
+HP,Ultrabook,8,1.26,11.064804181259648,0,0,176.23257360658386,Intel Core i5,0,256,Intel,Windows
+HP,Notebook,16,2.5,11.123120297421588,0,0,127.33567457123112,Intel Core i7,0,512,Nvidia,Windows
+HP,Notebook,4,1.86,9.532389087931673,0,0,100.45466986113652,Other Intel Processor,500,0,Intel,Others
+HP,Notebook,8,1.95,11.061462490597744,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Toshiba,Notebook,4,2.1,10.078119620845705,0,0,100.45466986113652,Intel Core i3,500,0,Intel,Windows
+Toshiba,Ultrabook,8,1.2,11.34705032144641,0,0,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+HP,Notebook,4,1.86,9.959497306919324,0,0,141.21199808219862,Intel Core i3,500,0,Intel,Windows
+Asus,Notebook,8,1.7,10.994857679947176,0,0,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+Dell,Gaming,16,3.21,11.167743084945378,0,0,282.42399616439724,Intel Core i7,1000,256,Nvidia,Windows
+Dell,Notebook,4,2.3,10.37065566550255,0,0,141.21199808219862,Intel Core i5,0,256,AMD,Others
+Apple,Ultrabook,8,1.34,10.77677731765335,0,0,127.67794013309688,Intel Core i5,0,0,Intel,Mac
+HP,Ultrabook,16,1.3,11.600668174471034,0,1,331.2642361026012,Intel Core i7,0,512,Intel,Windows
+Asus,Gaming,8,2.3,11.383485348791732,0,1,141.21199808219862,Intel Core i5,1000,128,Nvidia,Windows
+Dell,2 in 1 Convertible,8,1.24,11.582992127736915,1,0,276.053530085501,Intel Core i7,0,512,Intel,Windows
+MSI,Gaming,8,2.2,11.272726554360904,0,0,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+Acer,2 in 1 Convertible,4,1.25,9.83063294843456,1,1,189.90579052433608,Other Intel Processor,0,0,Intel,Windows
+Lenovo,Ultrabook,16,1.36,11.4699912412637,0,1,176.23257360658386,Intel Core i7,0,512,Intel,Windows
+Lenovo,2 in 1 Convertible,8,1.37,11.551145677789926,1,1,165.6321180513006,Intel Core i7,0,256,Intel,Windows
+Dell,Notebook,8,1.98,10.843535435202426,0,0,141.21199808219862,Intel Core i7,1000,0,Nvidia,Windows
+Toshiba,Notebook,8,2.2,10.99575173454406,0,0,100.45466986113652,Intel Core i5,0,256,Intel,Windows
+HP,2 in 1 Convertible,8,1.28,11.822932862391925,1,0,165.6321180513006,Intel Core i7,0,256,Intel,Windows
+Lenovo,Ultrabook,16,1.14,11.779404329770909,0,1,157.3505121487356,Intel Core i7,0,512,Intel,Windows
+Lenovo,Notebook,4,2.2,9.861637279518702,0,0,100.45466986113652,Other Intel Processor,1000,0,Intel,Others
+HP,Notebook,8,2.1,10.54924119319278,0,1,141.21199808219862,Intel Core i3,1000,0,Nvidia,Windows
+Acer,Notebook,8,1.56,10.780175546294757,0,1,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+HP,Workstation,8,3.14,11.529366637136484,0,0,127.33567457123112,Intel Core i7,500,0,Nvidia,Windows
+Lenovo,Notebook,8,1.9,10.682362236272311,0,0,141.21199808219862,Intel Core i5,1000,128,AMD,Windows
+Lenovo,Ultrabook,8,1.32,11.288114524334732,0,1,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Dell,Notebook,8,2.13,10.56586207442882,0,0,141.21199808219862,Intel Core i5,0,256,AMD,Windows
+HP,2 in 1 Convertible,8,1.4,10.180118788800824,1,0,135.0942111925629,Other Intel Processor,0,0,Intel,Others
+HP,Notebook,4,1.54,10.913835810881007,0,0,157.3505121487356,Intel Core i5,500,0,Intel,Windows
+Lenovo,Ultrabook,8,0.99,11.219074000897615,1,1,234.9767648087785,Other Intel Processor,0,512,Intel,Windows
+Acer,Notebook,4,3.0,10.666403303650696,0,1,127.33567457123112,Intel Core i5,0,256,Nvidia,Windows
+Acer,Notebook,8,2.5,10.754345923917311,0,0,141.21199808219862,Intel Core i7,0,256,Nvidia,Others
+Lenovo,2 in 1 Convertible,4,1.8,10.70060667312884,1,0,157.3505121487356,Intel Core i5,0,128,Intel,Windows
+Lenovo,Notebook,8,1.9,10.81931097523836,0,1,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+HP,Notebook,4,1.96,10.188167121983652,0,0,100.45466986113652,Intel Core i5,500,0,Intel,Others
+Dell,2 in 1 Convertible,12,2.77,10.882315804880689,1,0,127.33567457123112,Intel Core i5,1000,0,Nvidia,Windows
+Dell,Gaming,32,4.42,12.0059347920825,0,1,127.33567457123112,Intel Core i7,1000,512,Nvidia,Windows
+MSI,Gaming,8,2.7,11.226196538130814,0,0,127.33567457123112,Intel Core i7,1000,128,Nvidia,Windows
+Asus,Gaming,16,2.9,11.307930232161196,0,0,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+MSI,Gaming,16,2.94,11.481603204750256,0,0,141.21199808219862,Intel Core i7,1000,256,Nvidia,Windows
+HP,Gaming,8,2.62,10.776844060703754,0,1,141.21199808219862,Intel Core i7,1000,0,Nvidia,Windows
+Xiaomi,Ultrabook,8,1.3,10.883216300213936,0,1,165.6321180513006,Intel Core i5,0,256,Nvidia,Others
+Lenovo,Gaming,32,4.6,11.862769612046066,0,1,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+HP,Notebook,4,1.86,9.964522443121997,0,0,100.45466986113652,AMD Processor,500,0,AMD,Windows
+MSI,Gaming,16,4.14,11.671319016786894,0,0,127.33567457123112,Intel Core i7,1000,128,Nvidia,Windows
+Dell,Notebook,4,2.25,9.858883414720411,0,0,100.45466986113652,Intel Core i3,1000,0,Intel,Others
+Dell,Notebook,8,2.3,10.126185116412724,1,0,100.45466986113652,Intel Core i3,1000,0,Intel,Windows
+Lenovo,2 in 1 Convertible,8,1.3,11.064804181259648,1,1,276.053530085501,Intel Core i5,0,256,Intel,Windows
+Dell,Notebook,16,2.3,11.049906436113686,0,0,141.21199808219862,Intel Core i7,0,256,AMD,Windows
+HP,Notebook,8,2.04,10.862092668762644,0,1,141.21199808219862,Intel Core i5,1000,128,Nvidia,Windows
+HP,Netbook,8,1.26,11.277383368370064,0,0,176.23257360658386,Intel Core i7,0,512,Intel,Windows
+Lenovo,Workstation,16,2.5,12.076935697460716,0,1,282.42399616439724,Intel Core i7,0,1000,Nvidia,Windows
+Lenovo,Notebook,4,2.2,9.964522443121997,0,0,141.21199808219862,AMD Processor,0,256,AMD,Windows
+Lenovo,2 in 1 Convertible,8,1.74,10.776844060703754,0,1,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Dell,Gaming,8,2.62,10.977716980635757,0,0,141.21199808219862,Intel Core i7,1000,0,Nvidia,Windows
+HP,Ultrabook,8,1.39,11.02220830408089,1,0,276.053530085501,Intel Core i7,0,256,Intel,Windows
+HP,Notebook,8,1.43,11.29741074002049,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Asus,Notebook,4,2.03,9.974497588178815,0,0,100.45466986113652,AMD Processor,1000,0,AMD,Windows
+Lenovo,Notebook,8,1.7,10.370822624347584,0,1,157.3505121487356,Intel Core i3,0,256,Intel,Others
+Lenovo,Notebook,4,1.45,10.106570100778011,0,0,117.82653006268644,Other Intel Processor,0,0,Intel,Others
+HP,Notebook,8,1.63,10.675061366393813,0,0,157.3505121487356,Intel Core i5,1000,0,Intel,Windows
+Lenovo,2 in 1 Convertible,4,2.1,10.740600003012675,1,1,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+Dell,Notebook,8,1.6,11.06979587215689,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Dell,Notebook,4,2.18,10.30099467974321,0,0,100.45466986113652,Intel Core i3,1000,0,Intel,Windows
+Dell,Ultrabook,8,1.2,11.254189968552817,0,0,165.6321180513006,Intel Core i7,0,256,Intel,Windows
+HP,Netbook,2,1.17,9.317895278196945,0,0,135.0942111925629,Other Intel Processor,0,0,Intel,Windows
+Asus,Notebook,4,1.5,9.60318213992277,0,0,111.93520355955212,Other Intel Processor,0,0,Intel,Windows
+Dell,Notebook,4,2.2,9.591968421403331,0,0,100.45466986113652,Other Intel Processor,500,0,Intel,Others
+Asus,Gaming,16,2.73,11.470547260182666,0,0,127.33567457123112,Intel Core i7,1000,512,Nvidia,Windows
+Vero,Notebook,4,1.22,9.288274273063903,0,0,157.3505121487356,Other Intel Processor,0,0,Intel,Windows
+HP,Notebook,8,2.6,10.23111911098328,0,0,107.98564559226952,AMD Processor,1000,0,AMD,Windows
+Acer,Gaming,8,2.4,10.53941655276426,0,0,141.21199808219862,Intel Core i5,1000,0,Nvidia,Others
+Lenovo,Gaming,8,2.5,10.9867750135825,0,1,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+HP,Notebook,8,2.54,10.167923515707006,0,0,106.11306214269258,Intel Core i3,1000,0,Intel,Windows
+Asus,Gaming,8,3.52,11.155242401621267,0,0,127.33567457123112,Intel Core i7,1000,128,Nvidia,Windows
+Lenovo,Notebook,8,2.2,10.35398720988372,0,0,100.45466986113652,Intel Core i3,0,128,Intel,Windows
+Lenovo,Notebook,8,2.3,10.7215735450074,0,1,141.21199808219862,Intel Core i5,1000,0,Intel,Windows
+Lenovo,Notebook,8,1.95,11.557785126252114,0,1,141.21199808219862,Intel Core i5,0,512,Intel,Windows
+HP,Notebook,4,1.86,9.964497380151284,0,0,141.21199808219862,Other Intel Processor,0,256,Intel,Windows
+Lenovo,Notebook,4,1.9,10.283659467741664,0,0,141.21199808219862,Intel Core i5,1000,0,Intel,Windows
+Asus,Ultrabook,8,1.45,10.908984051962848,0,1,165.6321180513006,Intel Core i5,0,512,Nvidia,Windows
+HP,Ultrabook,4,1.91,10.188167121983652,0,0,141.21199808219862,AMD Processor,0,256,AMD,Windows
+Toshiba,Notebook,16,2.4,11.237488118934884,0,1,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+Asus,2 in 1 Convertible,8,2.2,10.580858947180335,1,0,100.45466986113652,Intel Core i5,1000,0,Intel,Windows
+Lenovo,Notebook,8,3.4,11.981595204981144,0,1,127.33567457123112,Intel Core i7,0,256,Nvidia,Windows
+Lenovo,Notebook,4,2.2,9.83063294843456,0,0,100.45466986113652,AMD Processor,0,128,AMD,Windows
+Lenovo,Netbook,4,1.25,9.555290852218356,0,0,135.0942111925629,Other Intel Processor,0,16,Intel,Others
+HP,Notebook,4,1.64,10.633572072102885,0,0,111.93520355955212,Intel Core i5,500,0,Intel,Windows
+HP,Notebook,8,2.04,10.777955789556444,0,0,141.21199808219862,Intel Core i7,1000,0,Nvidia,Windows
+Toshiba,Notebook,4,1.75,10.188167121983652,0,0,111.93520355955212,Other Intel Processor,0,128,Intel,Windows
+Dell,Ultrabook,16,1.29,11.68979217108122,1,0,276.053530085501,Intel Core i7,0,512,Intel,Windows
+Lenovo,Notebook,4,1.85,10.633572072102885,0,0,141.21199808219862,Intel Core i7,1000,0,Intel,Windows
+Acer,Notebook,8,3.0,10.725492220020705,0,1,127.33567457123112,Intel Core i5,0,256,Nvidia,Windows
+Acer,2 in 1 Convertible,4,1.25,9.93914036985058,1,1,135.0942111925629,Other Intel Processor,0,0,Intel,Others
+MSI,Gaming,16,2.9,11.590859366057948,0,0,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Dell,Notebook,8,2.3,10.104611236292678,0,0,100.45466986113652,Intel Core i3,1000,0,Intel,Windows
+Acer,Notebook,4,2.23,10.403666298916727,0,0,100.45466986113652,Intel Core i5,500,0,Intel,Windows
+MSI,Gaming,16,1.7,11.45373072039192,0,0,157.3505121487356,Intel Core i7,1000,256,Nvidia,Windows
+Asus,Gaming,16,4.3,11.715790550995315,0,1,127.33567457123112,Intel Core i7,1000,128,Nvidia,Windows
+Toshiba,Notebook,8,2.0,10.732493415479688,0,1,141.21199808219862,Intel Core i5,500,0,Intel,Windows
+MSI,Gaming,16,1.8,11.715790550995315,0,0,282.42399616439724,Intel Core i7,2000,256,Nvidia,Windows
+Dell,2 in 1 Convertible,12,2.19,11.144911042902732,1,1,141.21199808219862,Intel Core i7,0,512,Intel,Windows
+HP,Notebook,8,2.63,11.065637862008224,0,0,127.33567457123112,Intel Core i7,0,256,Nvidia,Windows
+Acer,Notebook,8,2.2,10.46628456073464,0,0,100.45466986113652,AMD Processor,0,256,AMD,Windows
+Dell,Gaming,16,2.72,10.977716980635757,1,1,282.42399616439724,Intel Core i7,1000,128,Nvidia,Windows
+Acer,Ultrabook,8,1.12,10.872255357854844,0,1,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Lenovo,Gaming,16,3.31,11.149519345988928,0,1,141.21199808219862,Intel Core i7,0,512,Nvidia,Windows
+Acer,Notebook,4,2.4,9.92620357881986,0,0,100.45466986113652,Intel Core i3,1000,0,Intel,Windows
+Lenovo,Notebook,8,1.32,11.38409159312676,0,1,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+HP,Notebook,16,2.1,11.030873869571886,0,0,141.21199808219862,Intel Core i7,0,512,Intel,Windows
+Asus,Notebook,4,1.63,9.67600459962282,0,0,111.93520355955212,Other Intel Processor,0,0,Intel,Windows
+MSI,Gaming,16,3.78,11.758368289071829,0,0,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Lenovo,2 in 1 Convertible,16,1.42,11.921470624845266,1,0,209.8006828649808,Intel Core i7,0,1000,Intel,Windows
+HP,Notebook,8,1.63,10.913845510249091,0,0,157.3505121487356,Intel Core i7,0,256,Nvidia,Windows
+Toshiba,Notebook,4,2.0,10.167923515707006,0,0,100.45466986113652,Intel Core i3,500,0,Intel,Windows
+Dell,Notebook,8,2.14,10.57552675900535,0,0,141.21199808219862,Intel Core i7,0,256,AMD,Others
+Dell,Ultrabook,8,1.6,11.408044834149251,0,0,176.23257360658386,Intel Core i7,0,256,Intel,Windows
+Lenovo,Notebook,4,1.9,9.576276649067632,0,0,100.45466986113652,Other Intel Processor,0,128,Intel,Others
+Dell,Notebook,8,2.13,10.619090308798832,0,0,141.21199808219862,Intel Core i7,0,256,AMD,Windows
+Acer,Notebook,8,2.2,10.71015268620508,0,1,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+Toshiba,Notebook,8,1.05,11.39733681987678,0,1,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+HP,Notebook,4,2.04,10.621938553982543,0,0,100.45466986113652,Intel Core i3,0,256,Intel,Windows
+Lenovo,Notebook,12,2.2,10.38737929394203,1,0,100.45466986113652,Intel Core i7,1000,0,Intel,Windows
+Lenovo,Notebook,6,2.2,10.368432457987426,0,0,141.21199808219862,AMD Processor,0,256,AMD,Windows
+Acer,Gaming,16,4.2,11.715790550995315,0,1,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Dell,Gaming,8,2.65,10.83096982484206,0,0,141.21199808219862,Intel Core i5,0,0,Nvidia,Windows
+Acer,Notebook,2,2.19,9.268865850956626,0,0,100.45466986113652,Other Intel Processor,0,16,Intel,Others
+Acer,Notebook,8,2.2,10.588945244611692,0,1,141.21199808219862,Intel Core i7,1000,0,Nvidia,Windows
+Dell,Notebook,8,2.0,11.016753943443987,0,0,141.21199808219862,Intel Core i5,0,256,Nvidia,Windows
+HP,Notebook,6,2.71,10.525211768465944,0,1,127.33567457123112,Intel Core i5,2000,0,AMD,Windows
+Lenovo,Notebook,4,2.19,9.672654512737536,0,0,100.45466986113652,AMD Processor,500,0,AMD,Windows
+Dell,Notebook,8,2.36,10.765658261746038,0,0,141.21199808219862,Intel Core i5,0,256,AMD,Windows
+LG,Ultrabook,16,1.08,11.624777346052769,1,1,141.21199808219862,Intel Core i7,0,512,Intel,Windows
+HP,Ultrabook,8,1.26,11.52253514374866,0,0,125.36742798669836,Intel Core i5,0,256,Intel,Windows
+MSI,Gaming,16,1.91,11.650350362059475,0,0,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+Acer,2 in 1 Convertible,8,1.6,10.510802297245792,1,1,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Dell,Notebook,8,2.14,10.267037568910904,0,0,100.45466986113652,Intel Core i5,1000,0,Intel,Windows
+Dell,2 in 1 Convertible,8,2.191,10.882315804880689,1,1,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+Lenovo,Workstation,16,2.3,11.777361428141106,0,1,282.42399616439724,Intel Core i7,0,512,Nvidia,Windows
+Lenovo,Notebook,4,2.02,10.87326596936077,0,0,111.93520355955212,Intel Core i5,500,0,Intel,Windows
+Dell,Notebook,8,2.3,10.667632361713904,0,0,100.45466986113652,Intel Core i7,1000,0,AMD,Others
+Toshiba,Notebook,8,2.2,10.925417481232904,0,1,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+Dell,Gaming,16,4.36,11.801613023751164,0,1,127.33567457123112,Intel Core i7,1000,128,Nvidia,Windows
+Dell,Notebook,8,2.36,10.435152442572992,0,0,141.21199808219862,Intel Core i5,1000,0,AMD,Windows
+Lenovo,Notebook,8,2.2,10.776844060703754,0,0,141.21199808219862,Intel Core i7,1000,0,Nvidia,Windows
+Dell,Notebook,8,2.18,10.59563423276249,0,0,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+Lenovo,Notebook,8,2.3,10.93172544442196,0,0,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+HP,Notebook,4,1.88,10.812893840917726,0,0,100.45466986113652,Intel Core i5,500,0,Intel,Windows
+HP,Workstation,8,3.0,11.947682155153789,0,1,127.33567457123112,Intel Core i7,1000,0,AMD,Windows
+Lenovo,Notebook,8,1.65,11.179710318268071,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Asus,Gaming,16,2.9,11.550632725739694,0,0,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+HP,Notebook,4,2.31,11.056428922922915,0,0,111.93520355955212,Intel Core i5,500,0,Intel,Windows
+Asus,Notebook,8,2.0,11.171498252707703,0,0,157.3505121487356,Intel Core i7,1000,256,Intel,Windows
+Acer,Notebook,8,2.2,10.510802297245792,0,0,141.21199808219862,Intel Core i7,1000,0,Nvidia,Windows
+Acer,Notebook,8,2.2,10.336863503805128,0,0,100.45466986113652,AMD Processor,1000,0,AMD,Windows
+Lenovo,Notebook,4,2.3,10.860047678274915,0,1,141.21199808219862,Intel Core i5,1000,0,Nvidia,Windows
+Asus,Notebook,4,2.2,9.88635767027266,0,0,100.45466986113652,Other Intel Processor,500,0,Intel,Windows
+Dell,Ultrabook,16,1.21,11.799206957067089,1,1,331.2642361026012,Intel Core i7,0,1000,Intel,Windows
+Asus,Gaming,8,3.0,11.038609189620306,0,0,127.33567457123112,Intel Core i7,1000,128,Nvidia,Windows
+Lenovo,Ultrabook,8,1.7,11.547549475609571,0,1,209.8006828649808,Intel Core i7,0,512,Nvidia,Windows
+HP,2 in 1 Convertible,4,2.3,10.504687851059666,1,0,100.45466986113652,Intel Core i5,500,0,Intel,Windows
+MSI,Gaming,16,2.8,11.69380197819145,0,0,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Lenovo,Gaming,4,2.4,10.882315804880689,0,1,141.21199808219862,Intel Core i7,1000,0,Nvidia,Windows
+Asus,Gaming,8,1.99,11.18342089766461,0,0,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+Dell,Notebook,4,1.6,10.749784912589748,0,0,111.93520355955212,Intel Core i5,500,0,Intel,Windows
+Acer,2 in 1 Convertible,8,1.6,10.64634002126892,1,1,165.6321180513006,Intel Core i7,0,256,Intel,Windows
+Lenovo,Notebook,6,2.4,10.319441460358464,0,0,141.21199808219862,Intel Core i3,0,128,Nvidia,Windows
+Lenovo,Notebook,4,1.85,10.082583913974387,0,0,141.21199808219862,Intel Core i3,1000,0,Intel,Windows
+Acer,Notebook,4,1.6,9.771618776997505,0,0,157.3505121487356,Other Intel Processor,0,0,Intel,Windows
+MSI,Gaming,8,2.6,11.352694739066088,0,0,127.33567457123112,Intel Core i7,0,256,Nvidia,Windows
+Lenovo,Notebook,16,1.4,11.288114524334732,0,1,165.6321180513006,Intel Core i7,0,512,Intel,Windows
+HP,Workstation,8,2.59,11.684869359618002,0,1,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+Toshiba,Notebook,8,1.05,11.271974295006054,0,0,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+HP,Notebook,8,1.91,10.075655737865564,0,0,100.45466986113652,AMD Processor,0,128,AMD,Windows
+Acer,Netbook,4,1.35,9.84767881570755,0,1,135.0942111925629,Other Intel Processor,0,0,Intel,Others
+Asus,2 in 1 Convertible,12,2.3,10.70777173269934,1,0,141.21199808219862,Intel Core i7,2000,0,Nvidia,Windows
+Lenovo,Notebook,8,1.95,10.975895486507364,0,1,141.21199808219862,Intel Core i7,0,256,Intel,Windows
+HP,Notebook,8,2.04,10.716671227805325,0,0,100.45466986113652,Intel Core i5,1000,0,Nvidia,Windows
+HP,Ultrabook,8,1.84,10.598297350181973,0,0,141.21199808219862,Intel Core i7,0,256,Intel,Windows
+Dell,2 in 1 Convertible,8,1.62,10.683645110085203,1,0,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Dell,Ultrabook,8,1.42,11.494086806506765,1,0,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Lenovo,Notebook,8,1.5,10.977716980635757,0,1,157.3505121487356,Intel Core i5,0,256,Nvidia,Windows
+Lenovo,Notebook,8,2.3,10.696986727022775,0,0,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+Apple,Ultrabook,8,1.37,11.301072237406668,0,1,226.98300468106115,Intel Core i5,0,256,Intel,Mac
+Acer,Netbook,2,1.3,9.134616325446665,0,0,135.0942111925629,Other Intel Processor,0,32,Intel,Others
+HP,2 in 1 Convertible,8,1.58,10.704907085240231,1,1,117.82653006268644,Intel Core i5,0,256,Intel,Windows
+HP,Notebook,4,2.71,10.060060439307303,0,0,127.33567457123112,AMD Processor,500,0,AMD,Windows
+Asus,Notebook,4,1.86,10.013431946154272,0,0,100.45466986113652,Other Intel Processor,0,128,Intel,Windows
+Dell,2 in 1 Convertible,4,1.47,10.147261623643049,1,0,135.0942111925629,Other Intel Processor,500,0,Intel,Windows
+Dell,2 in 1 Convertible,4,1.39,10.37747822295932,1,0,135.0942111925629,Other Intel Processor,0,128,Intel,Windows
+HP,Notebook,6,1.95,10.450993742936223,0,1,141.21199808219862,AMD Processor,0,256,AMD,Windows
+Acer,Notebook,4,2.23,10.274510273088076,0,0,141.21199808219862,Intel Core i3,1000,0,Nvidia,Windows
+HP,Ultrabook,8,1.16,11.56084210487126,0,0,165.6321180513006,Intel Core i7,0,512,Intel,Windows
+Dell,Notebook,4,2.2,10.187966701099125,0,0,141.21199808219862,Intel Core i3,0,256,AMD,Windows
+Asus,Gaming,64,3.58,12.263341053320566,0,1,127.33567457123112,Intel Core i7,0,1000,Nvidia,Windows
+Dell,Notebook,8,2.04,11.694548697992886,1,1,282.42399616439724,Intel Core i5,0,256,Nvidia,Windows
+Asus,Notebook,4,2.8,10.2484380327783,0,0,106.11306214269258,Other Intel Processor,1000,0,Nvidia,Windows
+MSI,Gaming,16,2.43,11.857498515504204,0,1,254.67134914246225,Intel Core i7,2000,512,Nvidia,Windows
+Lenovo,2 in 1 Convertible,8,1.8,11.395540949893968,1,1,157.3505121487356,Intel Core i7,0,256,Intel,Windows
+Samsung,Ultrabook,8,1.17,11.413356147904066,0,0,146.86047800548656,Intel Core i7,0,256,Intel,Windows
+Dell,Workstation,8,1.78,11.762112832660844,0,0,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+Dell,Notebook,4,2.18,10.580858947180335,0,0,141.21199808219862,Intel Core i7,0,256,AMD,Windows
+MSI,Gaming,8,2.4,11.064804181259648,0,0,141.21199808219862,Intel Core i5,0,256,Nvidia,Windows
+HP,Notebook,8,1.48,11.442360501250736,0,0,157.3505121487356,Intel Core i7,0,1000,Intel,Windows
+Asus,Ultrabook,16,1.1,11.44230332408728,1,0,165.6321180513006,Intel Core i7,0,512,Intel,Windows
+Acer,Notebook,4,2.1,10.082583913974387,0,0,100.45466986113652,Intel Core i3,0,128,Intel,Windows
+Dell,Gaming,8,2.62,10.809669765045973,0,0,141.21199808219862,Intel Core i7,1000,0,Nvidia,Others
+Lenovo,Notebook,8,2.3,10.326446742946873,0,1,141.21199808219862,Intel Core i5,0,256,Intel,Others
+Microsoft,Ultrabook,4,1.252,10.872255357854844,1,0,200.84255993695703,Other Intel Processor,0,128,Intel,Windows
+Lenovo,Notebook,8,2.29,10.104611236292678,0,0,100.45466986113652,Intel Core i3,1000,0,Intel,Windows
+HP,Notebook,8,2.5,10.808592759018332,0,0,127.33567457123112,Intel Core i5,0,256,Intel,Windows
+Lenovo,Gaming,8,3.2,11.219074000897615,0,1,141.21199808219862,Intel Core i7,1000,256,Nvidia,Windows
+HP,Gaming,12,3.78,11.413356147904066,0,1,127.33567457123112,Intel Core i7,1000,0,Nvidia,Windows
+HP,Ultrabook,8,1.26,11.18267988243989,0,0,176.23257360658386,Intel Core i7,0,256,Intel,Windows
+HP,Notebook,6,2.19,10.614128815398654,0,0,100.45466986113652,Intel Core i7,1000,0,AMD,Windows
+Dell,Notebook,8,2.09,10.944364366779205,0,0,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+Dell,Ultrabook,16,1.88,11.358282600039752,0,0,141.21199808219862,Intel Core i7,0,768,Intel,Windows
+Lenovo,Notebook,6,2.4,10.310615277730191,0,0,141.21199808219862,Intel Core i5,1000,0,Intel,Windows
+Dell,Notebook,4,1.93,10.841452101115571,0,0,100.45466986113652,Intel Core i5,500,0,Intel,Windows
+HP,Notebook,8,1.86,10.329931067029484,0,0,141.21199808219862,Intel Core i5,0,256,Intel,Others
+Asus,Notebook,4,2.8,10.11974666035778,0,0,90.58340172449304,Other Intel Processor,1000,0,Nvidia,Windows
+Lenovo,Gaming,8,2.5,10.882315804880689,0,1,141.21199808219862,Intel Core i5,1000,128,Nvidia,Windows
+HP,Notebook,4,1.86,9.641641633704324,0,0,100.45466986113652,Other Intel Processor,1000,0,Intel,Others
+Asus,Notebook,12,2.06,11.144911042902732,0,1,282.42399616439724,Intel Core i7,1000,128,Intel,Windows
+Razer,Gaming,32,3.49,12.587882562739948,1,0,254.67134914246225,Intel Core i7,0,512,Nvidia,Windows
+HP,2 in 1 Convertible,16,1.28,11.563884703567355,1,0,165.6321180513006,Intel Core i7,0,256,Intel,Windows
+HP,Gaming,8,3.35,11.058109595587434,0,1,127.33567457123112,Intel Core i7,1000,128,Nvidia,Windows
+MSI,Gaming,16,2.2,11.144911042902732,0,0,141.21199808219862,Intel Core i7,1000,256,Nvidia,Windows
+HP,Ultrabook,8,1.54,11.509254736080766,0,0,157.3505121487356,Intel Core i7,0,512,Intel,Windows
+Dell,Ultrabook,8,1.36,11.402110098629436,0,0,157.3505121487356,Intel Core i7,0,512,Intel,Windows
+Lenovo,Gaming,8,3.31,11.06229896074271,0,1,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+Dell,Notebook,4,2.18,10.319441460358464,0,0,141.21199808219862,Intel Core i5,0,128,AMD,Others
+Lenovo,Notebook,4,2.79,10.35398720988372,0,0,106.11306214269258,Intel Core i5,1000,0,Nvidia,Windows
+Dell,Notebook,12,2.25,10.450993742936223,0,0,100.45466986113652,Intel Core i5,1000,0,Intel,Windows
+HP,Ultrabook,8,1.32,11.219074000897615,0,1,165.6321180513006,Intel Core i7,0,256,Intel,Windows
+Lenovo,Netbook,4,1.4,10.138875830266777,1,0,135.0942111925629,Other Intel Processor,0,128,Intel,Windows
+Dell,Gaming,8,2.62,11.2874471903093,0,0,282.42399616439724,Intel Core i7,1000,128,Nvidia,Windows
+Lenovo,Ultrabook,8,1.7,11.281414342976868,0,1,157.3505121487356,Intel Core i7,0,256,Intel,Windows
+Asus,2 in 1 Convertible,12,2.26,10.977716980635757,1,0,141.21199808219862,Intel Core i7,2000,512,Nvidia,Windows
+Acer,Gaming,16,4.2,11.543423631696015,0,1,127.33567457123112,Intel Core i7,1000,128,Nvidia,Windows
+MSI,Gaming,16,3.78,11.318754369272693,0,1,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Toshiba,Notebook,8,2.0,11.211180167298885,0,1,141.21199808219862,Intel Core i7,0,256,Intel,Windows
+Asus,Ultrabook,16,1.63,11.267217235406594,0,0,141.21199808219862,Intel Core i7,0,512,Nvidia,Windows
+Lenovo,2 in 1 Convertible,8,2.08,10.841452101115571,1,0,141.21199808219862,Intel Core i5,0,256,AMD,Windows
+HP,Notebook,8,2.5,10.860047678274915,0,0,127.33567457123112,Intel Core i5,1000,128,Nvidia,Windows
+Lenovo,Notebook,8,1.7,11.053902605789805,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Dell,Ultrabook,8,1.9,10.931153634628432,0,1,141.21199808219862,Intel Core i5,1000,128,Nvidia,Windows
+Dell,Ultrabook,8,1.4,10.837272366712863,0,1,165.6321180513006,Intel Core i7,0,256,AMD,Windows
+HP,Workstation,16,2.6,11.76667053684216,0,0,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+Toshiba,Notebook,8,1.25,11.311846686253432,1,1,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Lenovo,Gaming,8,2.5,10.695781181367428,0,1,141.21199808219862,Intel Core i5,0,256,Nvidia,Windows
+Dell,Ultrabook,16,1.2,11.869133099737036,1,0,276.053530085501,Intel Core i7,0,512,Intel,Windows
+HP,Notebook,4,1.64,10.503518943854685,0,0,111.93520355955212,Intel Core i3,500,0,Intel,Windows
+Dell,Notebook,8,2.2,10.490273717104664,0,0,141.21199808219862,Intel Core i5,1000,0,AMD,Windows
+Toshiba,Notebook,8,1.2,11.076412935176185,0,0,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Dell,Notebook,8,2.2,10.744054237880762,0,0,141.21199808219862,Intel Core i7,0,256,AMD,Windows
+Acer,Notebook,12,2.2,10.518018577413224,0,1,100.45466986113652,Intel Core i5,1000,0,Nvidia,Windows
+Acer,Notebook,4,2.2,9.317895278196945,0,0,100.45466986113652,Other Intel Processor,0,16,Intel,Others
+Dell,Notebook,8,2.2,10.447907320733034,0,0,141.21199808219862,Intel Core i5,1000,0,AMD,Others
+Dell,Notebook,4,2.2,10.277575423651992,0,0,100.45466986113652,Intel Core i3,1000,0,AMD,Windows
+Lenovo,Notebook,4,1.7,10.885314307876945,0,0,111.93520355955212,Intel Core i5,0,0,Intel,Windows
+Google,Ultrabook,16,1.1,11.671319016786894,1,0,234.50740003017813,Intel Core i7,0,512,Intel,Others
+Dell,Gaming,16,4.42,11.781988742399806,0,1,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Asus,Ultrabook,8,1.45,11.130176383145796,0,0,165.6321180513006,Intel Core i7,0,256,Intel,Windows
+Dell,Ultrabook,8,1.26,11.421778496562451,1,0,176.23257360658386,Intel Core i5,0,256,Intel,Windows
+Asus,Ultrabook,16,1.8,11.56792715475193,0,0,141.21199808219862,Intel Core i7,0,512,Nvidia,Windows
+Lenovo,Notebook,6,2.8,10.450993742936223,0,0,106.11306214269258,Intel Core i5,1000,0,Nvidia,Windows
+Dell,Notebook,4,2.18,10.463245044716745,0,0,141.21199808219862,Intel Core i5,1000,0,Intel,Windows
+Dell,Notebook,8,2.16,11.116014069333293,0,1,141.21199808219862,Intel Core i7,0,512,Nvidia,Windows
+Asus,Ultrabook,16,1.5,11.116014069333293,0,0,141.21199808219862,Intel Core i7,1000,256,Nvidia,Windows
+Lenovo,Notebook,8,2.5,10.645680750246626,0,0,141.21199808219862,Intel Core i5,0,0,AMD,Windows
+HP,2 in 1 Convertible,8,1.48,11.470547260182666,1,0,220.84282406840083,Intel Core i7,0,256,Intel,Windows
+Asus,Gaming,12,2.2,11.198054049689478,0,0,127.33567457123112,Intel Core i5,1000,128,Nvidia,Windows
+HP,Notebook,8,2.05,10.369151780182763,0,0,100.45466986113652,Intel Core i7,1000,0,Intel,Windows
+Dell,Notebook,8,1.98,10.772395917628929,0,0,141.21199808219862,Intel Core i7,0,256,Nvidia,Others
+HP,Notebook,8,1.84,11.148752768718731,0,0,141.21199808219862,Intel Core i7,0,256,Intel,Windows
+Lenovo,Notebook,4,1.44,10.756618652168314,0,0,165.6321180513006,Intel Core i5,0,128,Intel,Windows
+HP,Netbook,8,1.26,11.211900368986475,0,0,125.36742798669836,Intel Core i5,0,256,Intel,Windows
+Dell,Notebook,4,1.76,10.602278775481158,0,0,111.93520355955212,Intel Core i5,500,0,Intel,Windows
+Lenovo,Gaming,32,4.6,12.05888963501851,0,1,127.33567457123112,Intel Core i7,0,512,Nvidia,Windows
+Dell,Notebook,4,2.25,10.370822624347584,0,0,100.45466986113652,Intel Core i5,500,0,AMD,Windows
+HP,Ultrabook,8,1.91,10.46628456073464,0,0,141.21199808219862,Intel Core i7,0,256,Intel,Windows
+Asus,Notebook,4,2.0,10.349204995339194,0,0,100.45466986113652,Intel Core i5,0,256,Intel,Windows
+HP,Notebook,8,1.91,10.35398720988372,0,0,100.45466986113652,Intel Core i5,0,128,Intel,Windows
+Microsoft,Ultrabook,8,1.252,11.17598591917709,1,0,200.84255993695703,Intel Core i5,0,256,Intel,Windows
+Dell,Notebook,32,2.06,11.853716362735458,1,0,282.42399616439724,Intel Core i7,0,1000,Nvidia,Windows
+Asus,Netbook,4,1.2,9.638174223850264,0,0,135.0942111925629,Other Intel Processor,0,0,Intel,Others
+MSI,Gaming,16,2.43,11.550627594890203,0,1,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+HP,Gaming,12,2.62,11.470547260182666,0,0,127.33567457123112,Intel Core i7,1000,0,Nvidia,Windows
+Dell,Notebook,8,2.06,11.442360501250736,1,0,282.42399616439724,Intel Core i5,0,256,Nvidia,Windows
+Dell,Notebook,8,2.0,10.580858947180335,0,0,141.21199808219862,Intel Core i3,0,256,AMD,Windows
+Lenovo,Notebook,8,2.05,10.755482933704386,0,0,141.21199808219862,Intel Core i7,0,256,Intel,Windows
+HP,Ultrabook,8,1.54,11.670950599679989,0,0,209.8006828649808,Intel Core i7,0,256,Intel,Windows
+HP,Notebook,4,1.64,10.85594510841814,0,0,111.93520355955212,Intel Core i5,0,256,Intel,Windows
+Lenovo,Workstation,8,2.67,11.53824227295402,0,0,141.21199808219862,Intel Core i7,0,512,Nvidia,Windows
+Lenovo,Notebook,4,2.6,10.167923515707006,0,0,106.11306214269258,AMD Processor,0,128,AMD,Windows
+Lenovo,Gaming,16,3.2,11.288114524334732,0,1,141.21199808219862,Intel Core i7,1000,256,Nvidia,Windows
+HP,Workstation,8,3.14,11.504424909404817,0,0,106.11306214269258,Intel Core i5,500,0,Nvidia,Windows
+Lenovo,Notebook,16,2.5,10.977716980635757,0,0,141.21199808219862,Intel Core i7,0,0,AMD,Windows
+Asus,Ultrabook,8,1.25,10.977716980635757,0,0,157.3505121487356,Intel Core i7,0,256,Intel,Windows
+Acer,Gaming,16,4.2,11.838443060873624,0,1,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Toshiba,Ultrabook,4,1.25,10.969494001455322,0,0,111.93520355955212,Intel Core i5,0,128,Intel,Windows
+Dell,Gaming,8,2.65,11.061462490597744,0,0,141.21199808219862,Intel Core i5,0,256,Nvidia,Windows
+Toshiba,Notebook,4,1.75,10.90311893251045,0,1,111.93520355955212,Intel Core i5,0,128,Intel,Windows
+Dell,Ultrabook,8,1.29,11.260381938800736,0,0,165.6321180513006,Intel Core i7,0,256,Intel,Windows
+Lenovo,Notebook,8,2.2,10.188167121983652,0,0,100.45466986113652,Intel Core i3,0,256,Nvidia,Others
+Dell,Notebook,8,1.6,10.73132994821639,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Acer,Notebook,4,1.6,9.83063294843456,0,0,111.93520355955212,Other Intel Processor,0,0,Intel,Windows
+Lenovo,Notebook,16,2.5,11.7789960831843,0,0,141.21199808219862,Intel Core i7,0,512,Nvidia,Windows
+Asus,Gaming,16,2.5,11.353319934460009,0,1,141.21199808219862,Intel Core i7,1000,256,Nvidia,Windows
+Fujitsu,Notebook,4,2.3,10.450993742936223,0,0,100.45466986113652,Intel Core i5,0,256,Intel,Windows
+Dell,2 in 1 Convertible,8,1.6,11.064804181259648,1,1,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Dell,Gaming,16,2.62,11.401514683309674,0,0,282.42399616439724,Intel Core i7,0,512,Nvidia,Windows
+Asus,Notebook,4,2.0,9.387207078087174,0,0,100.45466986113652,Other Intel Processor,500,0,Intel,Others
+HP,Notebook,4,1.86,9.82197089913809,0,0,100.45466986113652,Intel Core i3,1000,0,Intel,Others
+Acer,Notebook,4,2.4,9.866652599193328,0,0,100.45466986113652,Intel Core i3,500,0,Intel,Others
+Asus,Gaming,16,4.3,11.470547260182666,0,0,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Asus,Gaming,8,2.7,11.352694739066088,0,1,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Toshiba,Notebook,4,2.0,10.481345086360362,0,0,100.45466986113652,Intel Core i3,500,0,Intel,Windows
+HP,2 in 1 Convertible,8,1.29,11.575963360732532,1,1,331.2642361026012,Intel Core i7,0,512,Intel,Windows
+Asus,2 in 1 Convertible,4,1.5,9.902487052202543,1,0,135.0942111925629,Other Intel Processor,0,0,Intel,Windows
+Dell,Notebook,8,2.2,10.55342238395318,0,0,141.21199808219862,Intel Core i5,1000,128,AMD,Windows
+Acer,Notebook,8,2.5,10.862092668762644,0,0,141.21199808219862,Intel Core i7,0,256,Nvidia,Others
+Dell,Notebook,8,1.98,10.56311104105693,0,0,141.21199808219862,Intel Core i5,1000,0,Intel,Others
+Lenovo,2 in 1 Convertible,4,0.69,10.283659467741664,1,1,224.1738090785728,Other Intel Processor,0,0,Intel,Others
+Toshiba,Notebook,8,2.0,10.945351696133724,0,1,141.21199808219862,Intel Core i5,500,0,Intel,Windows
+Asus,Ultrabook,8,1.7,10.93201122675303,0,0,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+Lenovo,Notebook,4,2.1,9.73761240901231,0,0,100.45466986113652,Other Intel Processor,500,0,Intel,Windows
+Lenovo,Notebook,8,1.99,11.430859511915424,0,1,141.21199808219862,Intel Core i7,0,512,Intel,Windows
+Lenovo,Gaming,8,2.5,10.93019989111312,0,1,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+Acer,Notebook,8,2.23,10.584910269399517,0,0,141.21199808219862,Intel Core i7,1000,0,Nvidia,Windows
+Lenovo,Notebook,4,1.7,10.525211768465944,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Toshiba,Ultrabook,16,1.05,11.683522558067624,0,0,165.6321180513006,Intel Core i7,0,512,Intel,Windows
+HP,2 in 1 Convertible,4,1.63,10.525211768465944,1,1,157.3505121487356,Intel Core i3,0,128,Nvidia,Windows
+Asus,Gaming,16,3.6,11.981595204981144,0,0,127.33567457123112,Intel Core i7,0,256,Nvidia,Windows
+HP,Workstation,8,1.9,11.28544251205692,0,0,141.21199808219862,Intel Core i7,0,256,AMD,Windows
+Lenovo,Notebook,8,1.9,10.676292135779944,0,0,141.21199808219862,Intel Core i5,1000,128,AMD,Windows
+Dell,Notebook,16,1.93,11.238652353231751,0,0,141.21199808219862,Intel Core i5,0,512,Intel,Windows
+Toshiba,Notebook,4,1.47,10.983161640183988,0,1,157.3505121487356,Intel Core i5,0,128,Intel,Windows
+MSI,Gaming,16,2.94,11.702152960779438,0,0,141.21199808219862,Intel Core i7,1000,256,Nvidia,Windows
+Asus,Gaming,8,2.73,11.454295851800008,0,1,127.33567457123112,Intel Core i5,1000,128,Nvidia,Windows
+Lenovo,Notebook,8,1.4,10.89326663606744,0,1,165.6321180513006,Intel Core i7,0,256,Intel,Windows
+Lenovo,Notebook,4,2.4,10.38737929394203,0,0,141.21199808219862,Intel Core i5,1000,0,Nvidia,Windows
+HP,Notebook,8,2.31,11.23889064370897,0,0,141.21199808219862,Intel Core i7,0,256,Intel,Windows
+Dell,Ultrabook,4,1.5,11.010081106005767,0,0,125.36742798669836,Intel Core i3,500,0,Intel,Windows
+Asus,Gaming,16,2.59,11.175239371923306,0,1,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+HP,Notebook,8,1.84,11.089508999068563,0,0,141.21199808219862,Intel Core i7,0,256,Intel,Windows
+HP,Notebook,4,2.1,10.188167121983652,0,0,141.21199808219862,Intel Core i3,1000,128,AMD,Windows
+Dell,Notebook,4,2.18,10.504965265847654,0,0,100.45466986113652,Intel Core i5,1000,0,AMD,Windows
+Dell,Notebook,8,2.18,10.647353436437802,0,0,141.21199808219862,Intel Core i5,0,256,AMD,Windows
+Dell,Notebook,16,2.2,11.081544019025282,0,0,141.21199808219862,Intel Core i7,2000,256,AMD,Windows
+MSI,Gaming,16,2.9,11.765015592318807,0,0,127.33567457123112,Intel Core i7,1000,512,Nvidia,Windows
+Lenovo,Notebook,4,2.1,10.03701794516015,0,0,100.45466986113652,Intel Core i3,0,128,Intel,Windows
+Toshiba,Notebook,8,2.0,10.651384247866982,0,0,100.45466986113652,Intel Core i5,0,128,Intel,Windows
+Samsung,2 in 1 Convertible,16,1.71,11.470547260182666,1,0,146.86047800548656,Intel Core i7,0,256,AMD,Windows
+Lenovo,Notebook,4,1.85,9.975737513942136,0,0,141.21199808219862,Intel Core i3,0,128,Intel,Others
+Toshiba,Notebook,8,1.2,11.261752740934517,0,0,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+HP,Ultrabook,8,0.97,11.583439099510642,1,1,352.4651472131677,Other Intel Processor,0,512,Intel,Windows
+Dell,Notebook,8,2.02,10.853784502608232,0,0,141.21199808219862,Intel Core i7,2000,128,AMD,Windows
+Dell,Notebook,6,2.3,10.060060439307303,1,0,100.45466986113652,Intel Core i3,1000,0,Intel,Windows
+Lenovo,Notebook,8,1.65,11.265171547683302,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Lenovo,Notebook,4,2.38,10.9368570721423,0,0,100.45466986113652,Intel Core i5,500,0,Intel,Windows
+HP,Notebook,4,2.04,10.50497986449436,0,0,141.21199808219862,Intel Core i3,500,0,Intel,Windows
+Lenovo,2 in 1 Convertible,8,1.36,11.37618160360327,1,1,209.8006828649808,Intel Core i5,0,256,Intel,Windows
+HP,Ultrabook,4,1.26,11.101648299531258,0,0,125.36742798669836,Intel Core i5,0,256,Intel,Windows
+Dell,Notebook,8,1.6,11.002618186839925,0,0,111.93520355955212,Intel Core i5,0,256,Intel,Windows
+Lenovo,Notebook,8,1.7,11.064804181259648,0,0,157.3505121487356,Intel Core i5,0,180,Intel,Windows
+HP,Gaming,12,3.74,11.442360501250736,0,1,127.33567457123112,Intel Core i7,1000,0,AMD,Windows
+Acer,Notebook,8,2.4,10.082583913974387,0,0,100.45466986113652,AMD Processor,1000,0,AMD,Windows
+MSI,Gaming,16,2.43,11.7789960831843,0,0,127.33567457123112,Intel Core i7,2000,256,Nvidia,Windows
+HP,Notebook,8,2.04,10.419692282932576,0,0,100.45466986113652,Intel Core i7,2000,0,Intel,Windows
+Lenovo,Notebook,8,2.2,10.227464909398025,0,0,141.21199808219862,Intel Core i5,2000,0,Intel,Others
+Dell,Notebook,4,2.18,10.401887658299067,0,0,100.45466986113652,Intel Core i3,1000,0,AMD,Windows
+Asus,Gaming,16,2.9,11.224776083346525,0,0,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Lenovo,Notebook,8,2.17,10.776732819811487,0,0,141.21199808219862,Intel Core i7,0,256,Intel,Windows
+Dell,Notebook,4,2.29,10.169966417336806,0,0,100.45466986113652,Intel Core i3,500,0,Intel,Windows
+Asus,Notebook,4,2.0,10.082583913974387,0,0,100.45466986113652,Other Intel Processor,1000,0,Intel,Windows
+Lenovo,Gaming,8,3.2,11.144911042902732,0,1,141.21199808219862,Intel Core i7,1000,0,Nvidia,Windows
+Lenovo,Notebook,4,2.2,9.70890230312988,0,0,100.45466986113652,AMD Processor,500,0,AMD,Others
+HP,Notebook,8,2.5,10.436872940377548,0,0,106.11306214269258,Intel Core i3,0,256,Intel,Windows
+Lenovo,Notebook,8,2.2,10.50497986449436,0,0,141.21199808219862,Intel Core i7,1000,0,Nvidia,Others
+Asus,Notebook,4,2.1,10.227464909398025,0,0,141.21199808219862,Intel Core i5,1000,0,Nvidia,Others
+Acer,Ultrabook,8,1.6,10.621951541079865,0,1,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Razer,Gaming,16,1.95,11.947682155153789,0,0,157.3505121487356,Intel Core i7,0,512,Nvidia,Windows
+Lenovo,Notebook,12,2.2,10.776844060703754,0,0,141.21199808219862,AMD Processor,2000,0,AMD,Windows
+MSI,Gaming,8,2.7,11.18267988243989,0,0,127.33567457123112,Intel Core i7,0,256,Nvidia,Windows
+Dell,Notebook,8,2.18,10.704189639316835,0,0,141.21199808219862,Intel Core i5,1000,0,Intel,Windows
+Asus,Notebook,4,2.0,10.620651995737775,0,0,157.3505121487356,Intel Core i3,0,256,Intel,Windows
+Apple,Ultrabook,8,1.37,11.233268703392175,0,1,226.98300468106115,Intel Core i5,0,256,Intel,Mac
+Toshiba,Ultrabook,8,1.2,11.193004457928666,0,0,165.6321180513006,Intel Core i7,0,256,Intel,Windows
+Dell,Gaming,8,2.56,10.683645110085203,0,0,141.21199808219862,Intel Core i5,1000,0,Nvidia,Windows
+Asus,Gaming,8,3.0,10.81931097523836,0,0,127.33567457123112,Intel Core i5,1000,128,Nvidia,Windows
+HP,Workstation,8,3.0,12.256879973855344,0,1,127.33567457123112,Intel Core i7,0,256,Nvidia,Windows
+Dell,Notebook,8,1.95,10.67259527389862,0,0,100.45466986113652,Intel Core i5,0,128,Intel,Windows
+HP,Notebook,8,1.64,11.053421883178572,0,0,157.3505121487356,Intel Core i7,0,256,Nvidia,Windows
+Dell,Gaming,16,3.49,11.917834418453076,0,0,141.21199808219862,Intel Core i7,1000,256,Nvidia,Windows
+Lenovo,Notebook,6,2.8,10.55342238395318,0,0,106.11306214269258,Intel Core i5,1000,128,Nvidia,Windows
+HP,Notebook,2,1.44,9.6067728080535,0,0,111.93520355955212,Other Intel Processor,0,0,Intel,Windows
+Lenovo,Notebook,8,1.7,11.19373786463554,0,0,157.3505121487356,Intel Core i5,0,180,Intel,Windows
+Acer,Notebook,4,2.4,10.066418317218153,0,0,100.45466986113652,Intel Core i5,500,0,Intel,Others
+Toshiba,Notebook,8,1.5,10.85594510841814,0,1,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Acer,2 in 1 Convertible,4,1.25,9.91309723131456,1,1,135.0942111925629,Other Intel Processor,0,0,Intel,Others
+MSI,Gaming,8,2.2,11.02220830408089,0,0,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+Lenovo,Notebook,4,2.2,10.126163794678414,0,0,141.21199808219862,Intel Core i3,1000,0,Intel,Others
+MSI,Gaming,8,2.3,11.039464987704202,0,0,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+HP,Ultrabook,4,1.26,11.340108040487776,0,0,176.23257360658386,Intel Core i5,500,0,Intel,Windows
+Asus,Notebook,8,2.69,10.765658261746038,0,0,127.33567457123112,Intel Core i7,1000,128,Nvidia,Others
+HP,Notebook,4,2.1,10.14517175872359,0,0,141.21199808219862,Intel Core i3,1000,0,Intel,Windows
+Lenovo,2 in 1 Convertible,16,1.38,11.442360501250736,1,0,157.3505121487356,Intel Core i7,0,512,Intel,Windows
+HP,Notebook,4,1.49,10.660172753900062,0,0,117.82653006268644,Intel Core i3,500,0,Intel,Windows
+Lenovo,2 in 1 Convertible,8,1.37,11.561349847964168,1,1,165.6321180513006,Intel Core i7,0,512,Intel,Windows
+Lenovo,Gaming,16,2.6,10.911903762066183,1,1,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+Dell,2 in 1 Convertible,8,1.24,11.52464373704442,1,0,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Lenovo,Notebook,8,2.2,10.283659467741664,0,0,141.21199808219862,Intel Core i5,0,256,Intel,Others
+Lenovo,2 in 1 Convertible,4,1.74,10.419692282932576,1,1,157.3505121487356,Intel Core i3,0,256,Intel,Windows
+Asus,Gaming,16,2.9,11.76667053684216,0,0,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Dell,2 in 1 Convertible,4,2.08,10.655147649183531,1,1,141.21199808219862,Intel Core i3,1000,0,Intel,Windows
+Dell,2 in 1 Convertible,16,2.09,11.047982926769505,1,0,141.21199808219862,Intel Core i7,0,512,Intel,Windows
+Asus,Gaming,8,3.2,11.410999046046683,0,0,127.33567457123112,AMD Processor,1000,256,AMD,Windows
+Dell,Notebook,16,2.8,11.144911042902732,0,0,127.33567457123112,Intel Core i7,2000,256,AMD,Windows
+Dell,Notebook,8,2.0,11.482152806302976,0,0,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+Lenovo,2 in 1 Convertible,16,1.3,11.288114524334732,1,1,276.053530085501,Intel Core i7,0,512,Intel,Windows
+Asus,Notebook,2,1.65,9.268865850956626,0,0,111.93520355955212,AMD Processor,0,0,AMD,Windows
+Lenovo,Gaming,16,2.4,11.004648590381796,0,1,141.21199808219862,Intel Core i7,2000,256,Nvidia,Windows
+Asus,Gaming,8,2.5,10.882315804880689,0,0,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+Dell,2 in 1 Convertible,16,1.62,11.129394827810977,1,0,165.6321180513006,Intel Core i7,0,512,Intel,Windows
+Lenovo,Notebook,6,2.2,10.646327347078008,0,0,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+Dell,Gaming,8,2.56,10.754345923917311,0,0,141.21199808219862,Intel Core i5,0,256,Nvidia,Windows
+Asus,Notebook,8,1.4,11.02307824758943,0,0,276.053530085501,Intel Core i5,0,256,Intel,Windows
+Dell,2 in 1 Convertible,8,1.62,10.657682154931749,1,0,165.6321180513006,Intel Core i7,0,256,Intel,Windows
+HP,Gaming,8,2.2,10.977716980635757,0,1,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+Lenovo,Notebook,8,2.8,10.227464909398025,0,0,106.11306214269258,AMD Processor,1000,0,AMD,Windows
+Asus,Notebook,8,2.37,10.977716980635757,0,0,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+Asus,Notebook,4,2.0,10.050907057320815,0,0,100.45466986113652,Intel Core i3,1000,0,Intel,Windows
+Lenovo,Notebook,4,2.8,10.167923515707006,0,0,106.11306214269258,Intel Core i3,1000,0,Intel,Windows
+Lenovo,2 in 1 Convertible,8,2.0,11.413356147904066,1,1,141.21199808219862,Intel Core i7,0,512,Nvidia,Windows
+Lenovo,2 in 1 Convertible,8,1.3,10.916751081300507,1,1,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Asus,Gaming,16,2.1,11.52464373704442,0,0,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+Asus,Gaming,32,3.58,11.129394827810977,0,1,127.33567457123112,Intel Core i7,0,512,Nvidia,Windows
+Acer,2 in 1 Convertible,8,1.6,10.882315804880689,1,1,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+HP,Notebook,4,2.31,10.533971572370383,0,0,100.45466986113652,Intel Core i3,500,0,Intel,Windows
+Dell,Notebook,16,2.06,11.52464373704442,0,0,141.21199808219862,Intel Core i7,0,512,Nvidia,Windows
+HP,Notebook,8,2.04,10.950974953688084,0,0,141.21199808219862,Intel Core i7,0,256,Intel,Windows
+Lenovo,Notebook,8,1.9,10.952842367862882,0,1,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+HP,Ultrabook,8,1.84,11.211900368986475,0,0,141.21199808219862,Intel Core i7,0,512,Intel,Windows
+Asus,Notebook,8,2.3,10.235123369655367,0,0,100.45466986113652,Intel Core i5,1000,0,Nvidia,Others
+Acer,Notebook,4,2.1,9.880922874286703,0,0,100.45466986113652,Intel Core i3,1000,0,Intel,Others
+Asus,Gaming,8,3.0,10.921575017331362,0,0,127.33567457123112,Intel Core i7,1000,0,Nvidia,Windows
+Lenovo,Notebook,4,1.44,9.49301392269684,0,0,111.93520355955212,Other Intel Processor,0,0,Intel,Windows
+Asus,Notebook,4,2.2,10.329931067029484,0,0,141.21199808219862,AMD Processor,1000,128,AMD,Windows
+MSI,Gaming,16,1.8,11.6226216177553,0,0,141.21199808219862,Intel Core i7,1000,256,Nvidia,Windows
+MSI,Gaming,8,2.2,10.968576149165091,0,0,141.21199808219862,Intel Core i5,1000,128,Nvidia,Windows
+MSI,Gaming,16,2.43,11.600619368985289,0,0,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+MSI,Gaming,16,2.4,11.470547260182666,0,1,141.21199808219862,Intel Core i7,1000,256,Nvidia,Windows
+HP,Notebook,8,1.91,10.336863503805128,0,0,100.45466986113652,Intel Core i5,0,256,Intel,Windows
+Lenovo,Ultrabook,16,1.13,11.84839720125786,0,1,209.8006828649808,Intel Core i7,0,1000,Intel,Windows
+HP,Notebook,4,1.86,9.528520611153752,0,0,100.45466986113652,AMD Processor,500,0,AMD,Others
+Dell,Notebook,8,1.9,10.826745953725876,0,0,141.21199808219862,Intel Core i5,0,128,Intel,Windows
+Lenovo,Ultrabook,12,1.4,11.715790550995315,0,0,157.3505121487356,Intel Core i7,0,512,Intel,Windows
+Fujitsu,Notebook,8,2.2,10.658921971998408,0,0,100.45466986113652,Intel Core i5,0,256,Intel,Windows
+Dell,Ultrabook,8,1.29,11.288114524334732,0,0,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Lenovo,Notebook,8,1.7,11.271296098981416,0,1,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Dell,Gaming,32,4.42,12.030401247333158,0,1,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Toshiba,Notebook,8,2.0,11.11283946349252,0,1,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+Samsung,Ultrabook,8,1.31,11.352694739066088,1,0,165.6321180513006,Intel Core i7,0,256,Intel,Windows
+Acer,Notebook,4,3.0,10.460196261867386,0,1,127.33567457123112,Intel Core i3,1000,0,Nvidia,Windows
+MSI,Gaming,8,2.2,11.064804181259648,0,0,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+HP,2 in 1 Convertible,8,1.26,11.219066852909238,1,1,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Lenovo,Ultrabook,12,1.4,11.502816945605918,0,1,209.8006828649808,Intel Core i7,0,256,Intel,Windows
+Lenovo,Notebook,4,2.2,9.964522443121997,0,0,141.21199808219862,AMD Processor,0,128,AMD,Windows
+Microsoft,Ultrabook,16,1.25,11.83458800598367,1,0,200.84255993695703,Intel Core i7,0,512,Intel,Windows
+HP,Notebook,8,1.91,10.862092668762644,0,1,141.21199808219862,Intel Core i7,1000,0,Nvidia,Windows
+Lenovo,Notebook,8,2.32,10.772384744506988,0,0,141.21199808219862,Intel Core i7,0,0,AMD,Windows
+Google,Ultrabook,8,1.1,11.32736089528991,1,0,234.50740003017813,Intel Core i5,0,256,Intel,Others
+Asus,Notebook,8,2.0,10.620651995737775,0,0,141.21199808219862,Intel Core i5,0,256,Nvidia,Windows
+Toshiba,Notebook,8,2.2,11.219074000897615,0,1,141.21199808219862,Intel Core i7,0,256,Intel,Windows
+Dell,Notebook,4,2.06,10.15346364564591,0,0,100.45466986113652,Intel Core i3,500,0,Intel,Windows
+MSI,Gaming,16,4.14,11.799206957067089,0,0,127.33567457123112,Intel Core i7,1000,512,Nvidia,Windows
+Lenovo,Notebook,8,1.95,11.212620052356872,0,1,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+Dell,2 in 1 Convertible,8,1.62,10.70777173269934,1,1,165.6321180513006,Intel Core i7,1000,0,Intel,Windows
+HP,Notebook,4,1.54,10.88331630521427,0,0,157.3505121487356,Intel Core i5,500,0,Intel,Windows
+Mediacom,Notebook,4,1.2,9.88635767027266,0,1,165.6321180513006,Other Intel Processor,0,32,Intel,Windows
+Lenovo,Notebook,4,2.1,10.407616483423654,0,0,141.21199808219862,Intel Core i5,2000,0,Intel,Windows
+Asus,Gaming,24,2.24,11.971204630519404,0,0,141.21199808219862,Intel Core i7,0,512,Nvidia,Windows
+HP,Notebook,8,2.1,10.780175546294757,0,1,100.45466986113652,Intel Core i7,1000,0,Intel,Windows
+Lenovo,Notebook,12,2.2,10.83096982484206,0,0,141.21199808219862,AMD Processor,0,512,AMD,Windows
+Asus,Gaming,8,2.5,11.118388427393754,0,0,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+Apple,Ultrabook,8,0.92,11.034319178750795,0,1,226.4155471693585,Other Intel Processor,0,0,Intel,Mac
+Lenovo,Notebook,8,2.6,10.776844060703754,0,1,141.21199808219862,Intel Core i7,1000,0,Nvidia,Windows
+Asus,Notebook,4,1.5,9.631552837051986,0,0,111.93520355955212,Other Intel Processor,0,0,Intel,Windows
+Lenovo,2 in 1 Convertible,4,1.8,10.717261720884188,1,1,141.21199808219862,Intel Core i7,0,256,Intel,Windows
+MSI,Gaming,16,2.7,11.283969856325212,0,0,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Toshiba,Notebook,4,2.1,10.186161103256786,0,0,100.45466986113652,Intel Core i3,0,128,Intel,Windows
+HP,Notebook,8,2.04,10.301710499387234,1,0,100.45466986113652,Intel Core i5,1000,0,Intel,Windows
+Apple,Ultrabook,8,1.35,10.977716980635757,0,0,127.67794013309688,Intel Core i5,0,0,Intel,Mac
+HP,Notebook,4,1.86,10.060060439307303,0,0,100.45466986113652,Intel Core i3,500,0,Intel,Windows
+Dell,Gaming,16,4.36,11.89782208458538,0,0,169.78089942830815,Intel Core i7,1000,512,Nvidia,Windows
+HP,Notebook,8,1.9,11.12154549394652,0,0,141.21199808219862,Intel Core i7,1000,0,AMD,Windows
+HP,Notebook,8,2.5,10.773501439207063,0,0,127.33567457123112,Intel Core i5,1000,0,Nvidia,Windows
+Samsung,Ultrabook,16,1.23,11.49796125761926,0,0,146.86047800548656,Intel Core i7,0,256,Nvidia,Windows
+Lenovo,Notebook,6,2.8,10.73132994821639,0,0,106.11306214269258,Intel Core i7,1000,128,Nvidia,Windows
+Asus,Notebook,8,2.3,10.367478139624737,0,0,141.21199808219862,Intel Core i3,1000,0,Nvidia,Others
+Dell,2 in 1 Convertible,8,1.68,10.765658261746038,1,0,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Asus,Notebook,8,1.4,10.822504165817511,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Lenovo,Notebook,8,2.02,11.17598591917709,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Dell,Gaming,16,4.42,11.937276356672394,0,1,282.42399616439724,Intel Core i7,1000,256,Nvidia,Windows
+HP,Notebook,4,2.31,10.821440901496183,0,0,141.21199808219862,Intel Core i5,500,0,Intel,Windows
+Lenovo,2 in 1 Convertible,16,1.4,11.49796125761926,1,1,316.96506044349616,Intel Core i7,0,512,Intel,Windows
+HP,Notebook,4,1.86,10.126163794678414,0,0,141.21199808219862,Intel Core i3,1000,0,Intel,Windows
+Dell,Netbook,4,1.26,9.662536382571954,0,0,135.0942111925629,Other Intel Processor,0,0,Intel,Others
+Mediacom,Notebook,4,1.4,9.555290852218356,0,1,161.72539083525606,Other Intel Processor,32,0,Intel,Windows
+Acer,Notebook,4,2.2,10.435465480609668,0,0,141.21199808219862,Intel Core i7,500,0,Nvidia,Windows
+HP,Notebook,8,2.1,10.588945244611692,0,0,141.21199808219862,Intel Core i7,1000,0,AMD,Windows
+HP,Notebook,8,1.63,10.87124372398,0,0,157.3505121487356,Intel Core i7,0,256,Intel,Windows
+Dell,Notebook,8,2.8,10.765658261746038,0,1,127.33567457123112,Intel Core i5,1000,128,AMD,Others
+Lenovo,Notebook,4,2.2,9.989276182274937,0,0,141.21199808219862,Intel Core i3,500,0,Intel,Windows
+Lenovo,Notebook,8,2.2,10.104611236292678,0,0,100.45466986113652,Intel Core i3,2000,0,Nvidia,Others
+Lenovo,Notebook,4,2.2,10.188167121983652,0,0,141.21199808219862,Intel Core i5,1000,0,Nvidia,Others
+HP,Notebook,4,1.95,11.06979587215689,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Asus,Notebook,4,2.8,10.12901686366082,0,0,90.58340172449304,Other Intel Processor,1000,0,Nvidia,Windows
+MSI,Gaming,8,2.7,10.974070668482735,0,0,127.33567457123112,Intel Core i5,1000,128,Nvidia,Windows
+Samsung,Notebook,16,2.5,11.413356147904066,0,0,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+HP,Notebook,6,2.1,10.246549458090431,0,0,141.21199808219862,AMD Processor,1000,0,AMD,Windows
+Dell,Workstation,8,2.0,11.64178295189486,0,1,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+HP,Notebook,4,1.86,9.875184369674535,0,0,100.45466986113652,Intel Core i3,500,0,Intel,Others
+HP,Notebook,8,2.5,10.793391597686284,0,1,127.33567457123112,Intel Core i5,1000,0,Nvidia,Windows
+Dell,Notebook,4,2.2,10.082583913974387,0,0,141.21199808219862,Intel Core i3,1000,0,AMD,Windows
+Asus,Notebook,4,2.0,9.83063294843456,0,0,100.45466986113652,AMD Processor,500,0,AMD,Windows
+Dell,Notebook,4,2.18,10.395555954379276,0,0,100.45466986113652,Intel Core i3,1000,0,AMD,Windows
+Asus,Notebook,4,2.0,10.310615277730191,0,0,127.33567457123112,Intel Core i3,1000,0,Nvidia,Windows
+Asus,Notebook,4,2.0,9.964497380151284,0,0,100.45466986113652,Other Intel Processor,1000,0,Intel,Others
+HP,Notebook,8,2.63,10.9602773463504,0,0,127.33567457123112,Intel Core i5,0,256,Nvidia,Windows
+Lenovo,Notebook,8,2.3,11.18267988243989,0,0,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+Dell,Notebook,8,2.0,11.487085674623,0,0,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+Apple,Ultrabook,16,1.83,11.775302049361828,0,1,220.53462386625827,Intel Core i7,0,256,AMD,Mac
+Dell,Notebook,4,1.65,10.71962021254348,0,0,117.82653006268644,Intel Core i3,500,0,Intel,Windows
+Lenovo,Gaming,8,2.4,10.671359943290623,0,1,141.21199808219862,Intel Core i5,1000,128,Nvidia,Others
+Asus,Gaming,16,2.2,11.254189968552817,0,1,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+HP,Notebook,8,1.63,10.963974208231726,0,0,157.3505121487356,Intel Core i7,0,512,Intel,Windows
+LG,Ultrabook,8,0.98,11.52464373704442,1,1,157.3505121487356,Intel Core i7,0,512,Intel,Windows
+HP,Notebook,8,1.96,10.370805929717411,0,0,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+HP,Ultrabook,8,1.11,11.18267988243989,1,1,165.6321180513006,Intel Core i7,0,256,Intel,Windows
+MSI,Gaming,16,1.8,11.690461589827628,0,0,141.21199808219862,Intel Core i7,2000,256,Nvidia,Windows
+Vero,Notebook,4,1.35,9.253675685462651,0,0,165.6321180513006,Other Intel Processor,0,0,Intel,Windows
+Huawei,Ultrabook,8,1.05,11.18267988243989,0,1,199.69207064108247,Intel Core i5,0,256,Intel,Windows
+Dell,Notebook,8,2.18,10.546429982871398,0,0,100.45466986113652,Intel Core i5,0,128,Intel,Windows
+HP,Notebook,8,2.63,10.78900562574303,0,0,106.11306214269258,Intel Core i5,1000,0,Nvidia,Windows
+Lenovo,Notebook,4,2.2,9.699146128184514,0,0,100.45466986113652,Other Intel Processor,1000,0,Intel,Windows
+Asus,Gaming,16,4.0,11.525170191386666,0,1,127.33567457123112,Intel Core i7,1000,128,Nvidia,Windows
+Acer,Notebook,4,2.1,9.871367833143674,0,0,100.45466986113652,Other Intel Processor,1000,0,Intel,Windows
+Acer,Notebook,4,2.1,9.99658437558166,0,0,100.45466986113652,Intel Core i3,0,128,Intel,Others
+HP,Netbook,4,1.23,9.928804360519916,0,0,135.0942111925629,Other Intel Processor,0,0,Intel,Others
+Lenovo,Notebook,6,2.4,10.519472871796928,0,0,141.21199808219862,Intel Core i5,0,256,Nvidia,Windows
+Toshiba,Notebook,8,1.95,11.048830743691845,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Lenovo,Notebook,4,2.2,10.147261623643049,0,0,141.21199808219862,Intel Core i3,1000,0,AMD,Others
+Lenovo,Ultrabook,8,1.36,11.240291204162,0,1,176.23257360658386,Intel Core i5,0,256,Intel,Windows
+HP,Ultrabook,8,1.26,11.71489846116146,0,0,176.23257360658386,Intel Core i7,0,256,Intel,Windows
+HP,Ultrabook,8,1.43,11.288781413322436,0,0,157.3505121487356,Intel Core i7,0,256,Intel,Windows
+HP,Notebook,8,1.91,10.55342238395318,0,0,141.21199808219862,Intel Core i7,0,256,AMD,Windows
+Dell,Notebook,8,2.2,10.594313360795072,0,0,141.21199808219862,Intel Core i7,0,256,AMD,Others
+HP,Notebook,4,1.86,9.669293165034832,0,0,100.45466986113652,AMD Processor,500,0,AMD,Windows
+Vero,Notebook,2,1.45,9.326470842899342,0,0,111.93520355955212,Other Intel Processor,0,0,Intel,Windows
+Toshiba,Ultrabook,8,1.47,11.428543355697592,0,1,157.3505121487356,Intel Core i7,0,256,Intel,Windows
+HP,Notebook,4,1.54,10.978617394068182,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Asus,2 in 1 Convertible,4,1.2,10.481345086360362,1,0,176.23257360658386,Other Intel Processor,0,0,Intel,Others
+Dell,2 in 1 Convertible,8,1.62,10.742915658911176,1,0,165.6321180513006,Intel Core i7,0,256,Intel,Windows
+Acer,Notebook,4,2.23,10.398807989765654,0,0,141.21199808219862,Intel Core i5,1000,0,Nvidia,Windows
+Acer,Notebook,4,2.1,9.967025573340116,0,0,100.45466986113652,AMD Processor,500,0,AMD,Windows
+HP,Notebook,8,1.86,10.51225262382344,0,0,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+Dell,Notebook,8,1.9,10.89180021486258,0,0,100.45466986113652,Intel Core i5,500,0,Intel,Windows
+HP,Notebook,4,1.86,10.393289544363068,0,0,100.45466986113652,Intel Core i5,500,0,AMD,Windows
+HP,Notebook,4,1.86,10.167289367847482,0,0,100.45466986113652,Intel Core i5,1000,0,Intel,Windows
+HP,Notebook,4,1.49,10.55342238395318,0,0,165.6321180513006,Intel Core i3,0,128,Intel,Windows
+Lenovo,Notebook,8,2.2,10.53941655276426,0,0,141.21199808219862,Intel Core i7,1000,0,Nvidia,Others
+HP,Workstation,8,3.14,11.608398104304564,0,0,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+Dell,Notebook,8,1.64,11.129965423395353,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Acer,Notebook,4,2.1,10.030000372501505,0,0,100.45466986113652,AMD Processor,0,128,AMD,Windows
+Dell,Notebook,8,2.8,10.977716980635757,0,0,127.33567457123112,Intel Core i7,1000,128,AMD,Others
+Asus,Gaming,16,4.3,11.737731633370338,0,1,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Acer,Notebook,6,2.23,10.283659467741664,0,0,100.45466986113652,Intel Core i5,1000,0,Intel,Windows
+Apple,Ultrabook,8,1.37,11.596266113070396,0,1,226.98300468106115,Intel Core i5,0,512,Intel,Mac
+Lenovo,Ultrabook,8,1.13,11.511924964636645,0,1,157.3505121487356,Intel Core i5,0,0,Intel,Windows
+Toshiba,Notebook,8,1.2,11.311846686253432,0,0,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+MSI,Gaming,16,2.7,11.352694739066088,0,0,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Asus,Gaming,16,3.2,11.320925866649002,0,0,127.33567457123112,AMD Processor,1000,256,AMD,Windows
+HP,Notebook,8,1.84,11.081347155713406,0,0,141.21199808219862,Intel Core i7,0,256,Intel,Windows
+HP,Notebook,4,1.49,10.60095339424009,0,1,165.6321180513006,Intel Core i5,500,0,Intel,Windows
+Asus,Gaming,16,2.73,11.601107316686976,0,0,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Dell,Ultrabook,8,1.88,11.144140923496169,0,0,141.21199808219862,Intel Core i7,0,512,Intel,Windows
+HP,Notebook,8,2.04,9.93914036985058,0,0,100.45466986113652,Other Intel Processor,2000,0,Intel,Windows
+Lenovo,Notebook,4,2.2,10.336863503805128,0,0,141.21199808219862,Intel Core i3,1000,0,Nvidia,Windows
+HP,Workstation,8,2.0,11.69380197819145,0,1,141.21199808219862,Intel Core i7,0,8,Nvidia,Windows
+Lenovo,Gaming,8,2.4,10.742904151497523,0,1,141.21199808219862,Intel Core i7,0,256,Nvidia,Others
+Lenovo,Gaming,16,2.5,10.882315804880689,0,1,141.21199808219862,AMD Processor,1000,512,AMD,Windows
+Dell,Notebook,8,2.02,10.607562803627763,0,0,141.21199808219862,Intel Core i5,2000,0,AMD,Windows
+HP,Gaming,12,3.35,11.575963360732532,0,0,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Apple,Ultrabook,8,0.92,11.145680569681762,0,1,226.4155471693585,Other Intel Processor,0,0,Intel,Mac
+Lenovo,Ultrabook,8,1.32,11.470547260182666,0,1,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Asus,Gaming,8,2.2,10.83096982484206,0,0,141.21199808219862,Intel Core i7,1000,0,Nvidia,Windows
+Acer,Notebook,8,1.5,10.403666298916727,0,1,157.3505121487356,Intel Core i3,0,128,Intel,Windows
+HP,Notebook,6,2.04,10.336863503805128,0,0,100.45466986113652,Intel Core i7,1000,0,Intel,Windows
+Lenovo,Notebook,4,2.1,10.176070200274824,0,0,100.45466986113652,Intel Core i5,0,128,Intel,Windows
+Dell,Notebook,16,2.06,11.757534260666516,1,0,282.42399616439724,Intel Core i7,0,512,Nvidia,Windows
+Asus,Notebook,4,1.3,10.208009042782656,0,0,111.93520355955212,Intel Core i3,0,128,Intel,Windows
+MSI,Gaming,16,2.8,11.51989313428582,0,0,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Dell,Gaming,16,4.42,11.98617622657084,0,1,127.33567457123112,Intel Core i7,1000,128,Nvidia,Windows
+Dell,Notebook,4,1.65,10.510802297245792,0,0,117.82653006268644,Intel Core i3,0,128,Intel,Windows
+Lenovo,Gaming,8,2.4,10.683645110085203,0,1,141.21199808219862,Intel Core i5,1000,0,Nvidia,Windows
+Apple,Ultrabook,8,0.92,11.295425956041104,0,1,226.4155471693585,Intel Core i5,0,512,Intel,Mac
+Dell,Gaming,32,4.42,12.029883488676532,0,1,254.67134914246225,Intel Core i7,1000,512,Nvidia,Windows
+HP,Notebook,12,2.21,11.166237060564342,0,1,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+Dell,Notebook,8,2.18,10.653903140886465,0,0,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+Dell,Notebook,8,1.6,10.99575173454406,0,0,157.3505121487356,Intel Core i5,0,128,Intel,Windows
+Acer,Notebook,4,2.4,10.084808608996498,0,0,100.45466986113652,Intel Core i3,500,0,Intel,Windows
+Dell,Notebook,4,2.2,9.950616680806068,0,0,100.45466986113652,Other Intel Processor,500,0,Intel,Others
+HP,Notebook,8,1.96,10.49618215379083,0,0,141.21199808219862,Intel Core i7,0,256,Intel,Windows
+HP,Notebook,2,1.44,9.49301392269684,0,0,111.93520355955212,Other Intel Processor,0,0,Intel,Windows
+HP,Ultrabook,16,1.16,11.558808550535495,1,1,276.053530085501,Other Intel Processor,0,512,Intel,Windows
+Acer,Notebook,4,2.1,10.370822624347584,0,0,100.45466986113652,Intel Core i5,0,256,Intel,Windows
+Lenovo,Ultrabook,8,1.17,11.406054689443872,0,1,209.8006828649808,Intel Core i7,0,512,Intel,Windows
+Lenovo,Ultrabook,8,1.96,11.526747893528285,0,1,157.3505121487356,Intel Core i7,0,256,Nvidia,Windows
+Lenovo,2 in 1 Convertible,4,0.69,10.147261623643049,1,1,224.1738090785728,Other Intel Processor,0,0,Intel,Windows
+HP,Notebook,4,2.04,10.70777173269934,0,0,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+Lenovo,Notebook,8,2.8,10.265276597141131,0,0,106.11306214269258,Intel Core i5,1000,0,Intel,Others
+Dell,Gaming,16,2.6,11.18267988243989,0,0,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+Dell,Notebook,4,1.6,10.576614498925236,0,0,157.3505121487356,Intel Core i3,0,128,Intel,Windows
+Dell,Notebook,2,2.2,9.91309723131456,0,0,100.45466986113652,Other Intel Processor,500,0,Intel,Windows
+Acer,Notebook,8,2.2,10.699393467053342,0,0,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+Dell,Notebook,4,2.09,10.236346354272076,0,0,100.45466986113652,Intel Core i5,500,0,Intel,Others
+Dell,Notebook,4,2.18,10.09739572450197,0,0,100.45466986113652,Intel Core i3,1000,0,AMD,Others
+Dell,Notebook,4,2.18,10.79174911168878,0,0,141.21199808219862,Intel Core i5,1000,128,Nvidia,Windows
+HP,Notebook,6,1.58,10.46628456073464,0,1,157.3505121487356,Intel Core i5,0,256,Nvidia,Windows
+Lenovo,2 in 1 Convertible,8,2.0,11.144911042902732,1,1,141.21199808219862,Intel Core i7,0,256,Intel,Windows
+Lenovo,Notebook,4,2.2,10.121890283901031,0,0,141.21199808219862,Intel Core i5,1000,0,Intel,Others
+Dell,2 in 1 Convertible,4,2.08,10.208009042782656,1,0,146.86047800548656,Intel Core i3,500,0,Intel,Windows
+HP,Notebook,8,1.16,11.408044834149251,0,0,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Dell,2 in 1 Convertible,8,1.56,10.931153634628432,1,0,141.21199808219862,Intel Core i7,0,256,Intel,Windows
+Apple,Ultrabook,8,0.92,11.116330976323743,0,1,226.4155471693585,Other Intel Processor,0,256,Intel,Mac
+HP,Notebook,4,2.1,9.83063294843456,0,0,141.21199808219862,AMD Processor,500,0,AMD,Windows
+Lenovo,Notebook,8,2.6,10.646327347078008,0,1,141.21199808219862,Intel Core i5,1000,128,Nvidia,Windows
+Acer,Notebook,4,2.4,10.301710499387234,0,0,100.45466986113652,Intel Core i5,500,0,Intel,Windows
+Asus,Gaming,16,3.0,11.291444530741918,0,0,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Acer,Notebook,4,2.1,9.954446791133256,0,0,100.45466986113652,AMD Processor,1000,0,AMD,Windows
+Asus,Gaming,16,3.0,11.34767905456992,0,0,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Dell,Ultrabook,16,1.18,11.503355013953575,0,0,176.23257360658386,Intel Core i7,0,256,Intel,Windows
+Lenovo,Ultrabook,24,1.32,11.75125677614738,0,0,209.8006828649808,Intel Core i7,0,512,Intel,Windows
+Lenovo,Gaming,8,2.6,11.1239067701322,0,1,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+HP,Notebook,8,1.94,9.93914036985058,0,0,111.93520355955212,Other Intel Processor,2000,0,Intel,Windows
+Asus,Notebook,16,2.2,11.442360501250736,0,0,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+Dell,Notebook,4,1.76,10.34717287346399,0,0,111.93520355955212,Intel Core i3,500,0,Intel,Windows
+Dell,Gaming,8,2.65,10.882315804880689,0,0,141.21199808219862,Intel Core i5,1000,0,Nvidia,Windows
+Dell,Notebook,8,2.18,10.893167621264643,0,0,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+Dell,Notebook,8,2.8,10.964896292206694,0,0,127.33567457123112,Intel Core i7,1000,128,AMD,Windows
+Lenovo,2 in 1 Convertible,8,1.38,11.18267988243989,1,1,158.48253022174808,Intel Core i7,0,256,Intel,Windows
+Lenovo,2 in 1 Convertible,8,1.37,11.44716312967751,1,1,165.6321180513006,Intel Core i7,0,256,Intel,Windows
+Fujitsu,Notebook,8,2.2,10.580858947180335,0,0,100.45466986113652,Intel Core i5,1000,0,Intel,Windows
+Lenovo,Workstation,16,2.18,11.50120100127367,0,0,141.21199808219862,Intel Core i7,0,512,Nvidia,Windows
+HP,Notebook,4,2.1,10.143056552540132,0,0,100.45466986113652,Intel Core i5,500,0,Intel,Others
+Toshiba,Notebook,8,1.5,11.07393666482292,0,0,117.82653006268644,Intel Core i5,0,256,Intel,Windows
+Dell,Gaming,16,3.21,11.601643784304514,0,0,141.21199808219862,Intel Core i5,1000,128,Nvidia,Windows
+Lenovo,Gaming,16,3.2,11.442360501250736,0,1,141.21199808219862,Intel Core i7,1000,512,Nvidia,Windows
+Dell,Notebook,8,1.56,11.089517135798168,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+HP,Notebook,4,2.1,10.510802297245792,0,1,141.21199808219862,Intel Core i7,500,0,AMD,Windows
+Asus,Notebook,4,2.0,9.801561133612584,0,0,100.45466986113652,Other Intel Processor,1000,0,Intel,Windows
+Lenovo,Notebook,8,1.75,10.99308509015976,0,1,157.3505121487356,Intel Core i5,0,256,AMD,Windows
+Asus,2 in 1 Convertible,8,1.1,11.288114524334732,1,0,165.6321180513006,Intel Core i7,0,1024,Intel,Windows
+HP,Notebook,4,2.1,10.167923515707006,0,0,141.21199808219862,AMD Processor,1000,0,AMD,Windows
+HP,2 in 1 Convertible,8,1.48,11.37128263483418,1,0,165.6321180513006,Intel Core i5,0,256,Intel,Windows
+Lenovo,Notebook,4,1.44,10.575431525444971,0,1,165.6321180513006,Intel Core i3,0,180,Intel,Windows
+Apple,Ultrabook,16,1.83,11.933438384721946,0,1,220.53462386625827,Intel Core i7,0,512,AMD,Mac
+HP,Notebook,8,1.9,11.026550473300178,0,0,141.21199808219862,Intel Core i5,500,0,AMD,Windows
+HP,Ultrabook,8,1.34,11.018720942220474,0,1,276.053530085501,Intel Core i7,0,256,Intel,Windows
+Lenovo,Notebook,4,2.2,10.188167121983652,0,0,141.21199808219862,Intel Core i3,0,128,Intel,Windows
+Dell,Ultrabook,8,1.23,11.508719833687696,1,0,276.053530085501,Intel Core i5,0,256,Intel,Windows
+Lenovo,Notebook,8,2.32,10.370822624347584,0,0,141.21199808219862,Intel Core i5,1000,0,AMD,Others
+HP,Ultrabook,4,1.48,10.96212748563856,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+HP,Notebook,8,2.1,10.65264448747927,0,0,141.21199808219862,Intel Core i5,1000,0,Intel,Windows
+HP,Ultrabook,8,1.09,12.01471841670537,1,0,352.4651472131677,Other Intel Processor,0,240,Intel,Windows
+Lenovo,Notebook,6,2.2,10.283659467741664,0,0,141.21199808219862,AMD Processor,0,256,AMD,Windows
+HP,Ultrabook,8,1.84,11.143362500418624,0,0,141.21199808219862,Intel Core i7,0,256,AMD,Windows
+HP,Notebook,8,1.63,10.732493415479688,0,0,157.3505121487356,Intel Core i5,0,256,Intel,Windows
+Acer,Notebook,4,2.4,9.933985719261916,0,0,100.45466986113652,AMD Processor,500,0,AMD,Windows
+Dell,Gaming,16,4.36,12.031987793755118,0,1,254.67134914246225,Intel Core i7,1000,512,Nvidia,Windows
+Toshiba,Ultrabook,16,1.24,11.50657735831005,1,0,157.3505121487356,Intel Core i7,0,512,Intel,Windows
+Microsoft,Ultrabook,8,1.25,11.470547260182666,1,0,200.84255993695703,Intel Core i7,0,256,Intel,Windows
+MSI,Gaming,8,2.7,11.182294337407903,0,0,127.33567457123112,Intel Core i7,1000,128,Nvidia,Windows
+Asus,Notebook,8,2.37,10.594300009749354,0,0,141.21199808219862,Intel Core i5,1000,0,Intel,Windows
+Dell,Ultrabook,8,1.6,10.977716980635757,0,0,157.3505121487356,Intel Core i7,0,256,Intel,Others
+Dell,2 in 1 Convertible,12,1.6,11.144911042902732,1,1,165.6321180513006,Intel Core i7,0,256,Intel,Windows
+Mediacom,Notebook,4,1.4,9.49301392269684,0,0,157.3505121487356,Other Intel Processor,0,32,Intel,Windows
+Dell,Notebook,16,2.32,10.873255868299651,0,0,141.21199808219862,Intel Core i7,2000,0,AMD,Windows
+Asus,Gaming,8,2.24,11.175239371923306,0,0,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+Lenovo,Notebook,16,2.4,11.971204630519404,0,1,254.67134914246225,Intel Core i7,0,512,Nvidia,Windows
+Dell,Notebook,8,1.9,10.993953872709785,0,0,141.21199808219862,Intel Core i5,0,256,Intel,Windows
+Dell,Gaming,32,4.42,11.91293572239543,0,0,127.33567457123112,Intel Core i7,1000,256,Nvidia,Windows
+Lenovo,Ultrabook,8,1.13,11.799206957067089,0,1,157.3505121487356,Intel Core i7,0,512,Intel,Windows
+Lenovo,Notebook,8,1.5,10.658921971998408,0,1,157.3505121487356,Intel Core i7,0,512,AMD,Others
+Acer,Notebook,4,2.1,9.58136309252813,0,0,100.45466986113652,Other Intel Processor,1000,0,Intel,Others
+Lenovo,Notebook,6,2.4,10.188167121983652,0,0,141.21199808219862,AMD Processor,1000,0,AMD,Windows
+Samsung,Netbook,4,1.15,9.570272405833974,0,0,135.0942111925629,Other Intel Processor,0,0,Intel,Others
+Lenovo,Notebook,4,2.1,10.267130165790451,0,0,100.45466986113652,Intel Core i5,500,0,Intel,Windows
+HP,Notebook,8,1.64,10.931401459017524,0,0,157.3505121487356,Intel Core i5,0,256,Nvidia,Windows
+Lenovo,Notebook,8,2.2,10.104611236292678,0,0,100.45466986113652,Intel Core i3,1000,0,Intel,Windows
+Dell,Notebook,8,2.2,10.588945244611692,0,0,141.21199808219862,Intel Core i7,0,256,AMD,Windows
+Asus,Notebook,8,2.1,11.018720942220474,0,0,127.33567457123112,Intel Core i7,1000,128,Nvidia,Windows
+HP,Notebook,4,2.07,10.78900562574303,0,0,141.21199808219862,Intel Core i5,500,0,Intel,Windows
+Chuwi,Notebook,4,1.89,9.49261223560568,0,0,141.21199808219862,Other Intel Processor,0,0,Intel,Windows
+Acer,Notebook,4,2.23,10.513700849999804,0,0,141.21199808219862,Intel Core i5,0,256,Nvidia,Windows
+Dell,2 in 1 Convertible,8,2.08,10.683645110085203,1,1,141.21199808219862,Intel Core i7,1000,0,Intel,Windows
+Acer,Notebook,4,2.2,9.858883414720411,0,1,141.21199808219862,Other Intel Processor,0,0,Intel,Others
+MSI,Gaming,8,2.4,11.089517135798168,0,0,141.21199808219862,Intel Core i7,1000,128,Nvidia,Windows
+Dell,Notebook,4,2.18,10.538089862097848,0,0,100.45466986113652,Intel Core i5,1000,0,Intel,Windows
+Lenovo,Notebook,4,2.1,9.67600459962282,0,0,111.93520355955212,Other Intel Processor,500,0,Intel,Windows
+Lenovo,2 in 1 Convertible,8,1.37,11.484896292248726,1,1,165.6321180513006,Intel Core i5,0,512,Intel,Windows
+HP,Ultrabook,8,1.83,10.525211768465944,0,1,141.21199808219862,Intel Core i7,0,256,Nvidia,Windows
+Dell,Gaming,8,2.62,10.776844060703754,0,0,141.21199808219862,Intel Core i7,0,0,Nvidia,Windows
+Asus,Notebook,8,2.0,10.34185963789476,0,0,141.21199808219862,Other Intel Processor,0,128,Intel,Windows
+HP,Ultrabook,8,1.54,11.518415853167008,0,0,157.3505121487356,Intel Core i7,0,256,Intel,Windows

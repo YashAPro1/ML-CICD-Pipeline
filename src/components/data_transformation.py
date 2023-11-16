@@ -28,13 +28,13 @@ class DataTransformation:
         
         '''
         try:
-            numerical_columns = ["writing_score", "reading_score"]
+            numerical_columns = ["Ram", "Weight","TouchScreen","Ips","Ppi","HDD","SSD"]
             categorical_columns = [
-                "gender",
-                "race_ethnicity",
-                "parental_level_of_education",
-                "lunch",
-                "test_preparation_course",
+                'Company',
+                'TypeName',
+                'Cpu_brand',
+                'Gpu_brand',
+                'Os',
             ]
 
             num_pipeline= Pipeline(
@@ -85,8 +85,7 @@ class DataTransformation:
 
             preprocessing_obj=self.get_data_transformer_object()
 
-            target_column_name="math_score"
-            numerical_columns = ["writing_score", "reading_score"]
+            target_column_name="Price"
 
             input_feature_train_df=train_df.drop(columns=[target_column_name],axis=1)
             target_feature_train_df=train_df[target_column_name]
@@ -101,10 +100,15 @@ class DataTransformation:
             input_feature_train_arr=preprocessing_obj.fit_transform(input_feature_train_df)
             input_feature_test_arr=preprocessing_obj.transform(input_feature_test_df)
 
-            train_arr = np.c_[
-                input_feature_train_arr, np.array(target_feature_train_df)
-            ]
-            test_arr = np.c_[input_feature_test_arr, np.array(target_feature_test_df)]
+            # train_arr = np.c_[
+            #     input_feature_train_arr, np.array(target_feature_train_df)
+            # ]
+            # test_arr = np.c_[input_feature_test_arr, np.array(target_feature_test_df)]
+            train_arr = input_feature_train_arr
+            train__target_arr = target_feature_train_df
+            test_arr = input_feature_test_arr
+            test__target_arr = target_feature_test_df
+            
 
             logging.info(f"Saved preprocessing object.")
 
@@ -117,7 +121,9 @@ class DataTransformation:
 
             return (
                 train_arr,
-                test_arr
+                test_arr,
+                train__target_arr,
+                test__target_arr
             )
         except Exception as e:
             raise CustomException(e,sys)

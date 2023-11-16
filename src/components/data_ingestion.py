@@ -21,7 +21,7 @@ class DataIngestion:
     def initiate_data(self):
         logging.info("We have started the data ingestion part now...")
         try:
-            df = pd.read_csv("C:/Users/Yashkumar Dubey/Documents/Desktop1/youtube/ML CICD Pipe/notebooks/data/data.csv")
+            df = pd.read_csv("C:/Users/Yashkumar Dubey/Documents/Desktop1/youtube/ML CICD Pipe/notebooks/data/laptop_data_cleaned.csv")
             logging.info("Reaing the Dataset as Dataframe...")
             os.makedirs(os.path.dirname(self.ingestion_conf.train_data_path),exist_ok=True)
             df.to_csv(self.ingestion_conf.raw_data_path,index=False,header=True)
@@ -43,8 +43,8 @@ if __name__=="__main__":
     obj = DataIngestion()
     train_data,test_data = obj.initiate_data()
     transform = DataTransformation()
-    new_train_data,new_test_data = transform.initiate_data_transformation(train_data,test_data)
+    new_train_data,new_test_data,new_y_train,new_y_test = transform.initiate_data_transformation(train_data,test_data)
     modeltrainer=Trained_Model()
-    print(modeltrainer.initialise_training(new_train_data,new_test_data))
+    print(modeltrainer.initialise_training(new_train_data,new_test_data,new_y_train,new_y_test))
 
 

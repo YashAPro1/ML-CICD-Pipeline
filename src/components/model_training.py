@@ -27,14 +27,17 @@ class Trained_Model:
     def __init__(self) -> None:
         self.model_trainer_conf = ModelTrainerConf()
 
-    def initialise_training(self,train_data,test_data):
+    def initialise_training(self,train_data,test_data,y_train,y_test):
         try:
             logging.info("Creating and Spliting the data into my train and test data")
+            # X_train,y_train,X_test,y_test = (
+            #     train_data[:,:-1],
+            #     train_data[:,-1],
+            #     test_data[:,:-1],
+            #     test_data[:,-1]
+            # )
             X_train,y_train,X_test,y_test = (
-                train_data[:,:-1],
-                train_data[:,-1],
-                test_data[:,:-1],
-                test_data[:,-1]
+                train_data,y_train,test_data,y_test
             )
             logging.info("Creating Dictionary of models")
             models = {
@@ -44,7 +47,7 @@ class Trained_Model:
                 "Random Forest": RandomForestRegressor(),
                 # "XGBRegressor": XGBRegressor(),
                 "Linear Regression": LinearRegression(),
-                "CatBoosting Regressor": CatBoostRegressor(verbose=False),
+                # "CatBoosting Regressor": CatBoostRegressor(verbose=False),
                 }
             
             logging.info("Hypertuning the models")
@@ -74,11 +77,11 @@ class Trained_Model:
                     #     'n_estimators': [8,16,32,64,128,256]
                     # },
                     "Linear Regression":{},
-                    "CatBoosting Regressor":{
-                        'depth': [6,8,10],
-                        'learning_rate': [0.01, 0.05, 0.1],
-                        'iterations': [30, 50, 100]
-                    },
+                    # "CatBoosting Regressor":{
+                    #     'depth': [6,8,10],
+                    #     'learning_rate': [0.01, 0.05, 0.1],
+                    #     'iterations': [30, 50, 100]
+                    # },
                     
             }
 

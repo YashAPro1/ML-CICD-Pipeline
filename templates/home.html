@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awesome Laptop Form</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        form {
+            background-color: #fff;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        label {
+            display: block;
+            width: 45%;
+            margin-bottom: 8px;
+        }
+
+        input,
+        select {
+            width: calc(55% - 10px);
+            padding: 10px;
+            margin-bottom: 16px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+
+        button {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-left: 90%;
+
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <label for="ram">RAM:</label>
+        <input type="number" id="ram" name="ram" placeholder="Enter RAM size in GB">
+
+        <label for="weight">Weight:</label>
+        <input type="number" id="weight" name="weight" placeholder="Enter laptop weight in kg">
+
+        <label for="touchscreen">Touch Screen:</label>
+        <select id="touchscreen" name="touchscreen">
+            <option value="yes">Yes</option>
+            <option value="no">No</option>
+        </select>
+
+        <label for="ips">IPS Display:</label>
+        <select id="ips" name="ips">
+            <option value="yes">Yes</option>
+            <option value="no">No</option>
+        </select>
+
+        <label for="ppi">PPI:</label>
+        <input type="number" id="ppi" name="ppi" placeholder="Enter PPI">
+
+        <label for="hdd">HDD:</label>
+        <input type="number" id="hdd" name="hdd" placeholder="Enter HDD size in GB">
+
+        <label for="ssd">SSD:</label>
+        <input type="number" id="ssd" name="ssd" placeholder="Enter SSD size in GB">
+
+        <label for="company">Company:</label>
+        <input type="text" id="company" name="company" placeholder="Enter laptop company">
+
+        <label for="typename">Type Name:</label>
+        <input type="text" id="typename" name="typename" placeholder="Enter laptop type name">
+
+        <label for="cpu_brand">CPU Brand:</label>
+        <input type="text" id="cpu_brand" name="cpu_brand" placeholder="Enter CPU brand">
+
+        <label for="gpu_brand">GPU Brand:</label>
+        <input type="text" id="gpu_brand" name="gpu_brand" placeholder="Enter GPU brand">
+
+        <label for="os">Operating System:</label>
+        <input type="text" id="os" name="os" placeholder="Enter operating system">
+
+        <button type="submit">Submit</button>
+    </form> 
+
+
+    
+
+</body>
+</html>
