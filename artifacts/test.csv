@@ -1,180 +1,201 @@
-PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
-581,1,2,"Christy, Miss. Julie Rachel",female,25.0,1,1,237789,30.0,,S
-842,0,2,"Mudd, Mr. Thomas Charles",male,16.0,0,0,S.O./P.P. 3,10.5,,S
-407,0,3,"Widegren, Mr. Carl/Charles Peter",male,51.0,0,0,347064,7.75,,S
-395,1,3,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24.0,0,2,PP 9549,16.7,G6,S
-454,1,1,"Goldenberg, Mr. Samuel L",male,49.0,1,0,17453,89.1042,C92,C
-672,0,1,"Davidson, Mr. Thornton",male,31.0,1,0,F.C. 12750,52.0,B71,S
-258,1,1,"Cherry, Miss. Gladys",female,30.0,0,0,110152,86.5,B77,S
-529,0,3,"Salonen, Mr. Johan Werner",male,39.0,0,0,3101296,7.925,,S
-434,0,3,"Kallio, Mr. Nikolai Erland",male,17.0,0,0,STON/O 2. 3101274,7.125,,S
-774,0,3,"Elias, Mr. Dibo",male,,0,0,2674,7.225,,C
-21,0,2,"Fynney, Mr. Joseph J",male,35.0,0,0,239865,26.0,,S
-496,0,3,"Yousseff, Mr. Gerious",male,,0,0,2627,14.4583,,C
-156,0,1,"Williams, Mr. Charles Duane",male,51.0,0,1,PC 17597,61.3792,,C
-186,0,1,"Rood, Mr. Hugh Roscoe",male,,0,0,113767,50.0,A32,S
-715,0,2,"Greenberg, Mr. Samuel",male,52.0,0,0,250647,13.0,,S
-623,1,3,"Nakid, Mr. Sahid",male,20.0,1,1,2653,15.7417,,C
-128,1,3,"Madsen, Mr. Fridtjof Arne",male,24.0,0,0,C 17369,7.1417,,S
-271,0,1,"Cairns, Mr. Alexander",male,,0,0,113798,31.0,,S
-835,0,3,"Allum, Mr. Owen George",male,18.0,0,0,2223,8.3,,S
-38,0,3,"Cann, Mr. Ernest Charles",male,21.0,0,0,A./5. 2152,8.05,,S
-667,0,2,"Butler, Mr. Reginald Fenton",male,25.0,0,0,234686,13.0,,S
-388,1,2,"Buss, Miss. Kate",female,36.0,0,0,27849,13.0,,S
-532,0,3,"Toufik, Mr. Nakli",male,,0,0,2641,7.2292,,C
-691,1,1,"Dick, Mr. Albert Adrian",male,31.0,1,0,17474,57.0,B20,S
-483,0,3,"Rouse, Mr. Richard Henry",male,50.0,0,0,A/5 3594,8.05,,S
-373,0,3,"Beavan, Mr. William Thomas",male,19.0,0,0,323951,8.05,,S
-410,0,3,"Lefebre, Miss. Ida",female,,3,1,4133,25.4667,,S
-319,1,1,"Wick, Miss. Mary Natalie",female,31.0,0,2,36928,164.8667,C7,S
-309,0,2,"Abelson, Mr. Samuel",male,30.0,1,0,P/PP 3381,24.0,,C
-290,1,3,"Connolly, Miss. Kate",female,22.0,0,0,370373,7.75,,Q
-188,1,1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45.0,0,0,111428,26.55,,S
-507,1,2,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33.0,0,2,26360,26.0,,S
-314,0,3,"Hendekovic, Mr. Ignjac",male,28.0,0,0,349243,7.8958,,S
-378,0,1,"Widener, Mr. Harry Elkins",male,27.0,0,2,113503,211.5,C82,C
-165,0,3,"Panula, Master. Eino Viljami",male,1.0,4,1,3101295,39.6875,,S
-769,0,3,"Moran, Mr. Daniel J",male,,1,0,371110,24.15,,Q
-7,0,1,"McCarthy, Mr. Timothy J",male,54.0,0,0,17463,51.8625,E46,S
-570,1,3,"Jonsson, Mr. Carl",male,32.0,0,0,350417,7.8542,,S
-115,0,3,"Attalah, Miss. Malake",female,17.0,0,0,2627,14.4583,,C
-456,1,3,"Jalsevac, Mr. Ivan",male,29.0,0,0,349240,7.8958,,C
-633,1,1,"Stahelin-Maeglin, Dr. Max",male,32.0,0,0,13214,30.5,B50,C
-421,0,3,"Gheorgheff, Mr. Stanio",male,,0,0,349254,7.8958,,C
-579,0,3,"Caram, Mrs. Joseph (Maria Elias)",female,,1,0,2689,14.4583,,C
-699,0,1,"Thayer, Mr. John Borland",male,49.0,1,1,17421,110.8833,C68,C
-872,1,1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47.0,1,1,11751,52.5542,D35,S
-591,0,3,"Rintamaki, Mr. Matti",male,35.0,0,0,STON/O 2. 3101273,7.125,,S
-817,0,3,"Heininen, Miss. Wendla Maria",female,23.0,0,0,STON/O2. 3101290,7.925,,S
-641,0,3,"Jensen, Mr. Hans Peder",male,20.0,0,0,350050,7.8542,,S
-793,0,3,"Sage, Miss. Stella Anna",female,,8,2,CA. 2343,69.55,,S
-144,0,3,"Burke, Mr. Jeremiah",male,19.0,0,0,365222,6.75,,Q
-19,0,3,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31.0,1,0,345763,18.0,,S
-256,1,3,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29.0,0,2,2650,15.2458,,C
-736,0,3,"Williams, Mr. Leslie",male,28.5,0,0,54636,16.1,,S
-809,0,2,"Meyer, Mr. August",male,39.0,0,0,248723,13.0,,S
-377,1,3,"Landergren, Miss. Aurora Adelia",female,22.0,0,0,C 7077,7.25,,S
-731,1,1,"Allen, Miss. Elisabeth Walton",female,29.0,0,0,24160,211.3375,B5,S
-886,0,3,"Rice, Mrs. William (Margaret Norton)",female,39.0,0,5,382652,29.125,,Q
-566,0,3,"Davies, Mr. Alfred J",male,24.0,2,0,A/4 48871,24.15,,S
-786,0,3,"Harmer, Mr. Abraham (David Lishin)",male,25.0,0,0,374887,7.25,,S
-211,0,3,"Ali, Mr. Ahmed",male,24.0,0,0,SOTON/O.Q. 3101311,7.05,,S
-151,0,2,"Bateman, Rev. Robert James",male,51.0,0,0,S.O.P. 1166,12.525,,S
-353,0,3,"Elias, Mr. Tannous",male,15.0,1,1,2695,7.2292,,C
-680,1,1,"Cardeza, Mr. Thomas Drake Martinez",male,36.0,0,1,PC 17755,512.3292,B51 B53 B55,C
-208,1,3,"Albimona, Mr. Nassef Cassem",male,26.0,0,0,2699,18.7875,,C
-628,1,1,"Longley, Miss. Gretchen Fiske",female,21.0,0,0,13502,77.9583,D9,S
-118,0,2,"Turpin, Mr. William John Robert",male,29.0,1,0,11668,21.0,,S
-748,1,2,"Sinkkonen, Miss. Anna",female,30.0,0,0,250648,13.0,,S
-723,0,2,"Gillespie, Mr. William Henry",male,34.0,0,0,12233,13.0,,S
-644,1,3,"Foo, Mr. Choong",male,,0,0,1601,56.4958,,S
-150,0,2,"Byles, Rev. Thomas Roussel Davids",male,42.0,0,0,244310,13.0,,S
-449,1,3,"Baclini, Miss. Marie Catherine",female,5.0,2,1,2666,19.2583,,C
-12,1,1,"Bonnell, Miss. Elizabeth",female,58.0,0,0,113783,26.55,C103,S
-275,1,3,"Healy, Miss. Hanora ""Nora""",female,,0,0,370375,7.75,,Q
-194,1,2,"Navratil, Master. Michel M",male,3.0,1,1,230080,26.0,F2,S
-537,0,1,"Butt, Major. Archibald Willingham",male,45.0,0,0,113050,26.55,B38,S
-578,1,1,"Silvey, Mrs. William Baird (Alice Munger)",female,39.0,1,0,13507,55.9,E44,S
-47,0,3,"Lennon, Mr. Denis",male,,1,0,370371,15.5,,Q
-603,0,1,"Harrington, Mr. Charles H",male,,0,0,113796,42.4,,S
-315,0,2,"Hart, Mr. Benjamin",male,43.0,1,1,F.C.C. 13529,26.25,,S
-825,0,3,"Panula, Master. Urho Abraham",male,2.0,4,1,3101295,39.6875,,S
-600,1,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49.0,1,0,PC 17485,56.9292,A20,C
-506,0,1,"Penasco y Castellana, Mr. Victor de Satode",male,18.0,1,0,PC 17758,108.9,C65,C
-675,0,2,"Watson, Mr. Ennis Hastings",male,,0,0,239856,0.0,,S
-332,0,1,"Partner, Mr. Austen",male,45.5,0,0,113043,28.5,C124,S
-158,0,3,"Corn, Mr. Harry",male,30.0,0,0,SOTON/OQ 392090,8.05,,S
-121,0,2,"Hickman, Mr. Stanley George",male,21.0,2,0,S.O.C. 14879,73.5,,S
-192,0,2,"Carbines, Mr. William",male,19.0,0,0,28424,13.0,,S
-433,1,2,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42.0,1,0,SC/AH 3085,26.0,,S
-561,0,3,"Morrow, Mr. Thomas Rowan",male,,0,0,372622,7.75,,Q
-350,0,3,"Dimic, Mr. Jovan",male,42.0,0,0,315088,8.6625,,S
-845,0,3,"Culumovic, Mr. Jeso",male,17.0,0,0,315090,8.6625,,S
-289,1,2,"Hosono, Mr. Masabumi",male,42.0,0,0,237798,13.0,,S
-199,1,3,"Madigan, Miss. Margaret ""Maggie""",female,,0,0,370370,7.75,,Q
-284,1,3,"Dorking, Mr. Edward Arthur",male,19.0,0,0,A/5. 10482,8.05,,S
-274,0,1,"Natsch, Mr. Charles H",male,37.0,0,1,PC 17596,29.7,C118,C
-295,0,3,"Mineff, Mr. Ivan",male,24.0,0,0,349233,7.8958,,S
-636,1,2,"Davis, Miss. Mary",female,28.0,0,0,237668,13.0,,S
-652,1,2,"Doling, Miss. Elsie",female,18.0,0,1,231919,23.0,,S
-5,0,3,"Allen, Mr. William Henry",male,35.0,0,0,373450,8.05,,S
-182,0,2,"Pernot, Mr. Rene",male,,0,0,SC/PARIS 2131,15.05,,C
-318,0,2,"Moraweck, Dr. Ernest",male,54.0,0,0,29011,14.0,,S
-70,0,3,"Kink, Mr. Vincenz",male,26.0,2,0,315151,8.6625,,S
-48,1,3,"O'Driscoll, Miss. Bridget",female,,0,0,14311,7.75,,Q
-546,0,1,"Nicholson, Mr. Arthur Ernest",male,64.0,0,0,693,26.0,,S
-232,0,3,"Larsson, Mr. Bengt Edvin",male,29.0,0,0,347067,7.775,,S
-99,1,2,"Doling, Mrs. John T (Ada Julia Bone)",female,34.0,0,1,231919,23.0,,S
-198,0,3,"Olsen, Mr. Karl Siegwart Andreas",male,42.0,0,1,4579,8.4042,,S
-369,1,3,"Jermyn, Miss. Annie",female,,0,0,14313,7.75,,Q
-255,0,3,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41.0,0,2,370129,20.2125,,S
-575,0,3,"Rush, Mr. Alfred George John",male,16.0,0,0,A/4. 20589,8.05,,S
-666,0,2,"Hickman, Mr. Lewis",male,32.0,2,0,S.O.C. 14879,73.5,,S
-134,1,2,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29.0,1,0,228414,26.0,,S
-846,0,3,"Abbing, Mr. Anthony",male,42.0,0,0,C.A. 5547,7.55,,S
-336,0,3,"Denkoff, Mr. Mitto",male,,0,0,349225,7.8958,,S
-480,1,3,"Hirvonen, Miss. Hildur E",female,2.0,0,1,3101298,12.2875,,S
-630,0,3,"O'Connell, Mr. Patrick D",male,,0,0,334912,7.7333,,Q
-843,1,1,"Serepeca, Miss. Augusta",female,30.0,0,0,113798,31.0,,C
-501,0,3,"Calic, Mr. Petar",male,17.0,0,0,315086,8.6625,,S
-41,0,3,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40.0,1,0,7546,9.475,,S
-511,1,3,"Daly, Mr. Eugene Patrick",male,29.0,0,0,382651,7.75,,Q
-604,0,3,"Torber, Mr. Ernst William",male,44.0,0,0,364511,8.05,,S
-338,1,1,"Burns, Miss. Elizabeth Margaret",female,41.0,0,0,16966,134.5,E40,C
-340,0,1,"Blackwell, Mr. Stephen Weart",male,45.0,0,0,113784,35.5,T,S
-826,0,3,"Flynn, Mr. John",male,,0,0,368323,6.95,,Q
-624,0,3,"Hansen, Mr. Henry Damsgaard",male,21.0,0,0,350029,7.8542,,S
-647,0,3,"Cor, Mr. Liudevit",male,19.0,0,0,349231,7.8958,,S
-527,1,2,"Ridsdale, Miss. Lucy",female,50.0,0,0,W./C. 14258,10.5,,S
-387,0,3,"Goodwin, Master. Sidney Leonard",male,1.0,5,2,CA 2144,46.9,,S
-697,0,3,"Kelly, Mr. James",male,44.0,0,0,363592,8.05,,S
-362,0,2,"del Carlo, Mr. Sebastiano",male,29.0,1,0,SC/PARIS 2167,27.7208,,C
-384,1,1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35.0,1,0,113789,52.0,,S
-558,0,1,"Robbins, Mr. Victor",male,,0,0,PC 17757,227.525,,C
-657,0,3,"Radeff, Mr. Alexander",male,,0,0,349223,7.8958,,S
-681,0,3,"Peters, Miss. Katie",female,,0,0,330935,8.1375,,Q
-775,1,2,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54.0,1,3,29105,23.0,,S
-205,1,3,"Cohen, Mr. Gurshon ""Gus""",male,18.0,0,0,A/5 3540,8.05,,S
-4,1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0,1,0,113803,53.1,C123,S
-343,0,2,"Collander, Mr. Erik Gustaf",male,28.0,0,0,248740,13.0,,S
-180,0,3,"Leonard, Mr. Lionel",male,36.0,0,0,LINE,0.0,,S
-34,0,2,"Wheadon, Mr. Edward H",male,66.0,0,0,C.A. 24579,10.5,,S
-863,1,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48.0,0,0,17466,25.9292,D17,S
-404,0,3,"Hakkarainen, Mr. Pekka Pietari",male,28.0,1,0,STON/O2. 3101279,15.85,,S
-557,1,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48.0,1,0,11755,39.6,A16,C
-31,0,1,"Uruchurtu, Don. Manuel E",male,40.0,0,0,PC 17601,27.7208,,C
-396,0,3,"Johansson, Mr. Erik",male,22.0,0,0,350052,7.7958,,S
-751,1,2,"Wells, Miss. Joan",female,4.0,1,1,29103,23.0,,S
-808,0,3,"Pettersson, Miss. Ellen Natalia",female,18.0,0,0,347087,7.775,,S
-743,1,1,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0,2,2,PC 17608,262.375,B57 B59 B63 B66,C
-446,1,1,"Dodge, Master. Washington",male,4.0,0,2,33638,81.8583,A34,S
-317,1,2,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24.0,1,0,244367,26.0,,S
-615,0,3,"Brocklebank, Mr. William Alfred",male,35.0,0,0,364512,8.05,,S
-714,0,3,"Larsson, Mr. August Viktor",male,29.0,0,0,7545,9.4833,,S
-304,1,2,"Keane, Miss. Nora A",female,,0,0,226593,12.35,E101,Q
-402,0,3,"Adams, Mr. John",male,26.0,0,0,341826,8.05,,S
-508,1,1,"Bradley, Mr. George (""George Arthur Brayton"")",male,,0,0,111427,26.55,,S
-123,0,2,"Nasser, Mr. Nicholas",male,32.5,1,0,237736,30.0708,,C
-804,1,3,"Thomas, Master. Assad Alexander",male,0.42,0,1,2625,8.5167,,C
-500,0,3,"Svensson, Mr. Olof",male,24.0,0,0,350035,7.7958,,S
-616,1,2,"Herman, Miss. Alice",female,24.0,1,2,220845,65.0,,S
-784,0,3,"Johnston, Mr. Andrew G",male,,1,2,W./C. 6607,23.45,,S
-200,0,2,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24.0,0,0,248747,13.0,,S
-550,1,2,"Davies, Master. John Morgan Jr",male,8.0,1,1,C.A. 33112,36.75,,S
-412,0,3,"Hart, Mr. Henry",male,,0,0,394140,6.8583,,Q
-479,0,3,"Karlsson, Mr. Nils August",male,22.0,0,0,350060,7.5208,,S
-386,0,2,"Davies, Mr. Charles Henry",male,18.0,0,0,S.O.C. 14879,73.5,,S
-883,0,3,"Dahlberg, Miss. Gerda Ulrika",female,22.0,0,0,7552,10.5167,,S
-481,0,3,"Goodwin, Master. Harold Victor",male,9.0,5,2,CA 2144,46.9,,S
-181,0,3,"Sage, Miss. Constance Gladys",female,,8,2,CA. 2343,69.55,,S
-878,0,3,"Petroff, Mr. Nedelio",male,19.0,0,0,349212,7.8958,,S
-651,0,3,"Mitkoff, Mr. Mito",male,,0,0,349221,7.8958,,S
-489,0,3,"Somerton, Mr. Francis William",male,30.0,0,0,A.5. 18509,8.05,,S
-813,0,2,"Slemen, Mr. Richard James",male,35.0,0,0,28206,10.5,,S
-359,1,3,"McGovern, Miss. Mary",female,,0,0,330931,7.8792,,Q
-126,1,3,"Nicola-Yarred, Master. Elias",male,12.0,1,0,2651,11.2417,,C
-339,1,3,"Dahl, Mr. Karl Edwart",male,45.0,0,0,7598,8.05,,S
-54,1,2,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29.0,1,0,2926,26.0,,S
-185,1,3,"Kink-Heilmann, Miss. Luise Gretchen",female,4.0,0,2,315153,22.025,,S
-752,1,3,"Moor, Master. Meier",male,6.0,0,1,392096,12.475,E121,S
-712,0,1,"Klaber, Mr. Herman",male,,0,0,113028,26.55,C124,S
+gender,race_ethnicity,parental_level_of_education,lunch,test_preparation_course,math_score,reading_score,writing_score
+female,group B,some college,free/reduced,none,45,53,55
+female,group D,associate's degree,standard,none,76,74,73
+female,group B,some high school,standard,none,70,64,72
+male,group D,master's degree,standard,none,95,81,84
+female,group C,bachelor's degree,standard,completed,59,64,75
+female,group D,associate's degree,free/reduced,none,52,59,56
+female,group C,some college,standard,completed,64,82,77
+female,group A,some high school,standard,none,48,66,65
+female,group B,some college,standard,completed,88,95,92
+female,group E,some high school,free/reduced,none,32,34,38
+female,group B,some high school,free/reduced,completed,63,78,79
+male,group E,some college,standard,none,68,72,65
+female,group D,master's degree,standard,none,92,100,100
+male,group D,some high school,standard,none,86,73,70
+female,group C,bachelor's degree,standard,completed,79,92,89
+female,group E,high school,free/reduced,none,41,45,40
+female,group A,associate's degree,standard,completed,55,65,62
+male,group B,some college,free/reduced,none,40,43,39
+female,group C,bachelor's degree,standard,none,67,69,75
+female,group D,some college,standard,none,65,70,71
+female,group E,associate's degree,free/reduced,none,70,84,81
+female,group C,associate's degree,free/reduced,completed,68,67,69
+male,group C,some high school,free/reduced,none,68,63,54
+male,group D,high school,standard,none,41,52,51
+female,group D,some high school,standard,none,68,71,75
+male,group B,associate's degree,free/reduced,completed,69,70,63
+female,group E,bachelor's degree,standard,completed,71,70,70
+male,group A,some high school,standard,none,51,31,36
+female,group E,master's degree,free/reduced,none,81,86,87
+female,group A,some high school,standard,completed,92,100,97
+female,group E,high school,free/reduced,none,57,58,57
+female,group C,associate's degree,standard,completed,96,96,99
+female,group C,some high school,free/reduced,completed,64,79,77
+female,group C,high school,standard,none,44,61,52
+male,group B,bachelor's degree,standard,none,59,54,51
+female,group B,bachelor's degree,standard,none,52,65,69
+male,group C,associate's degree,standard,none,47,37,35
+male,group D,associate's degree,standard,none,61,48,46
+male,group A,high school,standard,none,57,43,47
+male,group B,some college,free/reduced,none,75,68,65
+male,group C,associate's degree,free/reduced,none,87,73,72
+female,group B,associate's degree,standard,none,49,52,54
+female,group D,associate's degree,free/reduced,none,26,31,38
+male,group B,some high school,standard,completed,51,54,41
+male,group C,some college,standard,none,76,78,75
+male,group C,bachelor's degree,standard,completed,94,90,91
+female,group E,bachelor's degree,standard,completed,99,100,100
+female,group C,bachelor's degree,free/reduced,completed,47,62,66
+female,group D,associate's degree,standard,completed,88,92,95
+female,group C,some college,standard,none,58,59,66
+male,group D,high school,standard,none,66,69,63
+female,group B,bachelor's degree,standard,none,97,97,96
+female,group D,associate's degree,free/reduced,completed,74,88,90
+male,group D,some college,standard,none,79,73,67
+male,group D,bachelor's degree,free/reduced,completed,39,42,38
+female,group B,high school,free/reduced,completed,76,85,82
+male,group B,high school,free/reduced,none,66,77,70
+female,group C,bachelor's degree,free/reduced,none,43,62,61
+male,group E,high school,standard,completed,81,80,76
+male,group D,some college,free/reduced,none,77,62,64
+male,group A,some high school,standard,completed,62,67,69
+male,group B,associate's degree,standard,completed,81,82,82
+female,group D,master's degree,standard,completed,77,82,91
+male,group C,associate's degree,standard,none,58,54,52
+female,group D,some high school,standard,none,73,86,82
+male,group C,master's degree,free/reduced,completed,79,77,75
+male,group A,some high school,free/reduced,none,68,72,64
+male,group D,high school,free/reduced,none,60,57,51
+female,group E,high school,standard,completed,74,79,80
+male,group C,master's degree,standard,none,71,67,67
+male,group A,associate's degree,free/reduced,completed,79,82,82
+male,group B,some high school,standard,completed,65,66,62
+female,group D,some college,free/reduced,completed,59,78,76
+male,group D,some high school,standard,none,74,74,72
+female,group B,some high school,free/reduced,completed,74,90,88
+female,group E,bachelor's degree,free/reduced,completed,92,100,100
+male,group D,some college,free/reduced,completed,69,60,63
+female,group C,high school,standard,none,29,29,30
+female,group B,master's degree,free/reduced,completed,58,76,78
+male,group C,high school,standard,none,71,79,71
+female,group C,associate's degree,standard,completed,75,82,90
+female,group B,some high school,free/reduced,none,24,38,27
+female,group D,bachelor's degree,standard,none,78,82,79
+female,group D,some high school,standard,completed,66,78,78
+male,group B,high school,standard,none,52,48,49
+male,group C,associate's degree,free/reduced,none,58,55,53
+male,group D,some college,standard,none,81,82,84
+female,group D,high school,standard,none,78,81,80
+male,group D,associate's degree,standard,completed,67,54,63
+female,group C,some high school,standard,none,63,73,68
+male,group B,some high school,standard,completed,94,86,87
+male,group C,some college,standard,none,84,87,81
+male,group C,associate's degree,standard,none,83,72,78
+female,group D,some college,standard,completed,85,86,98
+male,group D,bachelor's degree,free/reduced,none,68,68,67
+male,group C,associate's degree,free/reduced,none,55,61,54
+female,group A,some high school,standard,completed,85,90,92
+male,group C,high school,standard,none,71,66,65
+male,group B,some college,standard,none,54,52,51
+female,group B,high school,standard,none,58,68,61
+female,group C,bachelor's degree,free/reduced,completed,66,74,81
+female,group D,high school,standard,completed,56,68,74
+male,group B,bachelor's degree,free/reduced,none,88,75,76
+female,group D,some college,standard,completed,69,79,81
+male,group D,some college,standard,none,76,64,66
+female,group C,some college,standard,none,53,62,56
+female,group E,associate's degree,free/reduced,completed,83,86,88
+male,group D,some college,standard,completed,76,83,79
+female,group C,some college,free/reduced,completed,63,73,71
+male,group B,some college,free/reduced,none,60,60,60
+male,group A,bachelor's degree,standard,completed,75,58,62
+male,group C,associate's degree,standard,completed,78,77,77
+female,group D,some high school,free/reduced,none,50,64,59
+male,group A,associate's degree,standard,none,63,61,61
+female,group D,some high school,standard,completed,97,100,100
+male,group D,some college,standard,none,76,71,73
+female,group C,some college,standard,completed,75,81,84
+female,group B,bachelor's degree,standard,completed,65,81,81
+male,group B,bachelor's degree,standard,none,63,71,69
+male,group A,associate's degree,standard,none,67,57,53
+female,group A,high school,free/reduced,completed,34,48,41
+female,group D,some college,free/reduced,none,58,67,62
+male,group C,high school,free/reduced,completed,58,51,52
+female,group D,high school,standard,none,51,66,62
+male,group B,some high school,standard,none,74,63,57
+male,group D,associate's degree,standard,none,40,52,43
+male,group D,some college,standard,completed,77,62,62
+female,group B,some college,standard,none,79,86,92
+male,group C,master's degree,free/reduced,completed,46,42,46
+male,group C,master's degree,free/reduced,none,79,81,71
+female,group C,associate's degree,standard,none,49,53,53
+female,group C,some college,standard,none,71,81,80
+female,group D,some college,standard,none,74,89,84
+male,group E,bachelor's degree,free/reduced,completed,70,68,72
+male,group D,some high school,free/reduced,completed,80,79,79
+female,group C,some college,standard,completed,63,78,80
+male,group C,bachelor's degree,standard,none,86,83,86
+male,group B,some college,free/reduced,none,55,55,47
+male,group C,some college,free/reduced,none,65,58,49
+male,group E,high school,standard,none,84,73,69
+female,group C,some high school,free/reduced,none,44,50,51
+female,group C,high school,free/reduced,none,42,62,60
+female,group D,associate's degree,standard,completed,57,78,79
+male,group C,bachelor's degree,standard,none,83,78,73
+female,group D,bachelor's degree,free/reduced,none,78,90,93
+male,group C,some college,free/reduced,completed,67,74,70
+male,group D,high school,standard,none,54,52,52
+female,group C,some high school,standard,completed,67,74,77
+female,group C,bachelor's degree,free/reduced,none,50,60,59
+female,group C,associate's degree,standard,none,58,73,68
+female,group C,some college,free/reduced,none,46,64,66
+male,group B,bachelor's degree,free/reduced,none,62,63,56
+male,group C,associate's degree,standard,none,85,76,71
+female,group B,high school,standard,completed,69,76,74
+male,group E,some high school,standard,completed,68,51,57
+male,group E,associate's degree,standard,none,53,45,40
+male,group B,some college,standard,completed,91,96,91
+male,group D,associate's degree,free/reduced,none,81,75,78
+female,group C,bachelor's degree,standard,none,81,88,90
+male,group D,some high school,standard,none,81,78,78
+female,group C,high school,standard,none,66,71,76
+male,group E,associate's degree,free/reduced,none,64,56,52
+male,group D,some college,free/reduced,none,59,62,61
+female,group D,associate's degree,free/reduced,none,43,60,58
+male,group D,some college,standard,completed,65,77,74
+female,group C,associate's degree,standard,completed,55,72,79
+female,group D,high school,standard,completed,88,99,100
+female,group C,associate's degree,standard,none,39,64,57
+female,group C,high school,free/reduced,completed,67,79,84
+female,group C,associate's degree,free/reduced,completed,82,93,93
+male,group A,bachelor's degree,standard,completed,87,84,87
+female,group E,bachelor's degree,standard,none,64,73,70
+female,group E,high school,standard,none,74,81,71
+female,group E,some college,standard,none,100,92,97
+female,group C,bachelor's degree,standard,none,65,79,81
+female,group C,some high school,free/reduced,none,48,58,52
+female,group D,some college,standard,completed,74,75,79
+female,group A,some college,standard,none,56,58,64
+male,group D,associate's degree,standard,none,75,68,64
+male,group D,some high school,standard,none,84,84,80
+male,group C,high school,standard,none,70,74,71
+male,group C,some college,standard,none,59,41,42
+male,group E,high school,free/reduced,none,55,56,51
+male,group B,some college,standard,completed,88,85,76
+male,group A,some college,free/reduced,none,58,60,57
+female,group C,some college,standard,completed,70,89,88
+female,group E,master's degree,standard,none,81,92,91
+male,group D,high school,free/reduced,completed,78,77,80
+male,group D,bachelor's degree,free/reduced,none,50,42,48
+female,group D,some college,standard,completed,68,78,77
+female,group B,high school,standard,none,54,64,68
+male,group E,bachelor's degree,standard,completed,76,62,66
+female,group B,bachelor's degree,free/reduced,none,78,79,76
+male,group A,high school,standard,none,57,51,54
+female,group C,high school,free/reduced,none,53,72,64
+male,group C,master's degree,standard,completed,91,85,85
+female,group D,some college,free/reduced,completed,52,59,65
+male,group B,associate's degree,standard,none,48,43,45
+male,group A,associate's degree,free/reduced,none,47,57,44
+female,group C,some college,standard,none,73,76,78
